@@ -1,0 +1,1531 @@
+﻿Log file open, 09/16/20 23:10:58
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: MuseoVirtualUdem
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(1333505093) SRandInit(1333505094).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3832480, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 1.031986
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Marketplace/GameSparks/Binaries/Win64/UE4Editor-GameSparks.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Marketplace/GameSparks/Binaries/Win64/UE4Editor-OnlineSubsystemGameSparks.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin GameSparks
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3832480
+LogInit: Engine Version: 4.18.3-3832480+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Jan 12 2018 02:04:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line: 
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2020.09.17-04.11.29:960][  0]LogInit: Selected Device Profile: [Windows]
+[2020.09.17-04.11.29:961][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.09.17-04.11.30:026][  0]LogInit: Computer: DESKTOP-IJ1U86O
+[2020.09.17-04.11.30:026][  0]LogInit: User: DANIELFS
+[2020.09.17-04.11.30:026][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.09.17-04.11.30:026][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.09.17-04.11.30:027][  0]LogMemory: Memory total: Physical=6.9GB (7GB approx)
+[2020.09.17-04.11.30:028][  0]LogMemory: Platform Memory Stats for Windows
+[2020.09.17-04.11.30:028][  0]LogMemory: Process Physical Memory: 272.88 MB used, 272.88 MB peak
+[2020.09.17-04.11.30:028][  0]LogMemory: Process Virtual Memory: 277.60 MB used, 277.60 MB peak
+[2020.09.17-04.11.30:028][  0]LogMemory: Physical Memory: 4487.56 MB used,  2610.98 MB free, 7098.54 MB total
+[2020.09.17-04.11.30:028][  0]LogMemory: Virtual Memory: 4756.55 MB used,  2610.98 MB free, 134217728.00 MB total
+[2020.09.17-04.11.34:951][  0]LogInit: Overriding language with editor language configuration option (en).
+[2020.09.17-04.11.34:951][  0]LogInit: Overriding locale with editor locale configuration option (en).
+[2020.09.17-04.11.39:422][  0]LogInit: Setting process to per monitor DPI aware
+[2020.09.17-04.11.44:707][  0]LogD3D11RHI: D3D11 adapters:
+[2020.09.17-04.11.45:069][  0]LogD3D11RHI:    0. 'AMD Radeon(TM) R7 Graphics' (Feature Level 11_0)
+[2020.09.17-04.11.45:069][  0]LogD3D11RHI:       1004/0/3549 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x1002
+[2020.09.17-04.11.45:087][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.09.17-04.11.45:087][  0]LogD3D11RHI:       0/0/3549 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.09.17-04.11.45:087][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.09.17-04.11.45:160][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.09.17-04.11.45:162][  0]LogD3D11RHI:     GPU DeviceId: 0x1309 (for the marketing name, search the web for "GPU Device Id")
+[2020.09.17-04.11.45:162][  0]LogWindows: EnumDisplayDevices:
+[2020.09.17-04.11.45:163][  0]LogWindows:    0. 'AMD Radeon(TM) R7 Graphics' (P:1 D:1)
+[2020.09.17-04.11.45:166][  0]LogWindows:    1. 'AMD Radeon(TM) R7 Graphics' (P:0 D:0)
+[2020.09.17-04.11.45:168][  0]LogWindows:    2. 'AMD Radeon(TM) R7 Graphics' (P:0 D:0)
+[2020.09.17-04.11.45:170][  0]LogWindows:    3. 'AMD Radeon(TM) R7 Graphics' (P:0 D:0)
+[2020.09.17-04.11.45:171][  0]LogWindows:    4. 'AMD Radeon(TM) R7 Graphics' (P:0 D:0)
+[2020.09.17-04.11.45:174][  0]LogWindows:    5. 'AMD Radeon(TM) R7 Graphics' (P:0 D:0)
+[2020.09.17-04.11.45:174][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2020.09.17-04.11.45:174][  0]LogD3D11RHI:     Adapter Name: AMD Radeon(TM) R7 Graphics
+[2020.09.17-04.11.45:174][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2020.09.17-04.11.45:174][  0]LogD3D11RHI:      Driver Date: Unknown
+[2020.09.17-04.11.45:174][  0]LogRHI: Texture pool is 703 MB (70% of 1004 MB)
+[2020.09.17-04.11.45:554][  0]LogD3D11RHI: Async texture creation enabled
+[2020.09.17-04.11.45:699][  0]LogD3D11RHI: GPU Timing Frequency: 27.000000 (Debug: 2 2)
+[2020.09.17-04.11.45:704][  0]LogShaderCompilers: Guid format shader working directory is -18 characters bigger than the processId version (../../../../../../Users/DANIEL_FS/Documents/GitHub/MuseoVirtualUdeM/Intermediate/Shaders/WorkingDirectory/40184/).
+[2020.09.17-04.11.45:707][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/DANIEL_FS/AppData/Local/Temp/UnrealShaderWorkingDir/FA95F9E44DEBD6444A2217BC99359753/'.
+[2020.09.17-04.11.45:707][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.09.17-04.11.58:841][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2020.09.17-04.11.59:692][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2020.09.17-04.12.00:646][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2020.09.17-04.12.01:863][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2020.09.17-04.12.02:876][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2020.09.17-04.12.03:671][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2020.09.17-04.12.04:664][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2020.09.17-04.12.05:741][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2020.09.17-04.12.06:478][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2020.09.17-04.12.07:483][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2020.09.17-04.12.08:416][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2020.09.17-04.12.09:353][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2020.09.17-04.12.10:368][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2020.09.17-04.12.11:213][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2020.09.17-04.12.13:115][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2020.09.17-04.12.13:115][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2020.09.17-04.12.14:144][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.09.17-04.12.14:832][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2020.09.17-04.12.16:295][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2020.09.17-04.12.16:765][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2020.09.17-04.12.17:684][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2020.09.17-04.12.18:749][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2020.09.17-04.12.19:703][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2020.09.17-04.12.20:756][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2020.09.17-04.12.20:756][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.09.17-04.12.30:909][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.09.17-04.12.31:772][  0]LogDerivedDataCache: Loaded boot cache 0.86s 78MB C:/Users/DANIEL_FS/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2020.09.17-04.12.31:772][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/DANIEL_FS/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2020.09.17-04.12.31:772][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/DANIEL_FS/Documents/GitHub/MuseoVirtualUdeM/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.09.17-04.12.31:773][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.09.17-04.12.31:773][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/DANIEL_FS/Documents/GitHub/MuseoVirtualUdeM/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.09.17-04.12.31:773][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.09.17-04.12.31:971][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.09.17-04.12.32:018][  0]LogDerivedDataCache: Using Local data cache path C:/Users/DANIEL_FS/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.09.17-04.12.32:107][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.09.17-04.12.32:110][  0]LogSlate: Using Freetype 2.6.0
+[2020.09.17-04.12.32:117][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.09.17-04.12.32:117][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.09.17-04.12.37:159][  0]LogInit: Selected Device Profile: [Windows]
+[2020.09.17-04.12.45:041][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2020.09.17-04.12.46:500][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2020.09.17-04.12.46:500][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.09.17-04.12.46:500][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2020.09.17-04.12.46:500][  0]LogMeshReduction: No automatic mesh merging module available
+[2020.09.17-04.12.46:500][  0]LogMeshMerging: No automatic mesh merging module available
+[2020.09.17-04.12.47:789][  0]LogNetVersion: MuseoVirtualUdem , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 2631075334)
+[2020.09.17-04.12.49:975][  0]LogAssetRegistry: FAssetRegistry took 0.0684 seconds to start up
+[2020.09.17-04.12.55:451][  0]LogPackageLocalizationCache: Processed 8 localized package path(s) for 1 prioritized culture(s) in 0.307913 seconds
+[2020.09.17-04.12.55:503][  0]LogUObjectArray: 35870 objects as part of root set at end of initial load.
+[2020.09.17-04.12.55:503][  0]LogUObjectAllocator: 7363704 out of 0 bytes used by permanent object pool.
+[2020.09.17-04.12.55:504][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.09.17-04.12.57:102][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2020.09.17-04.13.59:489][  0]UGameSparksModuleLog: Warning: GameSparks::StartupModule
+[2020.09.17-04.13.59:905][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.09.17-04.14.00:365][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.09.17-04.14.08:065][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2020.09.17-04.14.13:002][  0]SourceControl: Source control is disabled
+[2020.09.17-04.14.13:002][  0]SourceControl: Source control is disabled
+[2020.09.17-04.14.13:984][  0]SourceControl: Source control is disabled
+[2020.09.17-04.14.14:703][  0]SourceControl: Source control is disabled
+[2020.09.17-04.14.25:733][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.09.17-04.14.29:927][  0]LogOcInput: OculusInput pre-init called
+[2020.09.17-04.14.35:686][  0]LogEngine: Initializing Engine...
+[2020.09.17-04.14.35:708][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.09.17-04.14.37:311][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2020.09.17-04.14.37:312][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2020.09.17-04.14.40:679][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.09.17-04.14.40:807][  0]LogInit: XAudio2 using 'Altavoces (Conexant SmartAudio HD)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2020.09.17-04.14.41:104][  0]LogInit: FAudioDevice initialized.
+[2020.09.17-04.14.41:632][  0]LogDerivedDataCache: Saved boot cache 0.53s 78MB C:/Users/DANIEL_FS/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2020.09.17-04.14.41:725][  0]LogInit: Texture streaming: Enabled
+[2020.09.17-04.14.44:628][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.09.17-04.14.46:818][  0]LogInit: Transaction tracking system initialized
+[2020.09.17-04.14.51:583][  0]BlueprintLog: New page: Editor Load
+[2020.09.17-04.15.10:015][  0]LocalizationService: Localization service is disabled
+[2020.09.17-04.15.20:249][  0]LogConsoleResponse: Display: 
+[2020.09.17-04.15.21:393][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.09.17-04.15.21:394][  0]LogCook: Display: Mobile HDR setting 1
+[2020.09.17-04.15.21:394][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2020.09.17-04.15.21:442][  0]LogFileCache: Scanning file cache for directory 'C:/Users/DANIEL_FS/Documents/GitHub/MuseoVirtualUdeM/Content/' took 0.04s
+[2020.09.17-04.15.35:640][  0]SourceControl: Source control is disabled
+[2020.09.17-04.15.35:770][  0]LogSlate: Took 0.000802 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.09.17-04.16.16:513][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.09.17-04.16.16:671][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.09.17-04.16.16:673][  0]Cmd: MAP LOAD FILE="../../../../../../Users/DANIEL_FS/Documents/GitHub/MuseoVirtualUdeM/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.09.17-04.16.16:674][  0]LightingResults: New page: Lighting Build
+[2020.09.17-04.16.17:104][  0]MapCheck: New page: Map Check
+[2020.09.17-04.16.17:105][  0]LightingResults: New page: Lighting Build
+[2020.09.17-04.16.18:816][  0]LogLinker: Warning: Can't find file '/Game/Geometry/Meshes/TemplateFloor'
+[2020.09.17-04.16.18:817][  0]LogLinker: Warning: Can't find file for asset '/Game/Geometry/Meshes/TemplateFloor' while loading ../../../../../../Users/DANIEL_FS/Documents/GitHub/MuseoVirtualUdeM/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap.
+[2020.09.17-04.16.18:817][  0]LoadErrors: Error: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap : Can't find file for asset. /Game/Geometry/Meshes/TemplateFloor
+[2020.09.17-04.16.18:824][  0]LogLinker: Warning: Can't find file '/Game/Geometry/Meshes/TemplateFloor'
+[2020.09.17-04.16.18:824][  0]LogLinker: Warning: Can't find file for asset '/Game/Geometry/Meshes/TemplateFloor' while loading ../../../../../../Users/DANIEL_FS/Documents/GitHub/MuseoVirtualUdeM/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap.
+[2020.09.17-04.16.18:824][  0]LoadErrors: Error: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap : Can't find file for asset. /Game/Geometry/Meshes/TemplateFloor
+[2020.09.17-04.16.18:844][  0]LogLinker: Warning: Can't find file '/Game/Geometry/Meshes/TemplateFloor'
+[2020.09.17-04.16.18:845][  0]LogLinker: Warning: Can't find file for asset '/Game/Geometry/Meshes/TemplateFloor' while loading NULL.
+[2020.09.17-04.16.18:845][  0]LogLinker: Warning: Can't find file '/Game/Geometry/Meshes/TemplateFloor'
+[2020.09.17-04.16.18:846][  0]LogLinker: Warning: Can't find file for asset '/Game/Geometry/Meshes/TemplateFloor' while loading NULL.
+[2020.09.17-04.16.19:031][  0]LogLinker: Warning: Can't find file '/Game/Geometry/Meshes/TemplateFloor'
+[2020.09.17-04.16.19:031][  0]LoadErrors: Failed to load /Game/Geometry/Meshes/TemplateFloor.TemplateFloor Referenced by StaticMeshComponent0
+[2020.09.17-04.16.19:032][  0]LogLinker: Warning: Can't find file for asset '/Game/Geometry/Meshes/TemplateFloor' while loading NULL.
+[2020.09.17-04.16.19:032][  0]LoadErrors: Failed to load /Game/Geometry/Meshes/TemplateFloor.TemplateFloor Referenced by StaticMeshComponent0
+[2020.09.17-04.16.19:858][  0]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 64X64)
+[2020.09.17-04.16.19:858][  0]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2020.09.17-04.16.19:858][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2020.09.17-04.16.21:577][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 64X64)
+[2020.09.17-04.16.21:577][  0]LogTexture: Display: Building textures: SkyOcclusion1_1 (AutoDXT, 1024X512)
+[2020.09.17-04.16.21:577][  0]LogTexture: Display: Building textures: SkyOcclusion1_2 (AutoDXT, 64X32)
+[2020.09.17-04.16.21:588][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.09.17-04.16.21:659][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.09.17-04.16.21:726][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.09.17-04.16.22:256][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 529.519ms to complete.
+[2020.09.17-04.16.22:257][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 5.584
+[2020.09.17-04.16.22:807][  0]LogStats: Warning: MetaData mismatch. Did you assign a stat to two groups? New //STATGROUP_Threads//SplashScreenThread///Thread_272c_0///####STATCAT_Advanced#### old //STATGROUP_Threads//SplashScreenThread///Thread_a294_0///####STATCAT_Advanced####
+[2020.09.17-04.16.22:807][  0]LogCollectionManager: Loaded 0 collections in 0.018180 seconds
+[2020.09.17-04.16.23:268][  0]LogFileCache: Scanning file cache for directory 'C:/Users/DANIEL_FS/Documents/GitHub/MuseoVirtualUdeM/Saved/Collections/' took 0.01s
+[2020.09.17-04.16.23:268][  0]LogFileCache: Scanning file cache for directory 'C:/Users/DANIEL_FS/Documents/GitHub/MuseoVirtualUdeM/Content/Developers/DANIELFS/Collections/' took 0.01s
+[2020.09.17-04.16.23:268][  0]LogFileCache: Scanning file cache for directory 'C:/Users/DANIEL_FS/Documents/GitHub/MuseoVirtualUdeM/Content/Collections/' took 0.01s
+[2020.09.17-04.16.23:268][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2020.09.17-04.16.23:306][  0]LogContentBrowser: Native class hierarchy populated in 0.0376 seconds. Added 2462 classes and 523 folders.
+[2020.09.17-04.16.24:004][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2020.09.17-04.16.24:052][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0008 seconds. Added 0 classes and 0 folders.
+[2020.09.17-04.16.24:496][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0010 seconds. Added 1 classes and 2 folders.
+[2020.09.17-04.16.24:586][  0]LogSlate: Took 0.000946 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.09.17-04.16.24:601][  0]LogSlate: Took 0.003654 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.09.17-04.16.25:121][  0]LogRenderer: Reallocating scene render targets to support 816x396 Format 10 NumSamples 1 (Frame:1).
+[2020.09.17-04.16.26:232][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0008 seconds. Added 1 classes and 2 folders.
+[2020.09.17-04.16.26:233][  0]LogLoad: (Engine Initialization) Total time: 338.11 seconds
+[2020.09.17-04.16.26:233][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.09.17-04.16.26:234][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2020.09.17-04.16.26:234][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2020.09.17-04.16.26:292][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.09.17-04.16.26:764][  4]LogAssetRegistry: Asset discovery search completed in 216.8176 seconds
+[2020.09.17-04.16.26:771][  4]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2020.09.17-04.16.26:772][  4]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000255 seconds (updated 0 objects)
+[2020.09.17-04.16.36:646][438]LogSlate: Took 0.008482 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2020.09.17-04.16.39:648][589]LogSlate: Took 0.003302 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2020.09.17-04.16.39:725][589]Cmd: MAP LOAD FILE="../../../../../../Users/DANIEL_FS/Documents/GitHub/MuseoVirtualUdeM/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.09.17-04.16.39:725][589]LightingResults: New page: Lighting Build
+[2020.09.17-04.16.39:727][589]LoadErrors: New page: Loading map: ThirdPersonExampleMap.umap
+[2020.09.17-04.16.39:729][589]MapCheck: New page: Map Check
+[2020.09.17-04.16.39:729][589]LightingResults: New page: Lighting Build
+[2020.09.17-04.16.39:820][589]LogLinker: Warning: Can't find file '/Game/Geometry/Meshes/TemplateFloor'
+[2020.09.17-04.16.39:821][589]LogLinker: Warning: Can't find file for asset '/Game/Geometry/Meshes/TemplateFloor' while loading ../../../../../../Users/DANIEL_FS/Documents/GitHub/MuseoVirtualUdeM/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap.
+[2020.09.17-04.16.39:821][589]LoadErrors: Error: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap : Can't find file for asset. /Game/Geometry/Meshes/TemplateFloor
+[2020.09.17-04.16.39:827][589]LogLinker: Warning: Can't find file '/Game/Geometry/Meshes/TemplateFloor'
+[2020.09.17-04.16.39:828][589]LogLinker: Warning: Can't find file for asset '/Game/Geometry/Meshes/TemplateFloor' while loading ../../../../../../Users/DANIEL_FS/Documents/GitHub/MuseoVirtualUdeM/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap.
+[2020.09.17-04.16.39:832][589]LogLinker: Warning: Can't find file '/Game/Geometry/Meshes/TemplateFloor'
+[2020.09.17-04.16.39:832][589]LogLinker: Warning: Can't find file for asset '/Game/Geometry/Meshes/TemplateFloor' while loading NULL.
+[2020.09.17-04.16.39:836][589]LogLinker: Warning: Can't find file '/Game/Geometry/Meshes/TemplateFloor'
+[2020.09.17-04.16.39:837][589]LogLinker: Warning: Can't find file for asset '/Game/Geometry/Meshes/TemplateFloor' while loading NULL.
+[2020.09.17-04.16.39:875][589]LogLinker: Warning: Can't find file '/Game/Geometry/Meshes/TemplateFloor'
+[2020.09.17-04.16.39:876][589]LoadErrors: Failed to load /Game/Geometry/Meshes/TemplateFloor.TemplateFloor Referenced by Floor_1
+[2020.09.17-04.16.39:876][589]LogLinker: Warning: Can't find file for asset '/Game/Geometry/Meshes/TemplateFloor' while loading NULL.
+[2020.09.17-04.16.39:948][589]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.09.17-04.16.39:982][589]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.09.17-04.16.40:165][589]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.09.17-04.16.40:562][589]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 396.973ms to complete.
+[2020.09.17-04.16.40:565][589]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.842
+[2020.09.17-04.16.53:562][254]Cmd: MAP LOAD FILE="../../../../../../Users/DANIEL_FS/Documents/GitHub/MuseoVirtualUdeM/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.09.17-04.16.53:562][254]LightingResults: New page: Lighting Build
+[2020.09.17-04.16.53:564][254]LoadErrors: New page: Loading map: ThirdPersonExampleMap.umap
+[2020.09.17-04.16.53:566][254]MapCheck: New page: Map Check
+[2020.09.17-04.16.53:566][254]LightingResults: New page: Lighting Build
+[2020.09.17-04.16.53:652][254]LogLinker: Warning: Can't find file '/Game/Geometry/Meshes/TemplateFloor'
+[2020.09.17-04.16.53:652][254]LogLinker: Warning: Can't find file for asset '/Game/Geometry/Meshes/TemplateFloor' while loading ../../../../../../Users/DANIEL_FS/Documents/GitHub/MuseoVirtualUdeM/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap.
+[2020.09.17-04.16.53:652][254]LoadErrors: Error: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap : Can't find file for asset. /Game/Geometry/Meshes/TemplateFloor
+[2020.09.17-04.16.53:657][254]LogLinker: Warning: Can't find file '/Game/Geometry/Meshes/TemplateFloor'
+[2020.09.17-04.16.53:658][254]LogLinker: Warning: Can't find file for asset '/Game/Geometry/Meshes/TemplateFloor' while loading ../../../../../../Users/DANIEL_FS/Documents/GitHub/MuseoVirtualUdeM/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap.
+[2020.09.17-04.16.53:666][254]LogLinker: Warning: Can't find file '/Game/Geometry/Meshes/TemplateFloor'
+[2020.09.17-04.16.53:666][254]LogLinker: Warning: Can't find file for asset '/Game/Geometry/Meshes/TemplateFloor' while loading NULL.
+[2020.09.17-04.16.53:667][254]LogLinker: Warning: Can't find file '/Game/Geometry/Meshes/TemplateFloor'
+[2020.09.17-04.16.53:668][254]LogLinker: Warning: Can't find file for asset '/Game/Geometry/Meshes/TemplateFloor' while loading NULL.
+[2020.09.17-04.16.53:702][254]LogLinker: Warning: Can't find file '/Game/Geometry/Meshes/TemplateFloor'
+[2020.09.17-04.16.53:703][254]LoadErrors: Failed to load /Game/Geometry/Meshes/TemplateFloor.TemplateFloor Referenced by Floor_1
+[2020.09.17-04.16.53:703][254]LogLinker: Warning: Can't find file for asset '/Game/Geometry/Meshes/TemplateFloor' while loading NULL.
+[2020.09.17-04.16.53:781][254]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.09.17-04.16.53:799][254]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.09.17-04.16.53:947][254]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.09.17-04.16.54:426][254]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 478.336ms to complete.
+[2020.09.17-04.16.54:429][254]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.869
+[2020.09.17-04.17.06:117][778]Cmd: MAP LOAD FILE="../../../../../../Users/DANIEL_FS/Documents/GitHub/MuseoVirtualUdeM/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.09.17-04.17.06:118][778]LightingResults: New page: Lighting Build
+[2020.09.17-04.17.06:120][778]LoadErrors: New page: Loading map: ThirdPersonExampleMap.umap
+[2020.09.17-04.17.06:121][778]MapCheck: New page: Map Check
+[2020.09.17-04.17.06:122][778]LightingResults: New page: Lighting Build
+[2020.09.17-04.17.06:199][778]LogLinker: Warning: Can't find file '/Game/Geometry/Meshes/TemplateFloor'
+[2020.09.17-04.17.06:200][778]LogLinker: Warning: Can't find file for asset '/Game/Geometry/Meshes/TemplateFloor' while loading ../../../../../../Users/DANIEL_FS/Documents/GitHub/MuseoVirtualUdeM/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap.
+[2020.09.17-04.17.06:200][778]LoadErrors: Error: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap : Can't find file for asset. /Game/Geometry/Meshes/TemplateFloor
+[2020.09.17-04.17.06:206][778]LogLinker: Warning: Can't find file '/Game/Geometry/Meshes/TemplateFloor'
+[2020.09.17-04.17.06:206][778]LogLinker: Warning: Can't find file for asset '/Game/Geometry/Meshes/TemplateFloor' while loading ../../../../../../Users/DANIEL_FS/Documents/GitHub/MuseoVirtualUdeM/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap.
+[2020.09.17-04.17.06:210][778]LogLinker: Warning: Can't find file '/Game/Geometry/Meshes/TemplateFloor'
+[2020.09.17-04.17.06:211][778]LogLinker: Warning: Can't find file for asset '/Game/Geometry/Meshes/TemplateFloor' while loading NULL.
+[2020.09.17-04.17.06:211][778]LogLinker: Warning: Can't find file '/Game/Geometry/Meshes/TemplateFloor'
+[2020.09.17-04.17.06:212][778]LogLinker: Warning: Can't find file for asset '/Game/Geometry/Meshes/TemplateFloor' while loading NULL.
+[2020.09.17-04.17.06:252][778]LogLinker: Warning: Can't find file '/Game/Geometry/Meshes/TemplateFloor'
+[2020.09.17-04.17.06:252][778]LoadErrors: Failed to load /Game/Geometry/Meshes/TemplateFloor.TemplateFloor Referenced by Floor_1
+[2020.09.17-04.17.06:253][778]LogLinker: Warning: Can't find file for asset '/Game/Geometry/Meshes/TemplateFloor' while loading NULL.
+[2020.09.17-04.17.06:337][778]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.09.17-04.17.06:372][778]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.09.17-04.17.06:532][778]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.09.17-04.17.06:948][778]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 415.221ms to complete.
+[2020.09.17-04.17.06:951][778]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.836
+[2020.09.17-04.17.17:797][253]LogSlate: Took 0.001548 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2020.09.17-04.17.50:900][462]Cmd: TRANSACTION UNDO
+[2020.09.17-04.17.50:901][462]LogEditorTransaction: Undo Move Actors
+[2020.09.17-04.18.01:894][797]Cmd: TRANSACTION UNDO
+[2020.09.17-04.18.01:894][797]LogEditorTransaction: Undo Move Actors
+[2020.09.17-04.18.08:719][  4]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.09.17-04.18.39:721][219]LogSlate: Took 0.005023 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2020.09.17-04.18.51:168][644]LogSavePackage: Save=533.70ms
+[2020.09.17-04.18.51:168][644]LogSavePackage: Moving '../../../../../../Users/DANIEL_FS/Documents/GitHub/MuseoVirtualUdeM/Saved/ThirdPersonExampleMap52840E3B457CB8D8F414FEA23DAA664E.tmp' to '../../../../../../Users/DANIEL_FS/Documents/GitHub/MuseoVirtualUdeM/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2020.09.17-04.18.51:195][644]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/DANIEL_FS/Documents/GitHub/MuseoVirtualUdeM/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2020.09.17-04.18.51:922][644]LogSavePackage: Save=538.34ms
+[2020.09.17-04.18.51:922][644]LogSavePackage: Moving '../../../../../../Users/DANIEL_FS/Documents/GitHub/MuseoVirtualUdeM/Saved/ThirdPersonExampleMap_BuiltDataC75C6B7C40C818E2B91AEA8C99C1667C.tmp' to '../../../../../../Users/DANIEL_FS/Documents/GitHub/MuseoVirtualUdeM/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2020.09.17-04.18.51:929][644]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/DANIEL_FS/Documents/GitHub/MuseoVirtualUdeM/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset
+[2020.09.17-04.18.52:961][679]LogTemp: Repeating last play command: Selected Viewport
+[2020.09.17-04.18.53:220][679]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.09.17-04.18.53:221][679]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.09.17-04.18.53:230][679]PIE: New page: PIE session: ThirdPersonExampleMap (Sep 16, 2020, 6:18:53 PM)
+[2020.09.17-04.18.53:230][679]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_1_ThirdPersonExampleMap
+[2020.09.17-04.18.53:307][679]LogPlayLevel: PIE: StaticDuplicateObject took: (0.076549s)
+[2020.09.17-04.18.53:310][679]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.09.17-04.18.53:311][679]LogPlayLevel: PIE: World Init took: (0.003482s)
+[2020.09.17-04.18.53:312][679]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_1_ThirdPersonExampleMap.ThirdPersonExampleMap (0.081703s)
+[2020.09.17-04.18.53:435][679]LogInit: XAudio2 using 'Altavoces (Conexant SmartAudio HD)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2020.09.17-04.18.53:644][679]LogInit: FAudioDevice initialized.
+[2020.09.17-04.18.53:724][679]LogLoad: Game class is 'BP_GameMode_C'
+[2020.09.17-04.18.53:841][679]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_1_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2020.09.16-23.18.53
+[2020.09.17-04.18.53:842][679]LogWorld: Bringing up level for play took: 0.005292
+[2020.09.17-04.18.54:392][679]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0010 seconds. Added 11 classes and 0 folders.
+[2020.09.17-04.18.54:393][679]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.09.17-04.18.54:393][679]LogTemp: Display: ParseSettings for IpNetDriver_0
+[2020.09.17-04.18.54:393][679]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.09.17-04.18.54:394][679]LogInit: WinSock: Socket queue 131072 / 131072
+[2020.09.17-04.18.54:414][679]LogInit: WinSock: I am DESKTOP-IJ1U86O (192.168.1.3:0)
+[2020.09.17-04.18.54:415][679]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2020.09.17-04.18.54:415][679]LogNet: GameNetDriver IpNetDriver_0 IpNetDriver listening on port 17777
+[2020.09.17-04.18.54:415][679]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.09.17-04.18.54:416][679]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.09.17-04.18.54:416][679]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.09.17-04.18.54:438][679]UGameSparksModuleLog: Warning: GameSparks::Initialize
+[2020.09.17-04.18.54:442][679]UGameSparksModuleLog: Initialized
+[2020.09.17-04.18.54:442][679]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.09.17-04.18.54:442][679]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_1_ThirdPersonExampleMap 1.205
+[2020.09.17-04.18.54:451][679]PIE: New page: PIE session: ThirdPersonExampleMap (Sep 16, 2020, 6:18:54 PM)
+[2020.09.17-04.18.54:592][679]LogNet: Browse: 127.0.0.1:17777//Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2020.09.17-04.18.54:592][679]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.09.17-04.18.54:592][679]LogTemp: Display: ParseSettings for IpNetDriver_1
+[2020.09.17-04.18.54:593][679]LogTemp: Display: ParseSettings for PendingNetDriver
+[2020.09.17-04.18.54:593][679]LogInit: WinSock: Socket queue 32768 / 32768
+[2020.09.17-04.18.54:595][679]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2020.09.17-04.18.54:596][679]LogNet: Game client on port 17777, rate 10000
+[2020.09.17-04.18.54:608][679]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap 1.37
+[2020.09.17-04.18.54:637][679]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.09.17-04.18.54:639][679]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:52189
+[2020.09.17-04.18.54:640][679]LogHandshake: SendConnectChallenge. Timestamp: 0.025905, Cookie: 248017220141026243149239253078198233244223140097022091025071
+[2020.09.17-04.18.54:985][679]LogHandshake: SendChallengeResponse. Timestamp: 0.025905, Cookie: 248017220141026243149239253078198233244223140097022091025071
+[2020.09.17-04.18.55:919][680]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:52189
+[2020.09.17-04.18.55:919][680]LogHandshake: SendChallengeAck. InCookie: 248017220141026243149239253078198233244223140097022091025071
+[2020.09.17-04.18.55:920][680]LogNet: Server accepting post-challenge connection from: 127.0.0.1:52189
+[2020.09.17-04.18.55:920][680]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2020.09.17-04.18.55:920][680]LogNet: NotifyAcceptedConnection: Name: ThirdPersonExampleMap, TimeStamp: 09/16/20 23:18:55, [UNetConnection] RemoteAddr: 127.0.0.1:52189, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL
+[2020.09.17-04.18.55:921][680]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:52189, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL
+[2020.09.17-04.18.55:924][680]LogNetVersion: MuseoVirtualUdem 1.0.0.0, NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 51747653)
+[2020.09.17-04.18.55:925][680]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_0, Driver: PendingNetDriver IpNetDriver_1, IsServer: NO, PC: NULL, Owner: NULL
+[2020.09.17-04.18.56:843][681]LogNet: NotifyAcceptingChannel Control 0 server World /Game/ThirdPersonBP/Maps/UEDPIE_1_ThirdPersonExampleMap.ThirdPersonExampleMap: Accepted
+[2020.09.17-04.18.56:844][681]LogNet: Remote platform little endian=1
+[2020.09.17-04.18.56:845][681]LogNet: This platform little endian=1
+[2020.09.17-04.18.56:876][681]UGameSparksModuleLog: WebSocket callback: {"@class": ".AuthenticatedConnectResponse","connectUrl": "wss://gsp-aeu000-se09.gamesparks.net/ws/device/293711ZXWjA9","requestId": "0"}
+[2020.09.17-04.18.56:877][681]UGameSparksModuleLog: Received new connection url from gamesparks backend. Establishing new connection now.
+[2020.09.17-04.18.56:877][681]UGameSparksModuleLog: Create new connection
+[2020.09.17-04.18.56:890][681]UGameSparksModuleLog: Handle authentication connect response with immediate handshake
+[2020.09.17-04.18.56:891][681]UGameSparksModuleLog: WebSocket closed
+[2020.09.17-04.18.56:991][682]LogNet: Login request: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap userId: Invalid
+[2020.09.17-04.18.57:001][682]LogNet: Welcomed by server (Level: /Game/ThirdPersonBP/Maps/UEDPIE_1_ThirdPersonExampleMap, Game: /Game/Blueprints/BP_GameMode.BP_GameMode_C)
+[2020.09.17-04.18.57:008][682]LogLoad: LoadMap: 127.0.0.1:17777//Game/ThirdPersonBP/Maps/UEDPIE_1_ThirdPersonExampleMap?game=/Game/Blueprints/BP_GameMode.BP_GameMode_C
+[2020.09.17-04.18.57:324][682]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.09.17-04.18.57:326][682]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.09.17-04.18.57:342][682]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_2_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 3) at 2020.09.16-23.18.57
+[2020.09.17-04.18.57:343][682]LogWorld: Bringing up level for play took: 0.005437
+[2020.09.17-04.18.57:344][682]LogLoad: Took 0.335088 seconds to LoadMap(/Game/ThirdPersonBP/Maps/UEDPIE_1_ThirdPersonExampleMap)
+[2020.09.17-04.18.57:808][683]LogRenderer: Reallocating scene render targets to support 1280x720 Format 10 NumSamples 1 (Frame:1).
+[2020.09.17-04.18.57:824][683]LogNet: Client netspeed is 10000
+[2020.09.17-04.18.57:824][683]LogNet: Join request: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap?SplitscreenCount=1
+[2020.09.17-04.18.57:859][683]LogNet: Join succeeded: User257
+[2020.09.17-04.18.58:559][685]UGameSparksModuleLog: WebSocket callback: {"@class":".AuthenticatedConnectResponse","nonce":"7ffaf585-6b17-4c3c-a4d1-ccf6c082d853","requestId":"0"}
+[2020.09.17-04.18.58:560][685]UGameSparksModuleLog: Handle authentication connect response with immediate handshake
+[2020.09.17-04.18.58:691][685]UGameSparksModuleLog: Send immediate request: {
+	"@class":	".AuthenticatedConnectRequest",
+	"hmac":	"icadrD3I85NOHEPy6m2YS0eqCkUJXHPVfiTG4xJ9YBc=",
+	"os":	"Windows",
+	"platform":	"Windows",
+	"deviceId":	"358f339235f14dd54cfdd76c989536aa",
+	"deviceStats":	{
+		"cpu.cores":	"4",
+		"cpu.vendor":	"AMD FX-7500 Radeon R7, 10 Compute Cores 4C+6G  ",
+		"engine":	"Unreal Engine",
+		"engine.version":	"4.18.0",
+		"manufacturer":	"Microsoft",
+		"memory":	"7098 MB",
+		"model":	"PC",
+		"os.name":	"Windows",
+		"os.version":	"10.0.18362.959",
+		"os.version.major":	"10",
+		"os.version.major.minor":	"10.0",
+		"resolution":	"1366x768",
+		"gssdk":	"1.1.18.0"
+	},
+	"authToken":	"d06a0416-1ad8-48b5-be62-6137113c2320"
+}
+[2020.09.17-04.18.58:693][685]UGameSparksModuleLog: Handshake request sent
+[2020.09.17-04.18.59:244][687]UGameSparksModuleLog: WebSocket callback: {"@class":".AuthenticatedConnectResponse","authToken":"f4ffb6ce-4044-4f22-a4a0-06c19622607d","requestId":"0","sessionId":"7ffaf585-6b17-4c3c-a4d1-ccf6c082d853","userId":"5f628e387e50dd01db7dfbad"}
+[2020.09.17-04.18.59:245][687]UGameSparksModuleLog: Received auth token
+[2020.09.17-04.18.59:246][687]UGameSparksModuleLog: Handle authentication connect response with immediate handshake
+[2020.09.17-04.18.59:258][687]UGameSparksModuleLog: Warning: GameSparks::GameSparksAvailable_Static
+[2020.09.17-04.18.59:258][687]LogBlueprintUserMessages: [BP_GameMode_C_0] Server: Gamesparks available
+[2020.09.17-04.19.20:418][792]UGameSparksModuleLog: Send immediate request: {
+	"@class":	".AuthenticationRequest",
+	"password":	"dan",
+	"userName":	"dan",
+	"requestId":	"1600316360_0"
+}
+[2020.09.17-04.19.20:686][796]UGameSparksModuleLog: WebSocket callback: {"@class":".AuthenticationResponse","authToken":"0beea28d-1227-4420-963e-dacf6870691e","displayName":"dan","newPlayer":false,"requestId":"1600316360_0","userId":"5f628e387e50dd01db7dfbad"}
+[2020.09.17-04.19.20:687][796]UGameSparksModuleLog: Received auth token
+[2020.09.17-04.19.20:688][796]LogBlueprintUserMessages: [LoginUI_C_2] Client 1: Welcome back dan
+[2020.09.17-04.19.20:689][796]PIE: Error: SetInputMode_GameOnly expects a valid player controller as target
+[2020.09.17-04.19.37:036][ 23]UGameSparksModuleLog: Send immediate request: {
+	"@class":	".AuthenticationRequest",
+	"password":	"daniels",
+	"userName":	"daniels",
+	"requestId":	"1600316377_1"
+}
+[2020.09.17-04.19.37:293][ 27]UGameSparksModuleLog: WebSocket callback: {"@class":".AuthenticationResponse","authToken":"c03347f1-7690-4ea4-837e-4713ab7a692f","displayName":"Daniels","newPlayer":false,"requestId":"1600316377_1","userId":"5f569cc37e50dd01db2bb2f1"}
+[2020.09.17-04.19.37:293][ 27]UGameSparksModuleLog: Received auth token
+[2020.09.17-04.19.37:295][ 27]LogBlueprintUserMessages: [LoginUI_C_1] Server: Welcome back Daniels
+[2020.09.17-04.19.37:297][ 27]PIE: Error: SetInputMode_GameOnly expects a valid player controller as target
+[2020.09.17-04.19.37:297][ 27]UGameSparksModuleLog: New UserId init persistent queue
+[2020.09.17-04.19.39:325][ 59]UGameSparksModuleLog: Send immediate request: {
+	"@class":	".AuthenticationRequest",
+	"password":	"daniels",
+	"userName":	"daniels",
+	"requestId":	"1600316379_2"
+}
+[2020.09.17-04.19.39:524][ 62]UGameSparksModuleLog: WebSocket callback: {"@class":".AuthenticationResponse","authToken":"fe8193f6-11d0-4fc7-bc1f-59859ea1eead","displayName":"Daniels","newPlayer":false,"requestId":"1600316379_2","userId":"5f569cc37e50dd01db2bb2f1"}
+[2020.09.17-04.19.39:524][ 62]UGameSparksModuleLog: Received auth token
+[2020.09.17-04.19.39:526][ 62]LogBlueprintUserMessages: [LoginUI_C_0] Server: Welcome back Daniels
+[2020.09.17-04.19.39:527][ 62]PIE: Error: SetInputMode_GameOnly expects a valid player controller as target
+[2020.09.17-04.19.52:364][228]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.09.17-04.19.52:800][228]UGameSparksModuleLog: Warning: GameSparks::Shutdown
+[2020.09.17-04.19.52:800][228]UGameSparksModuleLog: Starting connection terminate
+[2020.09.17-04.19.52:800][228]UGameSparksModuleLog: WebSocket closed
+[2020.09.17-04.19.52:801][228]UGameSparksModuleLog: Connection terminated
+[2020.09.17-04.19.52:801][228]UGameSparksModuleLog: Warning: GameSparks::GameSparksAvailable_Static
+[2020.09.17-04.19.52:801][228]LogBlueprintUserMessages: [BP_GameMode_C_0] Server: Gamesparks unavailable
+[2020.09.17-04.19.52:915][228]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.09.17-04.19.53:048][228]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:52189, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: None, Owner: None
+[2020.09.17-04.19.53:048][228]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:52189, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: None, Owner: None, Channels: 2, Time: 2020.09.17-04.19.53
+[2020.09.17-04.19.53:048][228]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:52189, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: None, Owner: None
+[2020.09.17-04.19.53:049][228]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_0, Driver: GameNetDriver IpNetDriver_1, IsServer: NO, PC: None, Owner: None
+[2020.09.17-04.19.53:049][228]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_0, Driver: GameNetDriver IpNetDriver_1, IsServer: NO, PC: None, Owner: None, Channels: 2, Time: 2020.09.17-04.19.53
+[2020.09.17-04.19.53:049][228]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_0, Driver: GameNetDriver IpNetDriver_1, IsServer: NO, PC: None, Owner: None
+[2020.09.17-04.19.53:077][228]LogExit: GameNetDriver None shut down
+[2020.09.17-04.19.53:080][228]LogExit: GameNetDriver None shut down
+[2020.09.17-04.20.04:971][736]LogLinker: Warning: Can't find file '/Game/UI/BP'
+[2020.09.17-04.20.04:972][736]LogLinker: Warning: Can't find file for asset '/Game/UI/BP' while loading ../../../../../../Users/DANIEL_FS/Documents/GitHub/MuseoVirtualUdeM/Content/AuthenticationUassets/OurGSGameMode.uasset.
+[2020.09.17-04.20.04:973][736]LoadErrors: Error: /Game/AuthenticationUassets/OurGSGameMode : Can't find file for asset. /Game/UI/BP
+[2020.09.17-04.20.04:974][736]LogLinker: Warning: Can't find file '/Game/UI/BP'
+[2020.09.17-04.20.04:975][736]LogLinker: Warning: Can't find file for asset '/Game/UI/BP' while loading ../../../../../../Users/DANIEL_FS/Documents/GitHub/MuseoVirtualUdeM/Content/AuthenticationUassets/OurGSGameMode.uasset.
+[2020.09.17-04.20.04:976][736]LogLinker: Warning: Can't find file '/Game/UI/BP'
+[2020.09.17-04.20.04:977][736]LogLinker: Warning: Can't find file for asset '/Game/UI/BP' while loading ../../../../../../Users/DANIEL_FS/Documents/GitHub/MuseoVirtualUdeM/Content/AuthenticationUassets/OurGSGameMode.uasset.
+[2020.09.17-04.20.04:978][736]LogLinker: Warning: Can't find file '/Game/UI/BP'
+[2020.09.17-04.20.04:979][736]LoadErrors: Failed to load /Game/UI/BP.BP Referenced by OurGSGameMode
+[2020.09.17-04.20.04:979][736]LogLinker: Warning: Can't find file for asset '/Game/UI/BP' while loading NULL.
+[2020.09.17-04.20.04:980][736]LogLinker: Warning: Can't find file '/Game/UI/BP'
+[2020.09.17-04.20.04:980][736]LoadErrors: Failed to load /Game/UI/BP.BP_C Referenced by OurGSGameMode_C
+[2020.09.17-04.20.04:981][736]LogLinker: Warning: Can't find file for asset '/Game/UI/BP' while loading NULL.
+[2020.09.17-04.20.47:949][142]LogSlate: Took 0.000855 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.09.17-04.20.49:226][142]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0029 seconds. Added 116 classes and 0 folders.
+[2020.09.17-04.20.54:526][142]LogSlate: Took 0.002889 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.09.17-04.20.55:362][143]LogSlate: Took 0.002914 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.09.17-04.21.21:351][699]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2020.09.17-04.21.23:843][716]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/ThirdPersonCharacter" FILE="../../../../../../Users/DANIEL_FS/Documents/GitHub/MuseoVirtualUdeM/Content/Blueprints/ThirdPersonCharacter.uasset" SILENT=true
+[2020.09.17-04.21.24:253][716]LogSavePackage: Save=344.25ms
+[2020.09.17-04.21.24:253][716]LogSavePackage: Moving '../../../../../../Users/DANIEL_FS/Documents/GitHub/MuseoVirtualUdeM/Saved/ThirdPersonCharacter4E09F7174496DBCB0D6A99B1FAB29B66.tmp' to '../../../../../../Users/DANIEL_FS/Documents/GitHub/MuseoVirtualUdeM/Content/Blueprints/ThirdPersonCharacter.uasset'
+[2020.09.17-04.21.24:265][716]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/DANIEL_FS/Documents/GitHub/MuseoVirtualUdeM/Content/Blueprints/ThirdPersonCharacter.uasset
+[2020.09.17-04.23.17:252][466]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/ThirdPersonCharacter" FILE="../../../../../../Users/DANIEL_FS/Documents/GitHub/MuseoVirtualUdeM/Content/Blueprints/ThirdPersonCharacter.uasset" SILENT=true
+[2020.09.17-04.23.17:522][466]LogSavePackage: Save=228.14ms
+[2020.09.17-04.23.17:522][466]LogSavePackage: Moving '../../../../../../Users/DANIEL_FS/Documents/GitHub/MuseoVirtualUdeM/Saved/ThirdPersonCharacter93307FA14FDEF96FDA9B2D994B5530CF.tmp' to '../../../../../../Users/DANIEL_FS/Documents/GitHub/MuseoVirtualUdeM/Content/Blueprints/ThirdPersonCharacter.uasset'
+[2020.09.17-04.23.17:527][466]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/DANIEL_FS/Documents/GitHub/MuseoVirtualUdeM/Content/Blueprints/ThirdPersonCharacter.uasset
+[2020.09.17-04.23.25:244][695]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2020.09.17-04.23.27:102][713]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/ThirdPersonCharacter" FILE="../../../../../../Users/DANIEL_FS/Documents/GitHub/MuseoVirtualUdeM/Content/Blueprints/ThirdPersonCharacter.uasset" SILENT=true
+[2020.09.17-04.23.27:424][713]LogSavePackage: Save=281.40ms
+[2020.09.17-04.23.27:424][713]LogSavePackage: Moving '../../../../../../Users/DANIEL_FS/Documents/GitHub/MuseoVirtualUdeM/Saved/ThirdPersonCharacter2C6091C34FB5A0D46C9D0A8EC25BC581.tmp' to '../../../../../../Users/DANIEL_FS/Documents/GitHub/MuseoVirtualUdeM/Content/Blueprints/ThirdPersonCharacter.uasset'
+[2020.09.17-04.23.27:435][713]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/DANIEL_FS/Documents/GitHub/MuseoVirtualUdeM/Content/Blueprints/ThirdPersonCharacter.uasset
+[2020.09.17-04.33.08:343][958]LogEditorTransaction: Undo Move Node
+[2020.09.17-04.33.09:615][982]LogEditorTransaction: Undo Move Node
+[2020.09.17-04.33.10:867][  4]LogEditorTransaction: Undo Move Node
+[2020.09.17-04.33.13:148][ 64]LogEditorTransaction: Undo Add Node
+[2020.09.17-04.35.24:739][366]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.073
+[2020.09.17-04.35.24:748][366]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/ThirdPersonCharacter] ([1] browsable assets)...
+[2020.09.17-04.35.24:821][366]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter]
+[2020.09.17-04.35.24:821][366]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/ThirdPersonCharacter]
+[2020.09.17-04.35.25:063][366]LogSavePackage: Save=201.67ms
+[2020.09.17-04.35.25:064][366]LogSavePackage: Moving '../../../../../../Users/DANIEL_FS/Documents/GitHub/MuseoVirtualUdeM/Saved/ThirdPersonCharacter_Auto1A55CB384446397872B31AE8407B23071.tmp' to '../../../../../../Users/DANIEL_FS/Documents/GitHub/MuseoVirtualUdeM/Saved/Autosaves/Game/Blueprints/ThirdPersonCharacter_Auto1.uasset'
+[2020.09.17-04.35.25:067][366]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/DANIEL_FS/Documents/GitHub/MuseoVirtualUdeM/Saved/Autosaves/Game/Blueprints/ThirdPersonCharacter_Auto1.uasset
+[2020.09.17-04.35.25:067][366]LogFileHelpers: Auto-saving content packages took 0.326
+[2020.09.17-04.43.06:158][ 81]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2020.09.17-04.43.15:197][421]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2020.09.17-04.44.47:406][558]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/ThirdPersonCharacter" FILE="../../../../../../Users/DANIEL_FS/Documents/GitHub/MuseoVirtualUdeM/Content/Blueprints/ThirdPersonCharacter.uasset" SILENT=true
+[2020.09.17-04.44.47:680][558]LogSavePackage: Save=239.53ms
+[2020.09.17-04.44.47:680][558]LogSavePackage: Moving '../../../../../../Users/DANIEL_FS/Documents/GitHub/MuseoVirtualUdeM/Saved/ThirdPersonCharacterA0064F4E4568783E3640A39AB2D1FDF7.tmp' to '../../../../../../Users/DANIEL_FS/Documents/GitHub/MuseoVirtualUdeM/Content/Blueprints/ThirdPersonCharacter.uasset'
+[2020.09.17-04.44.47:689][558]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/DANIEL_FS/Documents/GitHub/MuseoVirtualUdeM/Content/Blueprints/ThirdPersonCharacter.uasset
+[2020.09.17-04.44.48:274][582]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2020.09.17-04.44.49:954][607]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/ThirdPersonCharacter" FILE="../../../../../../Users/DANIEL_FS/Documents/GitHub/MuseoVirtualUdeM/Content/Blueprints/ThirdPersonCharacter.uasset" SILENT=true
+[2020.09.17-04.44.50:215][607]LogSavePackage: Save=227.36ms
+[2020.09.17-04.44.50:215][607]LogSavePackage: Moving '../../../../../../Users/DANIEL_FS/Documents/GitHub/MuseoVirtualUdeM/Saved/ThirdPersonCharacterE9A14F6949BDC0CE6115E29666699DF1.tmp' to '../../../../../../Users/DANIEL_FS/Documents/GitHub/MuseoVirtualUdeM/Content/Blueprints/ThirdPersonCharacter.uasset'
+[2020.09.17-04.44.50:219][607]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/DANIEL_FS/Documents/GitHub/MuseoVirtualUdeM/Content/Blueprints/ThirdPersonCharacter.uasset
+[2020.09.17-04.45.51:501][833]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2020.09.17-04.45.53:136][858]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/ThirdPersonCharacter" FILE="../../../../../../Users/DANIEL_FS/Documents/GitHub/MuseoVirtualUdeM/Content/Blueprints/ThirdPersonCharacter.uasset" SILENT=true
+[2020.09.17-04.45.53:395][858]LogSavePackage: Save=229.43ms
+[2020.09.17-04.45.53:396][858]LogSavePackage: Moving '../../../../../../Users/DANIEL_FS/Documents/GitHub/MuseoVirtualUdeM/Saved/ThirdPersonCharacter4E0774B64E58BCD8FDB696893AB6F40E.tmp' to '../../../../../../Users/DANIEL_FS/Documents/GitHub/MuseoVirtualUdeM/Content/Blueprints/ThirdPersonCharacter.uasset'
+[2020.09.17-04.45.53:404][858]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/DANIEL_FS/Documents/GitHub/MuseoVirtualUdeM/Content/Blueprints/ThirdPersonCharacter.uasset
+[2020.09.17-04.45.56:220][986]LogTemp: Repeating last play command: Selected Viewport
+[2020.09.17-04.45.56:249][986]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.09.17-04.45.56:249][986]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.09.17-04.45.56:252][986]PIE: New page: PIE session: ThirdPersonExampleMap (Sep 16, 2020, 6:45:56 PM)
+[2020.09.17-04.45.56:252][986]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_1_ThirdPersonExampleMap
+[2020.09.17-04.45.56:296][986]LogPlayLevel: PIE: StaticDuplicateObject took: (0.043384s)
+[2020.09.17-04.45.56:298][986]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.09.17-04.45.56:299][986]LogPlayLevel: PIE: World Init took: (0.003053s)
+[2020.09.17-04.45.56:300][986]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_1_ThirdPersonExampleMap.ThirdPersonExampleMap (0.047456s)
+[2020.09.17-04.45.56:388][986]LogInit: XAudio2 using 'Altavoces (Conexant SmartAudio HD)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2020.09.17-04.45.56:443][986]LogInit: FAudioDevice initialized.
+[2020.09.17-04.45.56:486][986]LogLoad: Game class is 'BP_GameMode_C'
+[2020.09.17-04.45.56:490][986]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_1_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2020.09.16-23.45.56
+[2020.09.17-04.45.56:490][986]LogWorld: Bringing up level for play took: 0.003002
+[2020.09.17-04.45.56:492][986]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.09.17-04.45.56:492][986]LogTemp: Display: ParseSettings for IpNetDriver_2
+[2020.09.17-04.45.56:492][986]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.09.17-04.45.56:493][986]LogInit: WinSock: Socket queue 131072 / 131072
+[2020.09.17-04.45.56:494][986]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2020.09.17-04.45.56:494][986]LogNet: GameNetDriver IpNetDriver_2 IpNetDriver listening on port 17777
+[2020.09.17-04.45.56:494][986]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.09.17-04.45.56:494][986]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.09.17-04.45.56:494][986]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.09.17-04.45.56:501][986]UGameSparksModuleLog: Warning: GameSparks::Initialize
+[2020.09.17-04.45.56:504][986]UGameSparksModuleLog: Initialized
+[2020.09.17-04.45.56:504][986]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.09.17-04.45.56:504][986]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_1_ThirdPersonExampleMap -0.733
+[2020.09.17-04.45.56:508][986]PIE: New page: PIE session: ThirdPersonExampleMap (Sep 16, 2020, 6:45:56 PM)
+[2020.09.17-04.45.56:585][986]LogNet: Browse: 127.0.0.1:17777//Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2020.09.17-04.45.56:585][986]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.09.17-04.45.56:586][986]LogTemp: Display: ParseSettings for IpNetDriver_3
+[2020.09.17-04.45.56:586][986]LogTemp: Display: ParseSettings for PendingNetDriver
+[2020.09.17-04.45.56:586][986]LogInit: WinSock: Socket queue 32768 / 32768
+[2020.09.17-04.45.56:588][986]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2020.09.17-04.45.56:588][986]LogNet: Game client on port 17777, rate 10000
+[2020.09.17-04.45.56:599][986]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap -0.639
+[2020.09.17-04.45.56:619][986]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.09.17-04.45.56:624][986]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:50370
+[2020.09.17-04.45.56:624][986]LogHandshake: SendConnectChallenge. Timestamp: 0.016667, Cookie: 247213040169096200202246183113112100109060147089213197123160
+[2020.09.17-04.45.56:630][986]LogHandshake: SendChallengeResponse. Timestamp: 0.016667, Cookie: 247213040169096200202246183113112100109060147089213197123160
+[2020.09.17-04.45.56:634][986]UGameSparksModuleLog: Create new connection
+[2020.09.17-04.45.56:639][986]UGameSparksModuleLog: WebSocket closed
+[2020.09.17-04.45.57:727][987]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:50370
+[2020.09.17-04.45.57:727][987]LogHandshake: SendChallengeAck. InCookie: 247213040169096200202246183113112100109060147089213197123160
+[2020.09.17-04.45.57:727][987]LogNet: Server accepting post-challenge connection from: 127.0.0.1:50370
+[2020.09.17-04.45.57:728][987]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2020.09.17-04.45.57:728][987]LogNet: NotifyAcceptedConnection: Name: ThirdPersonExampleMap, TimeStamp: 09/16/20 23:45:57, [UNetConnection] RemoteAddr: 127.0.0.1:50370, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_2, IsServer: YES, PC: NULL, Owner: NULL
+[2020.09.17-04.45.57:728][987]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:50370, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_2, IsServer: YES, PC: NULL, Owner: NULL
+[2020.09.17-04.45.57:729][987]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_2, Driver: PendingNetDriver IpNetDriver_3, IsServer: NO, PC: NULL, Owner: NULL
+[2020.09.17-04.45.57:759][988]LogNet: NotifyAcceptingChannel Control 0 server World /Game/ThirdPersonBP/Maps/UEDPIE_1_ThirdPersonExampleMap.ThirdPersonExampleMap: Accepted
+[2020.09.17-04.45.57:760][988]LogNet: Remote platform little endian=1
+[2020.09.17-04.45.57:760][988]LogNet: This platform little endian=1
+[2020.09.17-04.45.57:763][988]UGameSparksModuleLog: WebSocket callback: {"@class": ".AuthenticatedConnectResponse","connectUrl": "wss://gsp-aeu000-se08.gamesparks.net/ws/device/293711ZXWjA9","requestId": "0"}
+[2020.09.17-04.45.57:763][988]UGameSparksModuleLog: Received new connection url from gamesparks backend. Establishing new connection now.
+[2020.09.17-04.45.57:763][988]UGameSparksModuleLog: Create new connection
+[2020.09.17-04.45.57:765][988]UGameSparksModuleLog: Handle authentication connect response with immediate handshake
+[2020.09.17-04.45.57:765][988]UGameSparksModuleLog: WebSocket closed
+[2020.09.17-04.45.57:778][989]LogNet: Login request: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap userId: Invalid
+[2020.09.17-04.45.57:780][989]LogNet: Welcomed by server (Level: /Game/ThirdPersonBP/Maps/UEDPIE_1_ThirdPersonExampleMap, Game: /Game/Blueprints/BP_GameMode.BP_GameMode_C)
+[2020.09.17-04.45.57:796][989]LogLoad: LoadMap: 127.0.0.1:17777//Game/ThirdPersonBP/Maps/UEDPIE_1_ThirdPersonExampleMap?game=/Game/Blueprints/BP_GameMode.BP_GameMode_C
+[2020.09.17-04.45.57:925][989]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.09.17-04.45.57:927][989]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.09.17-04.45.57:933][989]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_2_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2020.09.16-23.45.57
+[2020.09.17-04.45.57:934][989]LogWorld: Bringing up level for play took: 0.003852
+[2020.09.17-04.45.57:935][989]LogLoad: Took 0.138520 seconds to LoadMap(/Game/ThirdPersonBP/Maps/UEDPIE_1_ThirdPersonExampleMap)
+[2020.09.17-04.45.57:964][990]LogNet: Client netspeed is 10000
+[2020.09.17-04.45.57:965][990]LogNet: Join request: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap?SplitscreenCount=1
+[2020.09.17-04.45.57:972][990]LogNet: Join succeeded: User259
+[2020.09.17-04.45.59:123][  9]UGameSparksModuleLog: WebSocket callback: {"@class":".AuthenticatedConnectResponse","nonce":"69710022-a2cd-4b0f-8e2a-5284738000d0","requestId":"0"}
+[2020.09.17-04.45.59:123][  9]UGameSparksModuleLog: Handle authentication connect response with immediate handshake
+[2020.09.17-04.45.59:126][  9]UGameSparksModuleLog: Send immediate request: {
+	"@class":	".AuthenticatedConnectRequest",
+	"hmac":	"5mh4N+EN4F0iv/don3cpynYrHLsXeAFtJB+WVbAH6fU=",
+	"os":	"Windows",
+	"platform":	"Windows",
+	"deviceId":	"358f339235f14dd54cfdd76c989536aa",
+	"deviceStats":	{
+		"cpu.cores":	"4",
+		"cpu.vendor":	"AMD FX-7500 Radeon R7, 10 Compute Cores 4C+6G  ",
+		"engine":	"Unreal Engine",
+		"engine.version":	"4.18.0",
+		"manufacturer":	"Microsoft",
+		"memory":	"7098 MB",
+		"model":	"PC",
+		"os.name":	"Windows",
+		"os.version":	"10.0.18362.959",
+		"os.version.major":	"10",
+		"os.version.major.minor":	"10.0",
+		"resolution":	"1366x768",
+		"gssdk":	"1.1.18.0"
+	},
+	"authToken":	"fe8193f6-11d0-4fc7-bc1f-59859ea1eead",
+	"sessionId":	"7ffaf585-6b17-4c3c-a4d1-ccf6c082d853"
+}
+[2020.09.17-04.45.59:127][  9]UGameSparksModuleLog: Handshake request sent
+[2020.09.17-04.45.59:422][ 14]UGameSparksModuleLog: WebSocket callback: {"@class":".AuthenticatedConnectResponse","authToken":"070a9602-0b5d-484e-873b-ec489718b351","requestId":"0","sessionId":"7ffaf585-6b17-4c3c-a4d1-ccf6c082d853","userId":"5f569cc37e50dd01db2bb2f1"}
+[2020.09.17-04.45.59:423][ 14]UGameSparksModuleLog: Received auth token
+[2020.09.17-04.45.59:424][ 14]UGameSparksModuleLog: Handle authentication connect response with immediate handshake
+[2020.09.17-04.45.59:424][ 14]UGameSparksModuleLog: Warning: GameSparks::GameSparksAvailable_Static
+[2020.09.17-04.45.59:425][ 14]LogBlueprintUserMessages: [BP_GameMode_C_0] Server: Gamesparks available
+[2020.09.17-04.46.02:566][ 67]UGameSparksModuleLog: Send immediate request: {
+	"@class":	".AuthenticationRequest",
+	"password":	"daniels",
+	"userName":	"daniels",
+	"requestId":	"1600317962_3"
+}
+[2020.09.17-04.46.02:812][ 71]UGameSparksModuleLog: WebSocket callback: {"@class":".AuthenticationResponse","authToken":"cc732da3-cdcd-4737-b7d2-610d6c3388f1","displayName":"Daniels","newPlayer":false,"requestId":"1600317962_3","userId":"5f569cc37e50dd01db2bb2f1"}
+[2020.09.17-04.46.02:812][ 71]UGameSparksModuleLog: Received auth token
+[2020.09.17-04.46.02:813][ 71]LogBlueprintUserMessages: [LoginUI_C_4] Server: Welcome back Daniels
+[2020.09.17-04.46.02:814][ 71]PIE: Error: SetInputMode_GameOnly expects a valid player controller as target
+[2020.09.17-04.46.06:605][135]UGameSparksModuleLog: Send immediate request: {
+	"@class":	".AuthenticationRequest",
+	"password":	"daniels",
+	"userName":	"daniels",
+	"requestId":	"1600317966_4"
+}
+[2020.09.17-04.46.06:847][139]UGameSparksModuleLog: WebSocket callback: {"@class":".AuthenticationResponse","authToken":"5953ea73-8f3c-4981-af1d-13f73b749266","displayName":"Daniels","newPlayer":false,"requestId":"1600317966_4","userId":"5f569cc37e50dd01db2bb2f1"}
+[2020.09.17-04.46.06:847][139]UGameSparksModuleLog: Received auth token
+[2020.09.17-04.46.06:849][139]LogBlueprintUserMessages: [LoginUI_C_3] Server: Welcome back Daniels
+[2020.09.17-04.46.06:849][139]PIE: Error: SetInputMode_GameOnly expects a valid player controller as target
+[2020.09.17-04.46.59:274][ 14]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.09.17-04.46.59:389][ 14]UGameSparksModuleLog: Warning: GameSparks::Shutdown
+[2020.09.17-04.46.59:389][ 14]UGameSparksModuleLog: Starting connection terminate
+[2020.09.17-04.46.59:389][ 14]UGameSparksModuleLog: WebSocket closed
+[2020.09.17-04.46.59:390][ 14]UGameSparksModuleLog: Connection terminated
+[2020.09.17-04.46.59:390][ 14]UGameSparksModuleLog: Warning: GameSparks::GameSparksAvailable_Static
+[2020.09.17-04.46.59:390][ 14]LogBlueprintUserMessages: [BP_GameMode_C_0] Server: Gamesparks unavailable
+[2020.09.17-04.46.59:430][ 14]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.09.17-04.46.59:508][ 14]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_2, Driver: GameNetDriver IpNetDriver_3, IsServer: NO, PC: BP_PlayerController_C_0, Owner: BP_PlayerController_C_0
+[2020.09.17-04.46.59:508][ 14]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_2, Driver: GameNetDriver IpNetDriver_3, IsServer: NO, PC: BP_PlayerController_C_0, Owner: BP_PlayerController_C_0, Channels: 10, Time: 2020.09.17-04.46.59
+[2020.09.17-04.46.59:508][ 14]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_2, Driver: GameNetDriver IpNetDriver_3, IsServer: NO, PC: BP_PlayerController_C_0, Owner: BP_PlayerController_C_0
+[2020.09.17-04.46.59:511][ 14]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:50370, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_2, IsServer: YES, PC: None, Owner: None
+[2020.09.17-04.46.59:511][ 14]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:50370, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_2, IsServer: YES, PC: None, Owner: None, Channels: 2, Time: 2020.09.17-04.46.59
+[2020.09.17-04.46.59:511][ 14]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:50370, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_2, IsServer: YES, PC: None, Owner: None
+[2020.09.17-04.46.59:525][ 14]LogExit: GameNetDriver None shut down
+[2020.09.17-04.46.59:529][ 14]LogExit: GameNetDriver None shut down
+[2020.09.17-04.47.04:187][217]LogTemp: Repeating last play command: Selected Viewport
+[2020.09.17-04.47.04:234][217]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.09.17-04.47.04:235][217]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.09.17-04.47.04:240][217]PIE: New page: PIE session: ThirdPersonExampleMap (Sep 16, 2020, 6:47:04 PM)
+[2020.09.17-04.47.04:240][217]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_1_ThirdPersonExampleMap
+[2020.09.17-04.47.04:291][217]LogPlayLevel: PIE: StaticDuplicateObject took: (0.050251s)
+[2020.09.17-04.47.04:294][217]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.09.17-04.47.04:295][217]LogPlayLevel: PIE: World Init took: (0.003545s)
+[2020.09.17-04.47.04:296][217]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_1_ThirdPersonExampleMap.ThirdPersonExampleMap (0.055183s)
+[2020.09.17-04.47.04:399][217]LogInit: XAudio2 using 'Altavoces (Conexant SmartAudio HD)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2020.09.17-04.47.04:486][217]LogInit: FAudioDevice initialized.
+[2020.09.17-04.47.04:538][217]LogLoad: Game class is 'BP_GameMode_C'
+[2020.09.17-04.47.04:542][217]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_1_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2020.09.16-23.47.04
+[2020.09.17-04.47.04:543][217]LogWorld: Bringing up level for play took: 0.003639
+[2020.09.17-04.47.04:544][217]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.09.17-04.47.04:545][217]LogTemp: Display: ParseSettings for IpNetDriver_4
+[2020.09.17-04.47.04:545][217]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.09.17-04.47.04:545][217]LogInit: WinSock: Socket queue 131072 / 131072
+[2020.09.17-04.47.04:547][217]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2020.09.17-04.47.04:547][217]LogNet: GameNetDriver IpNetDriver_4 IpNetDriver listening on port 17777
+[2020.09.17-04.47.04:547][217]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.09.17-04.47.04:547][217]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.09.17-04.47.04:547][217]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.09.17-04.47.04:554][217]UGameSparksModuleLog: Warning: GameSparks::Initialize
+[2020.09.17-04.47.04:557][217]UGameSparksModuleLog: Initialized
+[2020.09.17-04.47.04:557][217]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.09.17-04.47.04:558][217]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_1_ThirdPersonExampleMap 1.32
+[2020.09.17-04.47.04:563][217]PIE: New page: PIE session: ThirdPersonExampleMap (Sep 16, 2020, 6:47:04 PM)
+[2020.09.17-04.47.04:652][217]LogNet: Browse: 127.0.0.1:17777//Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2020.09.17-04.47.04:652][217]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.09.17-04.47.04:652][217]LogTemp: Display: ParseSettings for IpNetDriver_5
+[2020.09.17-04.47.04:653][217]LogTemp: Display: ParseSettings for PendingNetDriver
+[2020.09.17-04.47.04:653][217]LogInit: WinSock: Socket queue 32768 / 32768
+[2020.09.17-04.47.04:654][217]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2020.09.17-04.47.04:654][217]LogNet: Game client on port 17777, rate 10000
+[2020.09.17-04.47.04:664][217]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap 1.426
+[2020.09.17-04.47.04:685][217]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.09.17-04.47.04:688][217]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:58752
+[2020.09.17-04.47.04:688][217]LogHandshake: SendConnectChallenge. Timestamp: 0.016925, Cookie: 117009184228255029158016120136214145157032183101166221115169
+[2020.09.17-04.47.04:691][217]LogHandshake: SendChallengeResponse. Timestamp: 0.016925, Cookie: 117009184228255029158016120136214145157032183101166221115169
+[2020.09.17-04.47.04:693][217]UGameSparksModuleLog: Create new connection
+[2020.09.17-04.47.04:698][217]UGameSparksModuleLog: WebSocket closed
+[2020.09.17-04.47.05:682][218]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:58752
+[2020.09.17-04.47.05:682][218]LogHandshake: SendChallengeAck. InCookie: 117009184228255029158016120136214145157032183101166221115169
+[2020.09.17-04.47.05:683][218]LogNet: Server accepting post-challenge connection from: 127.0.0.1:58752
+[2020.09.17-04.47.05:683][218]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2020.09.17-04.47.05:683][218]LogNet: NotifyAcceptedConnection: Name: ThirdPersonExampleMap, TimeStamp: 09/16/20 23:47:05, [UNetConnection] RemoteAddr: 127.0.0.1:58752, Name: IpConnection_5, Driver: GameNetDriver IpNetDriver_4, IsServer: YES, PC: NULL, Owner: NULL
+[2020.09.17-04.47.05:684][218]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:58752, Name: IpConnection_5, Driver: GameNetDriver IpNetDriver_4, IsServer: YES, PC: NULL, Owner: NULL
+[2020.09.17-04.47.05:685][218]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_4, Driver: PendingNetDriver IpNetDriver_5, IsServer: NO, PC: NULL, Owner: NULL
+[2020.09.17-04.47.05:717][219]LogNet: NotifyAcceptingChannel Control 0 server World /Game/ThirdPersonBP/Maps/UEDPIE_1_ThirdPersonExampleMap.ThirdPersonExampleMap: Accepted
+[2020.09.17-04.47.05:717][219]LogNet: Remote platform little endian=1
+[2020.09.17-04.47.05:717][219]LogNet: This platform little endian=1
+[2020.09.17-04.47.05:720][219]UGameSparksModuleLog: WebSocket callback: {"@class": ".AuthenticatedConnectResponse","connectUrl": "wss://gsp-aeu000-se06.gamesparks.net/ws/device/293711ZXWjA9","requestId": "0"}
+[2020.09.17-04.47.05:720][219]UGameSparksModuleLog: Received new connection url from gamesparks backend. Establishing new connection now.
+[2020.09.17-04.47.05:721][219]UGameSparksModuleLog: Create new connection
+[2020.09.17-04.47.05:722][219]UGameSparksModuleLog: Handle authentication connect response with immediate handshake
+[2020.09.17-04.47.05:722][219]UGameSparksModuleLog: WebSocket closed
+[2020.09.17-04.47.05:736][220]LogNet: Login request: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap userId: Invalid
+[2020.09.17-04.47.05:738][220]LogNet: Welcomed by server (Level: /Game/ThirdPersonBP/Maps/UEDPIE_1_ThirdPersonExampleMap, Game: /Game/Blueprints/BP_GameMode.BP_GameMode_C)
+[2020.09.17-04.47.05:759][220]LogLoad: LoadMap: 127.0.0.1:17777//Game/ThirdPersonBP/Maps/UEDPIE_1_ThirdPersonExampleMap?game=/Game/Blueprints/BP_GameMode.BP_GameMode_C
+[2020.09.17-04.47.05:875][220]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.09.17-04.47.05:876][220]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.09.17-04.47.05:883][220]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_2_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2020.09.16-23.47.05
+[2020.09.17-04.47.05:884][220]LogWorld: Bringing up level for play took: 0.003657
+[2020.09.17-04.47.05:884][220]LogLoad: Took 0.125064 seconds to LoadMap(/Game/ThirdPersonBP/Maps/UEDPIE_1_ThirdPersonExampleMap)
+[2020.09.17-04.47.05:912][221]LogNet: Client netspeed is 10000
+[2020.09.17-04.47.05:912][221]LogNet: Join request: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap?SplitscreenCount=1
+[2020.09.17-04.47.05:920][221]LogNet: Join succeeded: User261
+[2020.09.17-04.47.07:118][240]UGameSparksModuleLog: WebSocket callback: {"@class":".AuthenticatedConnectResponse","nonce":"249a88ee-2e31-4d31-b24a-3b80558060e2","requestId":"0"}
+[2020.09.17-04.47.07:118][240]UGameSparksModuleLog: Handle authentication connect response with immediate handshake
+[2020.09.17-04.47.07:122][240]UGameSparksModuleLog: Send immediate request: {
+	"@class":	".AuthenticatedConnectRequest",
+	"hmac":	"X1TiM6SnGx6vYSYkybHq0EjjFoTu+AgdU8U+0vTaIF8=",
+	"os":	"Windows",
+	"platform":	"Windows",
+	"deviceId":	"358f339235f14dd54cfdd76c989536aa",
+	"deviceStats":	{
+		"cpu.cores":	"4",
+		"cpu.vendor":	"AMD FX-7500 Radeon R7, 10 Compute Cores 4C+6G  ",
+		"engine":	"Unreal Engine",
+		"engine.version":	"4.18.0",
+		"manufacturer":	"Microsoft",
+		"memory":	"7098 MB",
+		"model":	"PC",
+		"os.name":	"Windows",
+		"os.version":	"10.0.18362.959",
+		"os.version.major":	"10",
+		"os.version.major.minor":	"10.0",
+		"resolution":	"1366x768",
+		"gssdk":	"1.1.18.0"
+	},
+	"authToken":	"5953ea73-8f3c-4981-af1d-13f73b749266",
+	"sessionId":	"7ffaf585-6b17-4c3c-a4d1-ccf6c082d853"
+}
+[2020.09.17-04.47.07:122][240]UGameSparksModuleLog: Handshake request sent
+[2020.09.17-04.47.07:363][244]UGameSparksModuleLog: WebSocket callback: {"@class":".AuthenticatedConnectResponse","authToken":"f2231bc7-c916-4ada-9cc8-075bea8f6d7f","requestId":"0","sessionId":"7ffaf585-6b17-4c3c-a4d1-ccf6c082d853","userId":"5f569cc37e50dd01db2bb2f1"}
+[2020.09.17-04.47.07:364][244]UGameSparksModuleLog: Received auth token
+[2020.09.17-04.47.07:365][244]UGameSparksModuleLog: Handle authentication connect response with immediate handshake
+[2020.09.17-04.47.07:365][244]UGameSparksModuleLog: Warning: GameSparks::GameSparksAvailable_Static
+[2020.09.17-04.47.07:366][244]LogBlueprintUserMessages: [BP_GameMode_C_0] Server: Gamesparks available
+[2020.09.17-04.47.09:953][286]UGameSparksModuleLog: Send immediate request: {
+	"@class":	".AuthenticationRequest",
+	"password":	"daniels",
+	"userName":	"daniels",
+	"requestId":	"1600318029_5"
+}
+[2020.09.17-04.47.10:198][290]UGameSparksModuleLog: WebSocket callback: {"@class":".AuthenticationResponse","authToken":"9ebada47-74a8-496f-a42d-2deecc27d660","displayName":"Daniels","newPlayer":false,"requestId":"1600318029_5","userId":"5f569cc37e50dd01db2bb2f1"}
+[2020.09.17-04.47.10:199][290]UGameSparksModuleLog: Received auth token
+[2020.09.17-04.47.10:200][290]LogBlueprintUserMessages: [LoginUI_C_7] Server: Welcome back Daniels
+[2020.09.17-04.47.10:201][290]PIE: Error: SetInputMode_GameOnly expects a valid player controller as target
+[2020.09.17-04.47.16:906][402]UGameSparksModuleLog: Send immediate request: {
+	"@class":	".AuthenticationRequest",
+	"password":	"daniels",
+	"userName":	"daniels",
+	"requestId":	"1600318036_6"
+}
+[2020.09.17-04.47.17:148][406]UGameSparksModuleLog: WebSocket callback: {"@class":".AuthenticationResponse","authToken":"9bf2c250-3613-4828-b7ed-9369920e7108","displayName":"Daniels","newPlayer":false,"requestId":"1600318036_6","userId":"5f569cc37e50dd01db2bb2f1"}
+[2020.09.17-04.47.17:149][406]UGameSparksModuleLog: Received auth token
+[2020.09.17-04.47.17:150][406]LogBlueprintUserMessages: [LoginUI_C_6] Server: Welcome back Daniels
+[2020.09.17-04.47.17:151][406]PIE: Error: SetInputMode_GameOnly expects a valid player controller as target
+[2020.09.17-04.47.47:724][911]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.09.17-04.47.47:847][911]UGameSparksModuleLog: Warning: GameSparks::Shutdown
+[2020.09.17-04.47.47:847][911]UGameSparksModuleLog: Starting connection terminate
+[2020.09.17-04.47.47:848][911]UGameSparksModuleLog: WebSocket closed
+[2020.09.17-04.47.47:848][911]UGameSparksModuleLog: Connection terminated
+[2020.09.17-04.47.47:848][911]UGameSparksModuleLog: Warning: GameSparks::GameSparksAvailable_Static
+[2020.09.17-04.47.47:849][911]LogBlueprintUserMessages: [BP_GameMode_C_0] Server: Gamesparks unavailable
+[2020.09.17-04.47.47:887][911]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.09.17-04.47.47:973][911]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:58752, Name: IpConnection_5, Driver: GameNetDriver IpNetDriver_4, IsServer: YES, PC: None, Owner: None
+[2020.09.17-04.47.47:973][911]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:58752, Name: IpConnection_5, Driver: GameNetDriver IpNetDriver_4, IsServer: YES, PC: None, Owner: None, Channels: 2, Time: 2020.09.17-04.47.47
+[2020.09.17-04.47.47:973][911]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:58752, Name: IpConnection_5, Driver: GameNetDriver IpNetDriver_4, IsServer: YES, PC: None, Owner: None
+[2020.09.17-04.47.47:974][911]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_4, Driver: GameNetDriver IpNetDriver_5, IsServer: NO, PC: None, Owner: None
+[2020.09.17-04.47.47:974][911]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_4, Driver: GameNetDriver IpNetDriver_5, IsServer: NO, PC: None, Owner: None, Channels: 2, Time: 2020.09.17-04.47.47
+[2020.09.17-04.47.47:974][911]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_4, Driver: GameNetDriver IpNetDriver_5, IsServer: NO, PC: None, Owner: None
+[2020.09.17-04.47.47:988][911]LogExit: GameNetDriver None shut down
+[2020.09.17-04.47.47:988][911]LogExit: GameNetDriver None shut down
+[2020.09.17-04.52.21:135][118]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.070
+[2020.09.17-04.52.21:141][118]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/ThirdPersonCharacter] ([1] browsable assets)...
+[2020.09.17-04.52.21:203][118]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter]
+[2020.09.17-04.52.21:204][118]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/ThirdPersonCharacter]
+[2020.09.17-04.52.21:417][118]LogSavePackage: Save=180.02ms
+[2020.09.17-04.52.21:417][118]LogSavePackage: Moving '../../../../../../Users/DANIEL_FS/Documents/GitHub/MuseoVirtualUdeM/Saved/ThirdPersonCharacter_Auto2F98E1DAB40FB7FEA097014801433BE96.tmp' to '../../../../../../Users/DANIEL_FS/Documents/GitHub/MuseoVirtualUdeM/Saved/Autosaves/Game/Blueprints/ThirdPersonCharacter_Auto2.uasset'
+[2020.09.17-04.52.21:420][118]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/DANIEL_FS/Documents/GitHub/MuseoVirtualUdeM/Saved/Autosaves/Game/Blueprints/ThirdPersonCharacter_Auto2.uasset
+[2020.09.17-04.52.21:421][118]LogFileHelpers: Auto-saving content packages took 0.284
+[2020.09.17-04.53.41:042][134]BlueprintLog: New page: Collapse to Function
+[2020.09.17-04.54.19:681][636]LogSlate: Took 0.027356 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2020.09.17-04.54.43:777][596]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2020.09.17-04.54.45:356][618]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/ThirdPersonCharacter" FILE="../../../../../../Users/DANIEL_FS/Documents/GitHub/MuseoVirtualUdeM/Content/Blueprints/ThirdPersonCharacter.uasset" SILENT=true
+[2020.09.17-04.54.45:619][618]LogSavePackage: Save=231.26ms
+[2020.09.17-04.54.45:619][618]LogSavePackage: Moving '../../../../../../Users/DANIEL_FS/Documents/GitHub/MuseoVirtualUdeM/Saved/ThirdPersonCharacter012ADFD646DB93E1C9F6B3B2F351DC78.tmp' to '../../../../../../Users/DANIEL_FS/Documents/GitHub/MuseoVirtualUdeM/Content/Blueprints/ThirdPersonCharacter.uasset'
+[2020.09.17-04.54.45:627][618]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/DANIEL_FS/Documents/GitHub/MuseoVirtualUdeM/Content/Blueprints/ThirdPersonCharacter.uasset
+[2020.09.17-04.54.46:821][669]LogTemp: Repeating last play command: Selected Viewport
+[2020.09.17-04.54.46:861][669]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.09.17-04.54.46:862][669]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.09.17-04.54.46:866][669]PIE: New page: PIE session: ThirdPersonExampleMap (Sep 16, 2020, 6:54:46 PM)
+[2020.09.17-04.54.46:867][669]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_1_ThirdPersonExampleMap
+[2020.09.17-04.54.46:920][669]LogPlayLevel: PIE: StaticDuplicateObject took: (0.052916s)
+[2020.09.17-04.54.46:922][669]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.09.17-04.54.46:924][669]LogPlayLevel: PIE: World Init took: (0.003732s)
+[2020.09.17-04.54.46:924][669]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_1_ThirdPersonExampleMap.ThirdPersonExampleMap (0.057826s)
+[2020.09.17-04.54.47:015][669]LogInit: XAudio2 using 'Altavoces (Conexant SmartAudio HD)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2020.09.17-04.54.47:100][669]LogInit: FAudioDevice initialized.
+[2020.09.17-04.54.47:149][669]LogLoad: Game class is 'BP_GameMode_C'
+[2020.09.17-04.54.47:153][669]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_1_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2020.09.16-23.54.47
+[2020.09.17-04.54.47:155][669]LogWorld: Bringing up level for play took: 0.003768
+[2020.09.17-04.54.47:156][669]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.09.17-04.54.47:157][669]LogTemp: Display: ParseSettings for IpNetDriver_6
+[2020.09.17-04.54.47:157][669]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.09.17-04.54.47:157][669]LogInit: WinSock: Socket queue 131072 / 131072
+[2020.09.17-04.54.47:158][669]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2020.09.17-04.54.47:158][669]LogNet: GameNetDriver IpNetDriver_6 IpNetDriver listening on port 17777
+[2020.09.17-04.54.47:158][669]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.09.17-04.54.47:159][669]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.09.17-04.54.47:159][669]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.09.17-04.54.47:166][669]UGameSparksModuleLog: Warning: GameSparks::Initialize
+[2020.09.17-04.54.47:168][669]UGameSparksModuleLog: Initialized
+[2020.09.17-04.54.47:169][669]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.09.17-04.54.47:169][669]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_1_ThirdPersonExampleMap -0.068
+[2020.09.17-04.54.47:174][669]PIE: New page: PIE session: ThirdPersonExampleMap (Sep 16, 2020, 6:54:47 PM)
+[2020.09.17-04.54.47:256][669]LogNet: Browse: 127.0.0.1:17777//Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2020.09.17-04.54.47:256][669]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.09.17-04.54.47:256][669]LogTemp: Display: ParseSettings for IpNetDriver_7
+[2020.09.17-04.54.47:256][669]LogTemp: Display: ParseSettings for PendingNetDriver
+[2020.09.17-04.54.47:256][669]LogInit: WinSock: Socket queue 32768 / 32768
+[2020.09.17-04.54.47:258][669]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2020.09.17-04.54.47:258][669]LogNet: Game client on port 17777, rate 10000
+[2020.09.17-04.54.47:269][669]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap 0.032
+[2020.09.17-04.54.47:287][669]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.09.17-04.54.47:289][669]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:56728
+[2020.09.17-04.54.47:289][669]LogHandshake: SendConnectChallenge. Timestamp: 0.016667, Cookie: 210179037206247143251108082088238214149066224037202023045140
+[2020.09.17-04.54.47:292][669]LogHandshake: SendChallengeResponse. Timestamp: 0.016667, Cookie: 210179037206247143251108082088238214149066224037202023045140
+[2020.09.17-04.54.47:294][669]UGameSparksModuleLog: Create new connection
+[2020.09.17-04.54.47:297][669]UGameSparksModuleLog: WebSocket closed
+[2020.09.17-04.54.48:533][670]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:56728
+[2020.09.17-04.54.48:534][670]LogHandshake: SendChallengeAck. InCookie: 210179037206247143251108082088238214149066224037202023045140
+[2020.09.17-04.54.48:534][670]LogNet: Server accepting post-challenge connection from: 127.0.0.1:56728
+[2020.09.17-04.54.48:534][670]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2020.09.17-04.54.48:535][670]LogNet: NotifyAcceptedConnection: Name: ThirdPersonExampleMap, TimeStamp: 09/16/20 23:54:48, [UNetConnection] RemoteAddr: 127.0.0.1:56728, Name: IpConnection_7, Driver: GameNetDriver IpNetDriver_6, IsServer: YES, PC: NULL, Owner: NULL
+[2020.09.17-04.54.48:535][670]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:56728, Name: IpConnection_7, Driver: GameNetDriver IpNetDriver_6, IsServer: YES, PC: NULL, Owner: NULL
+[2020.09.17-04.54.48:538][670]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_6, Driver: PendingNetDriver IpNetDriver_7, IsServer: NO, PC: NULL, Owner: NULL
+[2020.09.17-04.54.48:571][671]LogNet: NotifyAcceptingChannel Control 0 server World /Game/ThirdPersonBP/Maps/UEDPIE_1_ThirdPersonExampleMap.ThirdPersonExampleMap: Accepted
+[2020.09.17-04.54.48:571][671]LogNet: Remote platform little endian=1
+[2020.09.17-04.54.48:572][671]LogNet: This platform little endian=1
+[2020.09.17-04.54.48:575][671]UGameSparksModuleLog: WebSocket callback: {"@class": ".AuthenticatedConnectResponse","connectUrl": "wss://gsp-aeu000-se07.gamesparks.net/ws/device/293711ZXWjA9","requestId": "0"}
+[2020.09.17-04.54.48:575][671]UGameSparksModuleLog: Received new connection url from gamesparks backend. Establishing new connection now.
+[2020.09.17-04.54.48:575][671]UGameSparksModuleLog: Create new connection
+[2020.09.17-04.54.48:577][671]UGameSparksModuleLog: Handle authentication connect response with immediate handshake
+[2020.09.17-04.54.48:577][671]UGameSparksModuleLog: WebSocket closed
+[2020.09.17-04.54.48:592][672]LogNet: Login request: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap userId: Invalid
+[2020.09.17-04.54.48:595][672]LogNet: Welcomed by server (Level: /Game/ThirdPersonBP/Maps/UEDPIE_1_ThirdPersonExampleMap, Game: /Game/Blueprints/BP_GameMode.BP_GameMode_C)
+[2020.09.17-04.54.48:608][672]LogLoad: LoadMap: 127.0.0.1:17777//Game/ThirdPersonBP/Maps/UEDPIE_1_ThirdPersonExampleMap?game=/Game/Blueprints/BP_GameMode.BP_GameMode_C
+[2020.09.17-04.54.48:748][672]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.09.17-04.54.48:749][672]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.09.17-04.54.48:754][672]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_2_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2020.09.16-23.54.48
+[2020.09.17-04.54.48:755][672]LogWorld: Bringing up level for play took: 0.003640
+[2020.09.17-04.54.48:755][672]LogLoad: Took 0.147093 seconds to LoadMap(/Game/ThirdPersonBP/Maps/UEDPIE_1_ThirdPersonExampleMap)
+[2020.09.17-04.54.48:781][673]LogNet: Client netspeed is 10000
+[2020.09.17-04.54.48:782][673]LogNet: Join request: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap?SplitscreenCount=1
+[2020.09.17-04.54.48:790][673]LogNet: Join succeeded: User263
+[2020.09.17-04.54.50:029][690]UGameSparksModuleLog: WebSocket callback: {"@class":".AuthenticatedConnectResponse","nonce":"26965e4d-2514-49fb-b90f-2aa066229126","requestId":"0"}
+[2020.09.17-04.54.50:029][690]UGameSparksModuleLog: Handle authentication connect response with immediate handshake
+[2020.09.17-04.54.50:033][690]UGameSparksModuleLog: Send immediate request: {
+	"@class":	".AuthenticatedConnectRequest",
+	"hmac":	"hhm4DFgddkn+cK5ap6Nu2P6GUUjoyqMQpcUAoRS45g4=",
+	"os":	"Windows",
+	"platform":	"Windows",
+	"deviceId":	"358f339235f14dd54cfdd76c989536aa",
+	"deviceStats":	{
+		"cpu.cores":	"4",
+		"cpu.vendor":	"AMD FX-7500 Radeon R7, 10 Compute Cores 4C+6G  ",
+		"engine":	"Unreal Engine",
+		"engine.version":	"4.18.0",
+		"manufacturer":	"Microsoft",
+		"memory":	"7098 MB",
+		"model":	"PC",
+		"os.name":	"Windows",
+		"os.version":	"10.0.18362.959",
+		"os.version.major":	"10",
+		"os.version.major.minor":	"10.0",
+		"resolution":	"1366x768",
+		"gssdk":	"1.1.18.0"
+	},
+	"authToken":	"9bf2c250-3613-4828-b7ed-9369920e7108",
+	"sessionId":	"7ffaf585-6b17-4c3c-a4d1-ccf6c082d853"
+}
+[2020.09.17-04.54.50:034][690]UGameSparksModuleLog: Handshake request sent
+[2020.09.17-04.54.50:325][695]UGameSparksModuleLog: WebSocket callback: {"@class":".AuthenticatedConnectResponse","authToken":"63665ca0-3ca0-468f-b2df-91d35029e468","requestId":"0","sessionId":"7ffaf585-6b17-4c3c-a4d1-ccf6c082d853","userId":"5f569cc37e50dd01db2bb2f1"}
+[2020.09.17-04.54.50:325][695]UGameSparksModuleLog: Received auth token
+[2020.09.17-04.54.50:326][695]UGameSparksModuleLog: Handle authentication connect response with immediate handshake
+[2020.09.17-04.54.50:327][695]UGameSparksModuleLog: Warning: GameSparks::GameSparksAvailable_Static
+[2020.09.17-04.54.50:327][695]LogBlueprintUserMessages: [BP_GameMode_C_0] Server: Gamesparks available
+[2020.09.17-04.54.52:041][724]UGameSparksModuleLog: Send immediate request: {
+	"@class":	".AuthenticationRequest",
+	"password":	"dan",
+	"userName":	"dan",
+	"requestId":	"1600318492_7"
+}
+[2020.09.17-04.54.52:288][728]UGameSparksModuleLog: WebSocket callback: {"@class":".AuthenticationResponse","authToken":"071682a9-c1c3-4aff-959c-1952ec154a6a","displayName":"dan","newPlayer":false,"requestId":"1600318492_7","userId":"5f628e387e50dd01db7dfbad"}
+[2020.09.17-04.54.52:288][728]UGameSparksModuleLog: Received auth token
+[2020.09.17-04.54.52:289][728]LogBlueprintUserMessages: [LoginUI_C_11] Client 1: Welcome back dan
+[2020.09.17-04.54.52:290][728]PIE: Error: SetInputMode_GameOnly expects a valid player controller as target
+[2020.09.17-04.54.52:290][728]UGameSparksModuleLog: New UserId init persistent queue
+[2020.09.17-04.55.02:477][891]UGameSparksModuleLog: Send immediate request: {
+	"@class":	".AuthenticationRequest",
+	"password":	"daniels",
+	"userName":	"daniels",
+	"requestId":	"1600318502_8"
+}
+[2020.09.17-04.55.02:733][895]UGameSparksModuleLog: WebSocket callback: {"@class":".AuthenticationResponse","authToken":"49357af4-fbce-4b45-8c70-2279d93e0e4e","displayName":"Daniels","newPlayer":false,"requestId":"1600318502_8","userId":"5f569cc37e50dd01db2bb2f1"}
+[2020.09.17-04.55.02:733][895]UGameSparksModuleLog: Received auth token
+[2020.09.17-04.55.02:734][895]LogBlueprintUserMessages: [LoginUI_C_10] Server: Welcome back Daniels
+[2020.09.17-04.55.02:735][895]PIE: Error: SetInputMode_GameOnly expects a valid player controller as target
+[2020.09.17-04.55.02:735][895]UGameSparksModuleLog: New UserId init persistent queue
+[2020.09.17-04.55.08:597][990]UGameSparksModuleLog: Send immediate request: {
+	"@class":	".AuthenticationRequest",
+	"password":	"daniels",
+	"userName":	"daniels",
+	"requestId":	"1600318508_9"
+}
+[2020.09.17-04.55.08:789][993]UGameSparksModuleLog: WebSocket callback: {"@class":".AuthenticationResponse","authToken":"ada5bbed-b1c1-4f71-a452-592ef658e426","displayName":"Daniels","newPlayer":false,"requestId":"1600318508_9","userId":"5f569cc37e50dd01db2bb2f1"}
+[2020.09.17-04.55.08:789][993]UGameSparksModuleLog: Received auth token
+[2020.09.17-04.55.08:791][993]LogBlueprintUserMessages: [LoginUI_C_9] Server: Welcome back Daniels
+[2020.09.17-04.55.08:792][993]PIE: Error: SetInputMode_GameOnly expects a valid player controller as target
+[2020.09.17-04.55.19:373][161]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.09.17-04.55.19:502][161]UGameSparksModuleLog: Warning: GameSparks::Shutdown
+[2020.09.17-04.55.19:502][161]UGameSparksModuleLog: Starting connection terminate
+[2020.09.17-04.55.19:502][161]UGameSparksModuleLog: WebSocket closed
+[2020.09.17-04.55.19:503][161]UGameSparksModuleLog: Connection terminated
+[2020.09.17-04.55.19:503][161]UGameSparksModuleLog: Warning: GameSparks::GameSparksAvailable_Static
+[2020.09.17-04.55.19:503][161]LogBlueprintUserMessages: [BP_GameMode_C_0] Server: Gamesparks unavailable
+[2020.09.17-04.55.19:543][161]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.09.17-04.55.19:621][161]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:56728, Name: IpConnection_7, Driver: GameNetDriver IpNetDriver_6, IsServer: YES, PC: BP_PlayerController_C_1, Owner: BP_PlayerController_C_1
+[2020.09.17-04.55.19:621][161]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:56728, Name: IpConnection_7, Driver: GameNetDriver IpNetDriver_6, IsServer: YES, PC: BP_PlayerController_C_1, Owner: BP_PlayerController_C_1, Channels: 3, Time: 2020.09.17-04.55.19
+[2020.09.17-04.55.19:621][161]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:56728, Name: IpConnection_7, Driver: GameNetDriver IpNetDriver_6, IsServer: YES, PC: BP_PlayerController_C_1, Owner: BP_PlayerController_C_1
+[2020.09.17-04.55.19:622][161]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_6, Driver: GameNetDriver IpNetDriver_7, IsServer: NO, PC: None, Owner: None
+[2020.09.17-04.55.19:622][161]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_6, Driver: GameNetDriver IpNetDriver_7, IsServer: NO, PC: None, Owner: None, Channels: 2, Time: 2020.09.17-04.55.19
+[2020.09.17-04.55.19:622][161]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_6, Driver: GameNetDriver IpNetDriver_7, IsServer: NO, PC: None, Owner: None
+[2020.09.17-04.55.19:636][161]LogExit: GameNetDriver None shut down
+[2020.09.17-04.55.19:636][161]LogExit: GameNetDriver None shut down
+[2020.09.17-04.55.38:856][973]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2020.09.17-04.55.40:433][989]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/ThirdPersonCharacter" FILE="../../../../../../Users/DANIEL_FS/Documents/GitHub/MuseoVirtualUdeM/Content/Blueprints/ThirdPersonCharacter.uasset" SILENT=true
+[2020.09.17-04.55.40:706][989]LogSavePackage: Save=238.66ms
+[2020.09.17-04.55.40:706][989]LogSavePackage: Moving '../../../../../../Users/DANIEL_FS/Documents/GitHub/MuseoVirtualUdeM/Saved/ThirdPersonCharacter7193B9814B299C2E3E542B8B1CB0AC71.tmp' to '../../../../../../Users/DANIEL_FS/Documents/GitHub/MuseoVirtualUdeM/Content/Blueprints/ThirdPersonCharacter.uasset'
+[2020.09.17-04.55.40:714][989]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/DANIEL_FS/Documents/GitHub/MuseoVirtualUdeM/Content/Blueprints/ThirdPersonCharacter.uasset
+[2020.09.17-04.55.41:914][ 41]LogTemp: Repeating last play command: Selected Viewport
+[2020.09.17-04.55.41:954][ 41]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.09.17-04.55.41:954][ 41]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.09.17-04.55.41:958][ 41]PIE: New page: PIE session: ThirdPersonExampleMap (Sep 16, 2020, 6:55:41 PM)
+[2020.09.17-04.55.41:958][ 41]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_1_ThirdPersonExampleMap
+[2020.09.17-04.55.42:006][ 41]LogPlayLevel: PIE: StaticDuplicateObject took: (0.047867s)
+[2020.09.17-04.55.42:009][ 41]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.09.17-04.55.42:010][ 41]LogPlayLevel: PIE: World Init took: (0.003669s)
+[2020.09.17-04.55.42:011][ 41]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_1_ThirdPersonExampleMap.ThirdPersonExampleMap (0.052517s)
+[2020.09.17-04.55.42:098][ 41]LogInit: XAudio2 using 'Altavoces (Conexant SmartAudio HD)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2020.09.17-04.55.42:164][ 41]LogInit: FAudioDevice initialized.
+[2020.09.17-04.55.42:213][ 41]LogLoad: Game class is 'BP_GameMode_C'
+[2020.09.17-04.55.42:218][ 41]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_1_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2020.09.16-23.55.42
+[2020.09.17-04.55.42:219][ 41]LogWorld: Bringing up level for play took: 0.003613
+[2020.09.17-04.55.42:221][ 41]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.09.17-04.55.42:221][ 41]LogTemp: Display: ParseSettings for IpNetDriver_8
+[2020.09.17-04.55.42:221][ 41]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.09.17-04.55.42:221][ 41]LogInit: WinSock: Socket queue 131072 / 131072
+[2020.09.17-04.55.42:223][ 41]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2020.09.17-04.55.42:223][ 41]LogNet: GameNetDriver IpNetDriver_8 IpNetDriver listening on port 17777
+[2020.09.17-04.55.42:223][ 41]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.09.17-04.55.42:223][ 41]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.09.17-04.55.42:223][ 41]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.09.17-04.55.42:230][ 41]UGameSparksModuleLog: Warning: GameSparks::Initialize
+[2020.09.17-04.55.42:233][ 41]UGameSparksModuleLog: Initialized
+[2020.09.17-04.55.42:234][ 41]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.09.17-04.55.42:234][ 41]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_1_ThirdPersonExampleMap 0.996
+[2020.09.17-04.55.42:239][ 41]PIE: New page: PIE session: ThirdPersonExampleMap (Sep 16, 2020, 6:55:42 PM)
+[2020.09.17-04.55.42:317][ 41]LogNet: Browse: 127.0.0.1:17777//Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2020.09.17-04.55.42:318][ 41]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.09.17-04.55.42:318][ 41]LogTemp: Display: ParseSettings for IpNetDriver_9
+[2020.09.17-04.55.42:318][ 41]LogTemp: Display: ParseSettings for PendingNetDriver
+[2020.09.17-04.55.42:318][ 41]LogInit: WinSock: Socket queue 32768 / 32768
+[2020.09.17-04.55.42:319][ 41]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2020.09.17-04.55.42:320][ 41]LogNet: Game client on port 17777, rate 10000
+[2020.09.17-04.55.42:330][ 41]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap 1.092
+[2020.09.17-04.55.42:349][ 41]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.09.17-04.55.42:351][ 41]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:60012
+[2020.09.17-04.55.42:351][ 41]LogHandshake: SendConnectChallenge. Timestamp: 0.016667, Cookie: 025136170097150238248006160092146091082199155229111164071127
+[2020.09.17-04.55.42:354][ 41]LogHandshake: SendChallengeResponse. Timestamp: 0.016667, Cookie: 025136170097150238248006160092146091082199155229111164071127
+[2020.09.17-04.55.42:358][ 41]UGameSparksModuleLog: Create new connection
+[2020.09.17-04.55.42:361][ 41]UGameSparksModuleLog: WebSocket closed
+[2020.09.17-04.55.43:217][ 42]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:60012
+[2020.09.17-04.55.43:217][ 42]LogHandshake: SendChallengeAck. InCookie: 025136170097150238248006160092146091082199155229111164071127
+[2020.09.17-04.55.43:218][ 42]LogNet: Server accepting post-challenge connection from: 127.0.0.1:60012
+[2020.09.17-04.55.43:218][ 42]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2020.09.17-04.55.43:218][ 42]LogNet: NotifyAcceptedConnection: Name: ThirdPersonExampleMap, TimeStamp: 09/16/20 23:55:43, [UNetConnection] RemoteAddr: 127.0.0.1:60012, Name: IpConnection_9, Driver: GameNetDriver IpNetDriver_8, IsServer: YES, PC: NULL, Owner: NULL
+[2020.09.17-04.55.43:219][ 42]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:60012, Name: IpConnection_9, Driver: GameNetDriver IpNetDriver_8, IsServer: YES, PC: NULL, Owner: NULL
+[2020.09.17-04.55.43:222][ 42]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_8, Driver: PendingNetDriver IpNetDriver_9, IsServer: NO, PC: NULL, Owner: NULL
+[2020.09.17-04.55.43:255][ 43]LogNet: NotifyAcceptingChannel Control 0 server World /Game/ThirdPersonBP/Maps/UEDPIE_1_ThirdPersonExampleMap.ThirdPersonExampleMap: Accepted
+[2020.09.17-04.55.43:255][ 43]LogNet: Remote platform little endian=1
+[2020.09.17-04.55.43:255][ 43]LogNet: This platform little endian=1
+[2020.09.17-04.55.43:274][ 44]LogNet: Login request: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap userId: Invalid
+[2020.09.17-04.55.43:276][ 44]LogNet: Welcomed by server (Level: /Game/ThirdPersonBP/Maps/UEDPIE_1_ThirdPersonExampleMap, Game: /Game/Blueprints/BP_GameMode.BP_GameMode_C)
+[2020.09.17-04.55.43:293][ 44]LogLoad: LoadMap: 127.0.0.1:17777//Game/ThirdPersonBP/Maps/UEDPIE_1_ThirdPersonExampleMap?game=/Game/Blueprints/BP_GameMode.BP_GameMode_C
+[2020.09.17-04.55.43:408][ 44]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.09.17-04.55.43:408][ 44]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.09.17-04.55.43:414][ 44]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_2_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2020.09.16-23.55.43
+[2020.09.17-04.55.43:415][ 44]LogWorld: Bringing up level for play took: 0.004142
+[2020.09.17-04.55.43:416][ 44]LogLoad: Took 0.123523 seconds to LoadMap(/Game/ThirdPersonBP/Maps/UEDPIE_1_ThirdPersonExampleMap)
+[2020.09.17-04.55.43:417][ 44]UGameSparksModuleLog: WebSocket callback: {"@class": ".AuthenticatedConnectResponse","connectUrl": "wss://gsp-aeu000-se07.gamesparks.net/ws/device/293711ZXWjA9","requestId": "0"}
+[2020.09.17-04.55.43:417][ 44]UGameSparksModuleLog: Received new connection url from gamesparks backend. Establishing new connection now.
+[2020.09.17-04.55.43:417][ 44]UGameSparksModuleLog: Create new connection
+[2020.09.17-04.55.43:420][ 44]UGameSparksModuleLog: Handle authentication connect response with immediate handshake
+[2020.09.17-04.55.43:420][ 44]UGameSparksModuleLog: WebSocket closed
+[2020.09.17-04.55.43:445][ 45]LogNet: Client netspeed is 10000
+[2020.09.17-04.55.43:445][ 45]LogNet: Join request: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap?SplitscreenCount=1
+[2020.09.17-04.55.43:451][ 45]LogNet: Join succeeded: User265
+[2020.09.17-04.55.44:718][ 58]UGameSparksModuleLog: WebSocket callback: {"@class":".AuthenticatedConnectResponse","nonce":"19904181-7842-4fd6-b760-22694fc8b565","requestId":"0"}
+[2020.09.17-04.55.44:718][ 58]UGameSparksModuleLog: Handle authentication connect response with immediate handshake
+[2020.09.17-04.55.44:722][ 58]UGameSparksModuleLog: Send immediate request: {
+	"@class":	".AuthenticatedConnectRequest",
+	"hmac":	"pjEU13WGcZleAGKejE+quDIuqiJRhMKwdGQfGe1c+5s=",
+	"os":	"Windows",
+	"platform":	"Windows",
+	"deviceId":	"358f339235f14dd54cfdd76c989536aa",
+	"deviceStats":	{
+		"cpu.cores":	"4",
+		"cpu.vendor":	"AMD FX-7500 Radeon R7, 10 Compute Cores 4C+6G  ",
+		"engine":	"Unreal Engine",
+		"engine.version":	"4.18.0",
+		"manufacturer":	"Microsoft",
+		"memory":	"7098 MB",
+		"model":	"PC",
+		"os.name":	"Windows",
+		"os.version":	"10.0.18362.959",
+		"os.version.major":	"10",
+		"os.version.major.minor":	"10.0",
+		"resolution":	"1366x768",
+		"gssdk":	"1.1.18.0"
+	},
+	"authToken":	"ada5bbed-b1c1-4f71-a452-592ef658e426",
+	"sessionId":	"7ffaf585-6b17-4c3c-a4d1-ccf6c082d853"
+}
+[2020.09.17-04.55.44:723][ 58]UGameSparksModuleLog: Handshake request sent
+[2020.09.17-04.55.44:966][ 62]UGameSparksModuleLog: WebSocket callback: {"@class":".AuthenticatedConnectResponse","authToken":"25c83d86-4c0b-4013-8255-aa76a552c215","requestId":"0","sessionId":"7ffaf585-6b17-4c3c-a4d1-ccf6c082d853","userId":"5f569cc37e50dd01db2bb2f1"}
+[2020.09.17-04.55.44:966][ 62]UGameSparksModuleLog: Received auth token
+[2020.09.17-04.55.44:968][ 62]UGameSparksModuleLog: Handle authentication connect response with immediate handshake
+[2020.09.17-04.55.44:969][ 62]UGameSparksModuleLog: Warning: GameSparks::GameSparksAvailable_Static
+[2020.09.17-04.55.44:969][ 62]LogBlueprintUserMessages: [BP_GameMode_C_0] Server: Gamesparks available
+[2020.09.17-04.55.46:704][ 91]UGameSparksModuleLog: Send immediate request: {
+	"@class":	".AuthenticationRequest",
+	"password":	"dan",
+	"userName":	"dan",
+	"requestId":	"1600318546_10"
+}
+[2020.09.17-04.55.46:952][ 95]UGameSparksModuleLog: WebSocket callback: {"@class":".AuthenticationResponse","authToken":"bc79f657-d46e-4413-b78c-e2cb184b68e5","displayName":"dan","newPlayer":false,"requestId":"1600318546_10","userId":"5f628e387e50dd01db7dfbad"}
+[2020.09.17-04.55.46:952][ 95]UGameSparksModuleLog: Received auth token
+[2020.09.17-04.55.46:953][ 95]LogBlueprintUserMessages: [LoginUI_C_14] Client 1: Welcome back dan
+[2020.09.17-04.55.46:953][ 95]PIE: Error: SetInputMode_GameOnly expects a valid player controller as target
+[2020.09.17-04.55.46:954][ 95]UGameSparksModuleLog: New UserId init persistent queue
+[2020.09.17-04.56.01:634][335]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.09.17-04.56.01:762][335]UGameSparksModuleLog: Warning: GameSparks::Shutdown
+[2020.09.17-04.56.01:762][335]UGameSparksModuleLog: Starting connection terminate
+[2020.09.17-04.56.01:762][335]UGameSparksModuleLog: WebSocket closed
+[2020.09.17-04.56.01:763][335]UGameSparksModuleLog: Connection terminated
+[2020.09.17-04.56.01:763][335]UGameSparksModuleLog: Warning: GameSparks::GameSparksAvailable_Static
+[2020.09.17-04.56.01:763][335]LogBlueprintUserMessages: [BP_GameMode_C_0] Server: Gamesparks unavailable
+[2020.09.17-04.56.01:801][335]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.09.17-04.56.01:874][335]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:60012, Name: IpConnection_9, Driver: GameNetDriver None, IsServer: YES, PC: None, Owner: None
+[2020.09.17-04.56.01:875][335]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:60012, Name: IpConnection_9, Driver: GameNetDriver None, IsServer: YES, PC: None, Owner: None, Channels: 2, Time: 2020.09.17-04.56.01
+[2020.09.17-04.56.01:875][335]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:60012, Name: IpConnection_9, Driver: GameNetDriver None, IsServer: YES, PC: None, Owner: None
+[2020.09.17-04.56.01:875][335]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_8, Driver: GameNetDriver IpNetDriver_9, IsServer: NO, PC: None, Owner: None
+[2020.09.17-04.56.01:875][335]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_8, Driver: GameNetDriver IpNetDriver_9, IsServer: NO, PC: None, Owner: None, Channels: 2, Time: 2020.09.17-04.56.01
+[2020.09.17-04.56.01:875][335]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_8, Driver: GameNetDriver IpNetDriver_9, IsServer: NO, PC: None, Owner: None
+[2020.09.17-04.56.01:888][335]LogExit: GameNetDriver None shut down
+[2020.09.17-04.56.01:888][335]LogExit: GameNetDriver None shut down
+[2020.09.17-05.58.49:164][995]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.09.17-05.58.49:847][996]Cmd: QUIT_EDITOR
+[2020.09.17-05.58.50:812][996]LogExit: Preparing to exit.
+[2020.09.17-05.58.51:800][996]LogDirectoryWatcher: A directory notification for 'C:/Users/DANIEL_FS/Documents/GitHub/MuseoVirtualUdeM/Content/' was aborted.
+[2020.09.17-05.58.52:335][996]LogExit: Editor shut down
+[2020.09.17-05.58.52:439][996]LogExit: Transaction tracking system shut down
+[2020.09.17-05.58.52:908][996]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2020.09.17-05.58.52:908][996]LogDirectoryWatcher: A directory notification for '../../../../../../Users/DANIEL_FS/Documents/GitHub/MuseoVirtualUdeM/Content/' was aborted.
+[2020.09.17-05.58.52:908][996]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2020.09.17-05.58.52:908][996]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Marketplace/GameSparks/Content/' was aborted.
+[2020.09.17-05.58.52:908][996]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Media/MediaCompositing/Content/' was aborted.
+[2020.09.17-05.58.52:909][996]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2020.09.17-05.58.52:909][996]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2020.09.17-05.58.52:909][996]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2020.09.17-05.58.53:991][996]LogExit: Object subsystem successfully closed.
+[2020.09.17-05.58.54:312][996]LogD3D11RHI: Shutdown
+[2020.09.17-05.58.54:313][996]LogD3D11RHI: CleanupD3DDevice
+[2020.09.17-05.58.54:420][996]LogD3D11RHI: ~FD3D11DynamicRHI
+[2020.09.17-05.58.55:958][996]LogModuleManager: Shutting down and abandoning module BlueprintGraph (560)
+[2020.09.17-05.58.55:958][996]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (556)
+[2020.09.17-05.58.55:959][996]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (554)
+[2020.09.17-05.58.55:959][996]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (552)
+[2020.09.17-05.58.55:959][996]LogModuleManager: Shutting down and abandoning module SceneOutliner (550)
+[2020.09.17-05.58.55:960][996]LogModuleManager: Shutting down and abandoning module AddContentDialog (548)
+[2020.09.17-05.58.55:961][996]LogDirectoryWatcher: A directory notification for 'C:/Program Files/Epic Games/UE_4.18/FeaturePacks/' was aborted.
+[2020.09.17-05.58.55:962][996]LogModuleManager: Shutting down and abandoning module WidgetCarousel (547)
+[2020.09.17-05.58.55:962][996]LogModuleManager: Shutting down and abandoning module EditorWidgets (544)
+[2020.09.17-05.58.55:962][996]LogModuleManager: Shutting down and abandoning module CollectionManager (542)
+[2020.09.17-05.58.55:964][996]LogDirectoryWatcher: A directory notification for 'C:/Users/DANIEL_FS/Documents/GitHub/MuseoVirtualUdeM/Content/Collections/' was aborted.
+[2020.09.17-05.58.55:965][996]LogDirectoryWatcher: A directory notification for 'C:/Users/DANIEL_FS/Documents/GitHub/MuseoVirtualUdeM/Content/Developers/DANIELFS/Collections/' was aborted.
+[2020.09.17-05.58.55:965][996]LogDirectoryWatcher: A directory notification for 'C:/Users/DANIEL_FS/Documents/GitHub/MuseoVirtualUdeM/Saved/Collections/' was aborted.
+[2020.09.17-05.58.55:965][996]LogModuleManager: Shutting down and abandoning module StatsViewer (540)
+[2020.09.17-05.58.55:967][996]LogModuleManager: Shutting down and abandoning module FoliageEdit (538)
+[2020.09.17-05.58.55:970][996]LogModuleManager: Shutting down and abandoning module LandscapeEditor (536)
+[2020.09.17-05.58.55:997][996]LogModuleManager: Shutting down and abandoning module MeshPaintMode (534)
+[2020.09.17-05.58.55:999][996]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (532)
+[2020.09.17-05.58.56:000][996]LogModuleManager: Shutting down and abandoning module ActorPickerMode (530)
+[2020.09.17-05.58.56:000][996]LogModuleManager: Shutting down and abandoning module GeometryMode (528)
+[2020.09.17-05.58.56:008][996]LogModuleManager: Shutting down and abandoning module TextureAlignMode (526)
+[2020.09.17-05.58.56:008][996]LogModuleManager: Shutting down and abandoning module BspMode (524)
+[2020.09.17-05.58.56:009][996]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (522)
+[2020.09.17-05.58.56:010][996]LogModuleManager: Shutting down and abandoning module HardwareSurvey (520)
+[2020.09.17-05.58.56:010][996]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (518)
+[2020.09.17-05.58.56:011][996]LogModuleManager: Shutting down and abandoning module AutomationWorker (516)
+[2020.09.17-05.58.56:012][996]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (514)
+[2020.09.17-05.58.56:017][996]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (512)
+[2020.09.17-05.58.56:031][996]LogModuleManager: Shutting down and abandoning module PlacementMode (511)
+[2020.09.17-05.58.56:031][996]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (508)
+[2020.09.17-05.58.56:031][996]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (506)
+[2020.09.17-05.58.56:031][996]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (504)
+[2020.09.17-05.58.56:031][996]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (502)
+[2020.09.17-05.58.56:031][996]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (500)
+[2020.09.17-05.58.56:032][996]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (498)
+[2020.09.17-05.58.56:032][996]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (496)
+[2020.09.17-05.58.56:032][996]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (494)
+[2020.09.17-05.58.56:032][996]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (492)
+[2020.09.17-05.58.56:033][996]LogModuleManager: Shutting down and abandoning module CharacterAI (490)
+[2020.09.17-05.58.56:033][996]LogModuleManager: Shutting down and abandoning module AudioCapture (488)
+[2020.09.17-05.58.56:041][996]LogModuleManager: Shutting down and abandoning module SequenceRecorder (487)
+[2020.09.17-05.58.56:044][996]LogModuleManager: Shutting down and abandoning module SmartSnapping (484)
+[2020.09.17-05.58.56:044][996]LogModuleManager: Shutting down and abandoning module SessionServices (482)
+[2020.09.17-05.58.56:044][996]LogModuleManager: Shutting down and abandoning module ViewportSnapping (480)
+[2020.09.17-05.58.56:044][996]LogModuleManager: Shutting down and abandoning module ViewportInteraction (478)
+[2020.09.17-05.58.56:044][996]LogModuleManager: Shutting down and abandoning module ClothPainter (476)
+[2020.09.17-05.58.56:053][996]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (475)
+[2020.09.17-05.58.56:065][996]LogModuleManager: Shutting down and abandoning module LogVisualizer (472)
+[2020.09.17-05.58.56:084][996]LogModuleManager: Shutting down and abandoning module IntroTutorials (470)
+[2020.09.17-05.58.56:097][996]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (469)
+[2020.09.17-05.58.56:103][996]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (466)
+[2020.09.17-05.58.56:104][996]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (464)
+[2020.09.17-05.58.56:104][996]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (462)
+[2020.09.17-05.58.56:104][996]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (461)
+[2020.09.17-05.58.56:432][996]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (458)
+[2020.09.17-05.58.56:432][996]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (456)
+[2020.09.17-05.58.56:432][996]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (454)
+[2020.09.17-05.58.56:432][996]LogModuleManager: Shutting down and abandoning module InputBindingEditor (452)
+[2020.09.17-05.58.56:434][996]LogModuleManager: Shutting down and abandoning module MergeActors (450)
+[2020.09.17-05.58.56:438][996]LogModuleManager: Shutting down and abandoning module SizeMap (448)
+[2020.09.17-05.58.56:439][996]LogModuleManager: Shutting down and abandoning module TreeMap (446)
+[2020.09.17-05.58.56:443][996]LogModuleManager: Shutting down and abandoning module ReferenceViewer (444)
+[2020.09.17-05.58.56:444][996]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (442)
+[2020.09.17-05.58.56:448][996]LogModuleManager: Shutting down and abandoning module LocalizationService (441)
+[2020.09.17-05.58.56:449][996]LogModuleManager: Shutting down and abandoning module HardwareTargeting (438)
+[2020.09.17-05.58.56:449][996]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (436)
+[2020.09.17-05.58.56:450][996]LogModuleManager: Shutting down and abandoning module UndoHistory (434)
+[2020.09.17-05.58.56:451][996]LogModuleManager: Shutting down and abandoning module XmlParser (432)
+[2020.09.17-05.58.56:451][996]LogModuleManager: Shutting down and abandoning module Blutility (430)
+[2020.09.17-05.58.56:454][996]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (428)
+[2020.09.17-05.58.56:456][996]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (427)
+[2020.09.17-05.58.56:460][996]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (424)
+[2020.09.17-05.58.56:461][996]LogModuleManager: Shutting down and abandoning module SettingsEditor (422)
+[2020.09.17-05.58.56:465][996]LogModuleManager: Shutting down and abandoning module ProjectLauncher (420)
+[2020.09.17-05.58.56:467][996]LogModuleManager: Shutting down and abandoning module SessionFrontend (418)
+[2020.09.17-05.58.56:471][996]LogModuleManager: Shutting down and abandoning module ProfilerClient (416)
+[2020.09.17-05.58.56:473][996]LogModuleManager: Shutting down and abandoning module DeviceManager (414)
+[2020.09.17-05.58.56:474][996]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (413)
+[2020.09.17-05.58.56:543][996]LogModuleManager: Shutting down and abandoning module AutomationController (410)
+[2020.09.17-05.58.56:545][996]LogModuleManager: Shutting down and abandoning module AutomationWindow (408)
+[2020.09.17-05.58.56:550][996]LogModuleManager: Shutting down and abandoning module Layers (406)
+[2020.09.17-05.58.56:559][996]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (404)
+[2020.09.17-05.58.56:559][996]LogModuleManager: Shutting down and abandoning module DetailCustomizations (402)
+[2020.09.17-05.58.56:562][996]LogModuleManager: Shutting down and abandoning module PackagesDialog (400)
+[2020.09.17-05.58.56:566][996]LogModuleManager: Shutting down and abandoning module Persona (398)
+[2020.09.17-05.58.56:574][996]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (397)
+[2020.09.17-05.58.56:574][996]LogModuleManager: Shutting down and abandoning module AnimGraph (395)
+[2020.09.17-05.58.56:575][996]LogModuleManager: Shutting down and abandoning module Kismet (392)
+[2020.09.17-05.58.56:676][996]LogModuleManager: Shutting down and abandoning module ClassViewer (390)
+[2020.09.17-05.58.56:676][996]LogModuleManager: Shutting down and abandoning module Toolbox (388)
+[2020.09.17-05.58.56:676][996]LogModuleManager: Shutting down and abandoning module ModuleUI (386)
+[2020.09.17-05.58.56:677][996]LogModuleManager: Shutting down and abandoning module MovieSceneTools (384)
+[2020.09.17-05.58.56:684][996]LogModuleManager: Shutting down and abandoning module OutputLog (382)
+[2020.09.17-05.58.56:686][996]LogModuleManager: Shutting down and abandoning module GammaUI (380)
+[2020.09.17-05.58.56:687][996]LogModuleManager: Shutting down and abandoning module Documentation (378)
+[2020.09.17-05.58.56:692][996]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (376)
+[2020.09.17-05.58.56:693][996]LogModuleManager: Shutting down and abandoning module MovieScene (374)
+[2020.09.17-05.58.56:693][996]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (372)
+[2020.09.17-05.58.56:694][996]LogModuleManager: Shutting down and abandoning module LauncherPlatform (370)
+[2020.09.17-05.58.56:694][996]LogModuleManager: Shutting down and abandoning module AnalyticsET (368)
+[2020.09.17-05.58.56:694][996]LogModuleManager: Shutting down and abandoning module PortalServices (366)
+[2020.09.17-05.58.56:694][996]LogModuleManager: Shutting down and abandoning module PortalRpc (364)
+[2020.09.17-05.58.56:694][996]LogModuleManager: Shutting down and abandoning module MessagingRpc (362)
+[2020.09.17-05.58.56:694][996]LogModuleManager: Shutting down and abandoning module AIModule (360)
+[2020.09.17-05.58.56:695][996]LogModuleManager: Shutting down and abandoning module GameplayDebugger (359)
+[2020.09.17-05.58.56:695][996]LogModuleManager: Shutting down and abandoning module AITestSuite (357)
+[2020.09.17-05.58.56:696][996]LogModuleManager: Shutting down and abandoning module DesktopPlatform (354)
+[2020.09.17-05.58.56:696][996]LogModuleManager: Shutting down and abandoning module ProfilerService (352)
+[2020.09.17-05.58.56:774][996]LogModuleManager: Shutting down and abandoning module TaskGraph (350)
+[2020.09.17-05.58.56:777][996]LogModuleManager: Shutting down and abandoning module SteamVRController (348)
+[2020.09.17-05.58.56:777][996]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (346)
+[2020.09.17-05.58.56:777][996]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (344)
+[2020.09.17-05.58.56:779][996]LogModuleManager: Shutting down and abandoning module OculusInput (342)
+[2020.09.17-05.58.56:779][996]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (340)
+[2020.09.17-05.58.56:779][996]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (338)
+[2020.09.17-05.58.56:779][996]LogModuleManager: Shutting down and abandoning module CableComponent (336)
+[2020.09.17-05.58.56:779][996]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (334)
+[2020.09.17-05.58.56:780][996]LogModuleManager: Shutting down and abandoning module AndroidPermission (332)
+[2020.09.17-05.58.56:780][996]LogModuleManager: Shutting down and abandoning module ActorSequence (328)
+[2020.09.17-05.58.56:780][996]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (326)
+[2020.09.17-05.58.56:784][996]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (324)
+[2020.09.17-05.58.56:785][996]LogModuleManager: Shutting down and abandoning module MediaCompositing (322)
+[2020.09.17-05.58.56:785][996]LogModuleManager: Shutting down and abandoning module HTML5Networking (318)
+[2020.09.17-05.58.56:785][996]LogModuleManager: Shutting down and abandoning module AlembicImporter (316)
+[2020.09.17-05.58.56:787][996]LogModuleManager: Shutting down and abandoning module AlembicLibrary (315)
+[2020.09.17-05.58.56:788][996]LogModuleManager: Shutting down and abandoning module GeometryCache (314)
+[2020.09.17-05.58.56:789][996]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (313)
+[2020.09.17-05.58.56:789][996]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (308)
+[2020.09.17-05.58.56:790][996]LogModuleManager: Shutting down and abandoning module PluginBrowser (306)
+[2020.09.17-05.58.56:795][996]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (304)
+[2020.09.17-05.58.56:798][996]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (302)
+[2020.09.17-05.58.56:798][996]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (300)
+[2020.09.17-05.58.56:799][996]LogModuleManager: Shutting down and abandoning module UObjectPlugin (298)
+[2020.09.17-05.58.56:799][996]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (296)
+[2020.09.17-05.58.56:803][996]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (294)
+[2020.09.17-05.58.56:808][996]LogModuleManager: Shutting down and abandoning module GitSourceControl (292)
+[2020.09.17-05.58.56:812][996]LogModuleManager: Shutting down and abandoning module SourceControl (291)
+[2020.09.17-05.58.56:814][996]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (288)
+[2020.09.17-05.58.56:814][996]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (286)
+[2020.09.17-05.58.56:814][996]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (284)
+[2020.09.17-05.58.56:814][996]LogModuleManager: Shutting down and abandoning module Paper2DEditor (282)
+[2020.09.17-05.58.56:816][996]LogModuleManager: Shutting down and abandoning module MeshPaint (281)
+[2020.09.17-05.58.56:816][996]LogModuleManager: Shutting down and abandoning module LevelEditor (279)
+[2020.09.17-05.58.56:829][996]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (278)
+[2020.09.17-05.58.56:837][996]LogModuleManager: Shutting down and abandoning module MainFrame (276)
+[2020.09.17-05.58.56:840][996]LogModuleManager: Shutting down and abandoning module HotReload (275)
+[2020.09.17-05.58.56:848][996]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (270)
+[2020.09.17-05.58.56:848][996]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (268)
+[2020.09.17-05.58.56:850][996]LogModuleManager: Shutting down and abandoning module PhysXVehicles (266)
+[2020.09.17-05.58.56:850][996]LogModuleManager: Shutting down and abandoning module OculusEditor (264)
+[2020.09.17-05.58.56:850][996]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (262)
+[2020.09.17-05.58.56:850][996]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (260)
+[2020.09.17-05.58.56:850][996]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (258)
+[2020.09.17-05.58.56:850][996]LogModuleManager: Shutting down and abandoning module UdpMessaging (256)
+[2020.09.17-05.58.56:951][996]LogModuleManager: Shutting down and abandoning module TcpMessaging (254)
+[2020.09.17-05.58.57:059][996]LogModuleManager: Shutting down and abandoning module GameSparks (252)
+[2020.09.17-05.58.57:060][996]UGameSparksModuleLog: Starting connection terminate
+[2020.09.17-05.58.57:060][996]UGameSparksModuleLog: Connection terminated
+[2020.09.17-05.58.57:061][996]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (250)
+[2020.09.17-05.58.57:064][996]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (248)
+[2020.09.17-05.58.57:064][996]LogModuleManager: Shutting down and abandoning module FacialAnimation (246)
+[2020.09.17-05.58.57:064][996]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (244)
+[2020.09.17-05.58.57:067][996]LogModuleManager: Shutting down and abandoning module GraphEditor (243)
+[2020.09.17-05.58.57:068][996]LogModuleManager: Shutting down and abandoning module ContentBrowser (241)
+[2020.09.17-05.58.57:079][996]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2020.09.17-05.58.57:079][996]LogModuleManager: Shutting down and abandoning module Paper2D (236)
+[2020.09.17-05.58.57:081][996]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (234)
+[2020.09.17-05.58.57:084][996]LogModuleManager: Shutting down and abandoning module WmfMedia (232)
+[2020.09.17-05.58.57:095][996]LogModuleManager: Shutting down and abandoning module ImgMedia (230)
+[2020.09.17-05.58.57:098][996]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2020.09.17-05.58.57:098][996]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2020.09.17-05.58.57:101][996]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2020.09.17-05.58.57:108][996]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2020.09.17-05.58.57:108][996]LogModuleManager: Shutting down and abandoning module Media (221)
+[2020.09.17-05.58.57:115][996]LogModuleManager: Shutting down and abandoning module Overlay (218)
+[2020.09.17-05.58.57:115][996]LogModuleManager: Shutting down and abandoning module OverlayEditor (217)
+[2020.09.17-05.58.57:115][996]LogModuleManager: Shutting down and abandoning module VREditor (214)
+[2020.09.17-05.58.57:122][996]LogModuleManager: Shutting down and abandoning module StringTableEditor (212)
+[2020.09.17-05.58.57:123][996]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (210)
+[2020.09.17-05.58.57:123][996]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (208)
+[2020.09.17-05.58.57:129][996]LogModuleManager: Shutting down and abandoning module FunctionalTesting (206)
+[2020.09.17-05.58.57:130][996]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (204)
+[2020.09.17-05.58.57:132][996]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (203)
+[2020.09.17-05.58.57:139][996]LogModuleManager: Shutting down and abandoning module UMG (200)
+[2020.09.17-05.58.57:141][996]LogModuleManager: Shutting down and abandoning module UMGEditor (199)
+[2020.09.17-05.58.57:145][996]LogModuleManager: Shutting down and abandoning module Sequencer (198)
+[2020.09.17-05.58.57:155][996]LogModuleManager: Shutting down and abandoning module MessageLog (195)
+[2020.09.17-05.58.57:155][996]LogModuleManager: Shutting down and abandoning module SlateReflector (190)
+[2020.09.17-05.58.57:163][996]LogModuleManager: Shutting down and abandoning module Slate (188)
+[2020.09.17-05.58.57:163][996]LogModuleManager: Shutting down and abandoning module EditorStyle (186)
+[2020.09.17-05.58.57:198][996]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2020.09.17-05.58.57:198][996]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2020.09.17-05.58.57:199][996]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2020.09.17-05.58.57:199][996]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2020.09.17-05.58.57:199][996]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2020.09.17-05.58.57:199][996]LogModuleManager: Shutting down and abandoning module Core (172)
+[2020.09.17-05.58.57:199][996]LogModuleManager: Shutting down and abandoning module LevelSequence (168)
+[2020.09.17-05.58.57:200][996]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (166)
+[2020.09.17-05.58.57:231][996]LogModuleManager: Shutting down and abandoning module KismetCompiler (164)
+[2020.09.17-05.58.57:232][996]LogModuleManager: Shutting down and abandoning module MeshUtilities (162)
+[2020.09.17-05.58.57:239][996]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (161)
+[2020.09.17-05.58.57:244][996]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (160)
+[2020.09.17-05.58.57:244][996]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (159)
+[2020.09.17-05.58.57:245][996]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (157)
+[2020.09.17-05.58.57:246][996]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (155)
+[2020.09.17-05.58.57:248][996]LogModuleManager: Shutting down and abandoning module MaterialBaking (151)
+[2020.09.17-05.58.57:251][996]LogModuleManager: Shutting down and abandoning module DerivedDataCache (148)
+[2020.09.17-05.58.57:301][996]LogDerivedDataCache: Shutdown
+[2020.09.17-05.58.57:301][996]LogModuleManager: Shutting down and abandoning module TargetPlatform (146)
+[2020.09.17-05.58.57:303][996]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (145)
+[2020.09.17-05.58.57:304][996]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (143)
+[2020.09.17-05.58.57:305][996]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (141)
+[2020.09.17-05.58.57:306][996]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (139)
+[2020.09.17-05.58.57:307][996]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (137)
+[2020.09.17-05.58.57:309][996]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (135)
+[2020.09.17-05.58.57:310][996]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (133)
+[2020.09.17-05.58.57:310][996]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (131)
+[2020.09.17-05.58.57:311][996]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (129)
+[2020.09.17-05.58.57:314][996]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (127)
+[2020.09.17-05.58.57:314][996]LogModuleManager: Shutting down and abandoning module ImageWrapper (126)
+[2020.09.17-05.58.57:314][996]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (123)
+[2020.09.17-05.58.57:314][996]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (121)
+[2020.09.17-05.58.57:318][996]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (119)
+[2020.09.17-05.58.57:319][996]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (117)
+[2020.09.17-05.58.57:322][996]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (115)
+[2020.09.17-05.58.57:323][996]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (113)
+[2020.09.17-05.58.57:323][996]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (111)
+[2020.09.17-05.58.57:324][996]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (109)
+[2020.09.17-05.58.57:324][996]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (107)
+[2020.09.17-05.58.57:325][996]LogModuleManager: Shutting down and abandoning module Messaging (105)
+[2020.09.17-05.58.57:326][996]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (103)
+[2020.09.17-05.58.57:326][996]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (101)
+[2020.09.17-05.58.57:329][996]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (99)
+[2020.09.17-05.58.57:330][996]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (97)
+[2020.09.17-05.58.57:330][996]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (95)
+[2020.09.17-05.58.57:330][996]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (93)
+[2020.09.17-05.58.57:330][996]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (91)
+[2020.09.17-05.58.57:330][996]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (89)
+[2020.09.17-05.58.57:330][996]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (87)
+[2020.09.17-05.58.57:330][996]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (85)
+[2020.09.17-05.58.57:330][996]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (83)
+[2020.09.17-05.58.57:330][996]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (81)
+[2020.09.17-05.58.57:331][996]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (79)
+[2020.09.17-05.58.57:331][996]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (77)
+[2020.09.17-05.58.57:332][996]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (75)
+[2020.09.17-05.58.57:332][996]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (73)
+[2020.09.17-05.58.57:333][996]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (71)
+[2020.09.17-05.58.57:333][996]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (69)
+[2020.09.17-05.58.57:334][996]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (67)
+[2020.09.17-05.58.57:334][996]LogModuleManager: Shutting down and abandoning module InputCore (64)
+[2020.09.17-05.58.57:334][996]LogModuleManager: Shutting down and abandoning module Settings (62)
+[2020.09.17-05.58.57:334][996]LogModuleManager: Shutting down and abandoning module PhysXCooking (60)
+[2020.09.17-05.58.57:334][996]LogModuleManager: Shutting down and abandoning module SteamVR (58)
+[2020.09.17-05.58.57:337][996]LogModuleManager: Shutting down and abandoning module OculusHMD (56)
+[2020.09.17-05.58.57:339][996]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (54)
+[2020.09.17-05.58.57:340][996]LogModuleManager: Shutting down and abandoning module AppleARKit (52)
+[2020.09.17-05.58.57:340][996]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
+[2020.09.17-05.58.57:341][996]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2020.09.17-05.58.57:341][996]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2020.09.17-05.58.57:350][996]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2020.09.17-05.58.57:356][996]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2020.09.17-05.58.57:356][996]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2020.09.17-05.58.57:356][996]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BAD1B607A-477B-622E-ABFB-B49239B799B3%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.18.3-3832480%2B%2B%2BUE4%2BRelease-4.18&UserID=9b6dbcb4445d4601be87fb895c674e51%7C2e912bc81e1a4bbaaeef14cf93f0304b%7Cd9b6a37d-0c37-4dde-affb-64daeea4b517&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2020.09.17-05.58.57:374][996]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2020.09.17-05.58.57:392][996]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2020.09.17-05.58.57:398][996]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2020.09.17-05.58.57:400][996]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2020.09.17-05.58.57:406][996]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2020.09.17-05.58.57:407][996]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2020.09.17-05.58.57:407][996]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2020.09.17-05.58.57:407][996]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2020.09.17-05.58.57:448][996]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2020.09.17-05.58.57:450][996]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2020.09.17-05.58.57:450][996]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2020.09.17-05.58.57:451][996]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2020.09.17-05.58.57:459][996]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2020.09.17-05.58.57:459][996]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2020.09.17-05.58.57:460][996]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2020.09.17-05.58.57:460][996]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2020.09.17-05.58.57:460][996]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2020.09.17-05.58.57:461][996]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2020.09.17-05.58.57:462][996]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2020.09.17-05.58.57:493][996]LogExit: Exiting.
+[2020.09.17-05.58.57:632][996]Log file closed, 09/17/20 00:58:57
