@@ -1,4 +1,4 @@
-﻿Log file open, 10/12/20 00:14:43
+﻿Log file open, 10/12/20 00:23:48
 LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
 LogWindows: File 'aqProf.dll' does not exist
 LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
@@ -9,12 +9,12 @@ LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
 LogWindows: File 'VtuneApi32e.dll' does not exist
 LogInit: Display: Running engine for game: MuseoVirtualUdem
 LogPlatformFile: Not using cached read wrapper
-LogInit: Display: RandInit(-25434520) SRandInit(-25434520).
+LogInit: Display: RandInit(1129501347) SRandInit(1129501347).
 LogInit: Read version file with build ID '3709383'
 LogInit: Overriding engine version to CL 3832480, compatible CL 3709383
 LogInit: Registered custom module enumerator with build ID '3709383'
 LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
-LogStats: Stats thread started at 0.173732
+LogStats: Stats thread started at 0.181730
 LogD3D11RHI: Aftermath initialized
 LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Marketplace/GameSparks/Binaries/Win64/UE4Editor-GameSparks.dll (API version 3709383).
 LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Marketplace/GameSparks/Binaries/Win64/UE4Editor-OnlineSubsystemGameSparks.dll (API version 3709383).
@@ -199,461 +199,453 @@ LogInit: Base directory: D:/Mutant/UE_4.18/Engine/Binaries/Win64/
 LogInit: Installed Engine Build: 1
 LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
 LogInit: Object subsystem initialized
-[2020.10.12-05.14.44:437][  0]LogInit: Selected Device Profile: [Windows]
-[2020.10.12-05.14.44:437][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
-[2020.10.12-05.14.44:446][  0]LogInit: Computer: DESKTOP-E44TFJF
-[2020.10.12-05.14.44:446][  0]LogInit: User: USER
-[2020.10.12-05.14.44:446][  0]LogInit: CPU Page size=4096, Cores=4
-[2020.10.12-05.14.44:446][  0]LogInit: High frequency timer resolution =10.000000 MHz
-[2020.10.12-05.14.44:447][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
-[2020.10.12-05.14.44:447][  0]LogMemory: Platform Memory Stats for Windows
-[2020.10.12-05.14.44:447][  0]LogMemory: Process Physical Memory: 272.45 MB used, 272.45 MB peak
-[2020.10.12-05.14.44:447][  0]LogMemory: Process Virtual Memory: 270.09 MB used, 270.09 MB peak
-[2020.10.12-05.14.44:447][  0]LogMemory: Physical Memory: 5449.76 MB used,  2687.85 MB free, 8137.61 MB total
-[2020.10.12-05.14.44:447][  0]LogMemory: Virtual Memory: 4762.64 MB used,  2687.85 MB free, 134217728.00 MB total
-[2020.10.12-05.14.44:616][  0]LogInit: Using OS detected language (es-ES).
-[2020.10.12-05.14.44:616][  0]LogInit: Using OS detected locale (es-CO).
-[2020.10.12-05.14.44:619][  0]LogTextLocalizationManager: No specific localization for 'es-ES' exists, so the 'es' localization will be used.
-[2020.10.12-05.14.44:808][  0]LogInit: Setting process to per monitor DPI aware
-[2020.10.12-05.14.45:040][  0]LogD3D11RHI: D3D11 adapters:
-[2020.10.12-05.14.45:109][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050' (Feature Level 11_0)
-[2020.10.12-05.14.45:109][  0]LogD3D11RHI:       1977/0/4068 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
-[2020.10.12-05.14.45:113][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
-[2020.10.12-05.14.45:113][  0]LogD3D11RHI:       0/0/4068 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
-[2020.10.12-05.14.45:113][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
-[2020.10.12-05.14.45:120][  0]LogD3D11RHI: Creating new Direct3DDevice
-[2020.10.12-05.14.45:120][  0]LogD3D11RHI:     GPU DeviceId: 0x1c81 (for the marketing name, search the web for "GPU Device Id")
-[2020.10.12-05.14.45:120][  0]LogWindows: EnumDisplayDevices:
-[2020.10.12-05.14.45:120][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1050' (P:1 D:1)
-[2020.10.12-05.14.45:120][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1050' (P:0 D:0)
-[2020.10.12-05.14.45:120][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1050' (P:0 D:0)
-[2020.10.12-05.14.45:120][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1050' (P:0 D:0)
-[2020.10.12-05.14.45:121][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
-[2020.10.12-05.14.45:121][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050
-[2020.10.12-05.14.45:121][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
-[2020.10.12-05.14.45:121][  0]LogD3D11RHI:      Driver Date: Unknown
-[2020.10.12-05.14.45:121][  0]LogRHI: Texture pool is 1384 MB (70% of 1977 MB)
-[2020.10.12-05.14.45:167][  0]LogD3D11RHI: Async texture creation enabled
-[2020.10.12-05.14.45:180][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
-[2020.10.12-05.14.45:182][  0]LogShaderCompilers: Guid format shader working directory is -2 characters bigger than the processId version (C:/Users/USER/Documents/GitHub/MuseoVirtualUdeM/Intermediate/Shaders/WorkingDirectory/5488/).
-[2020.10.12-05.14.45:183][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/USER/AppData/Local/Temp/UnrealShaderWorkingDir/DA8179CA4730F94F149A23A7F050D5CB/'.
-[2020.10.12-05.14.45:183][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
-[2020.10.12-05.14.46:127][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
-[2020.10.12-05.14.46:174][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
-[2020.10.12-05.14.46:220][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
-[2020.10.12-05.14.46:266][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
-[2020.10.12-05.14.46:312][  0]LogTemp: Display: Loaded TP MacTargetPlatform
-[2020.10.12-05.14.46:358][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
-[2020.10.12-05.14.46:404][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
-[2020.10.12-05.14.46:449][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
-[2020.10.12-05.14.46:489][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
-[2020.10.12-05.14.46:534][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
-[2020.10.12-05.14.46:581][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
-[2020.10.12-05.14.46:625][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
-[2020.10.12-05.14.46:670][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
-[2020.10.12-05.14.46:716][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
-[2020.10.12-05.14.46:806][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
-[2020.10.12-05.14.46:806][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
-[2020.10.12-05.14.46:853][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2020.10.12-05.14.46:888][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
-[2020.10.12-05.14.46:971][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
-[2020.10.12-05.14.46:995][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
-[2020.10.12-05.14.47:039][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
-[2020.10.12-05.14.47:084][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
-[2020.10.12-05.14.47:129][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
-[2020.10.12-05.14.47:174][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
-[2020.10.12-05.14.47:174][  0]LogTargetPlatformManager: Display: Building Assets For Windows
-[2020.10.12-05.14.47:567][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
-[2020.10.12-05.14.47:649][  0]LogDerivedDataCache: Loaded boot cache 0.08s 78MB C:/Users/USER/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
-[2020.10.12-05.14.47:649][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/USER/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
-[2020.10.12-05.14.47:649][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/USER/Documents/GitHub/MuseoVirtualUdeM/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
-[2020.10.12-05.14.47:649][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
-[2020.10.12-05.14.47:649][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/USER/Documents/GitHub/MuseoVirtualUdeM/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
-[2020.10.12-05.14.47:649][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
-[2020.10.12-05.14.47:665][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
-[2020.10.12-05.14.47:678][  0]LogDerivedDataCache: Using Local data cache path C:/Users/USER/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
-[2020.10.12-05.14.47:688][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
-[2020.10.12-05.14.47:688][  0]LogSlate: Using Freetype 2.6.0
-[2020.10.12-05.14.47:689][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
-[2020.10.12-05.14.47:689][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
-[2020.10.12-05.14.48:049][  0]LogInit: Selected Device Profile: [Windows]
-[2020.10.12-05.14.48:341][  0]LogSimplygon: Simplygon DLL not present - disabling.
-[2020.10.12-05.14.48:376][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
-[2020.10.12-05.14.48:376][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
-[2020.10.12-05.14.48:376][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
-[2020.10.12-05.14.48:376][  0]LogMeshReduction: No automatic mesh merging module available
-[2020.10.12-05.14.48:376][  0]LogMeshMerging: No automatic mesh merging module available
-[2020.10.12-05.14.48:404][  0]LogNetVersion: MuseoVirtualUdem , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 2631075334)
-[2020.10.12-05.14.48:571][  0]LogAssetRegistry: FAssetRegistry took 0.0265 seconds to start up
-[2020.10.12-05.14.49:067][  0]LogPackageLocalizationCache: Processed 8 localized package path(s) for 2 prioritized culture(s) in 0.067468 seconds
-[2020.10.12-05.14.49:073][  0]LogUObjectArray: 35870 objects as part of root set at end of initial load.
-[2020.10.12-05.14.49:073][  0]LogUObjectAllocator: 7363704 out of 0 bytes used by permanent object pool.
-[2020.10.12-05.14.49:073][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
-[2020.10.12-05.14.49:116][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
-[2020.10.12-05.14.51:643][  0]UGameSparksModuleLog: Warning: GameSparks::StartupModule
-[2020.10.12-05.14.51:671][  0]LogTcpMessaging: Initializing TcpMessaging bridge
-[2020.10.12-05.14.51:709][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
-[2020.10.12-05.14.52:321][  0]LogMaterial: Uniform references updated for custom material expression Custom.
-[2020.10.12-05.14.52:703][  0]SourceControl: El control de código fuente está desactivado
-[2020.10.12-05.14.52:703][  0]SourceControl: El control de código fuente está desactivado
-[2020.10.12-05.14.52:752][  0]SourceControl: El control de código fuente está desactivado
-[2020.10.12-05.14.52:800][  0]SourceControl: El control de código fuente está desactivado
-[2020.10.12-05.14.53:570][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
-[2020.10.12-05.14.53:811][  0]LogOcInput: OculusInput pre-init called
-[2020.10.12-05.14.54:066][  0]LogEngine: Initializing Engine...
-[2020.10.12-05.14.54:069][  0]LogHMD: Failed to initialize OpenVR with code 110
-[2020.10.12-05.14.54:320][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
-[2020.10.12-05.14.54:320][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
-[2020.10.12-05.14.54:429][  0]LogAIModule: Creating AISystem for world Untitled
-[2020.10.12-05.14.54:455][  0]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
-[2020.10.12-05.14.54:506][  0]LogInit: FAudioDevice initialized.
-[2020.10.12-05.14.54:645][  0]LogDerivedDataCache: Saved boot cache 0.14s 78MB C:/Users/USER/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
-[2020.10.12-05.14.54:661][  0]LogInit: Texture streaming: Enabled
-[2020.10.12-05.14.54:746][  0]LogEngineSessionManager: EngineSessionManager initialized
-[2020.10.12-05.14.54:858][  0]LogInit: Transaction tracking system initialized
-[2020.10.12-05.14.55:129][  0]BlueprintLog: New page: Cargar el editor
-[2020.10.12-05.14.55:883][  0]LocalizationService: Localization service is disabled
-[2020.10.12-05.14.56:522][  0]LogConsoleResponse: Display: 
-[2020.10.12-05.14.56:681][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
-[2020.10.12-05.14.56:681][  0]LogCook: Display: Mobile HDR setting 1
-[2020.10.12-05.14.56:681][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
-[2020.10.12-05.14.57:712][  0]LogFileCache: Scanning file cache for directory 'C:/Users/USER/Documents/GitHub/MuseoVirtualUdeM/Content/' took 0.02s
-[2020.10.12-05.14.57:757][  0]SourceControl: El control de código fuente está desactivado
-[2020.10.12-05.14.57:757][  0]Cmd: MAP LOAD FILE="C:/Users/USER/Documents/GitHub/MuseoVirtualUdeM/Content/Scenes/Game.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
-[2020.10.12-05.14.57:757][  0]LightingResults: New page: Diseñar la iluminación
-[2020.10.12-05.14.57:796][  0]MapCheck: New page: Revisión del mapa
-[2020.10.12-05.14.57:796][  0]LightingResults: New page: Diseñar la iluminación
-[2020.10.12-05.14.58:624][  0]LogAIModule: Creating AISystem for world Game
-[2020.10.12-05.14.58:651][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
-[2020.10.12-05.14.58:666][  0]Cmd: MAP CHECKDEP NOCLEARLOG
-[2020.10.12-05.14.58:722][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 55,637ms to complete.
-[2020.10.12-05.14.58:722][  0]LogFileHelpers: Loading map 'Game' took 0.966
-[2020.10.12-05.14.58:866][  0]LogCollectionManager: Loaded 0 collections in 0.001157 seconds
-[2020.10.12-05.14.58:938][  0]LogFileCache: Scanning file cache for directory 'C:/Users/USER/Documents/GitHub/MuseoVirtualUdeM/Saved/Collections/' took 0.01s
-[2020.10.12-05.14.58:938][  0]LogFileCache: Scanning file cache for directory 'C:/Users/USER/Documents/GitHub/MuseoVirtualUdeM/Content/Developers/USER/Collections/' took 0.01s
-[2020.10.12-05.14.58:938][  0]LogFileCache: Scanning file cache for directory 'C:/Users/USER/Documents/GitHub/MuseoVirtualUdeM/Content/Collections/' took 0.01s
-[2020.10.12-05.14.58:938][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
-[2020.10.12-05.14.58:947][  0]LogContentBrowser: Native class hierarchy populated in 0.0083 seconds. Added 2462 classes and 523 folders.
-[2020.10.12-05.14.59:002][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
-[2020.10.12-05.14.59:037][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
-[2020.10.12-05.14.59:075][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
-[2020.10.12-05.14.59:096][  0]LogSlate: Took 0.000250 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
-[2020.10.12-05.14.59:098][  0]LogSlate: Took 0.000172 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
-[2020.10.12-05.14.59:104][  0]LogSlate: Took 0.000212 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
-[2020.10.12-05.14.59:207][  0]LogRenderer: Reallocating scene render targets to support 1208x580 Format 10 NumSamples 1 (Frame:1).
-[2020.10.12-05.14.59:391][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
-[2020.10.12-05.14.59:391][  0]LogLoad: (Engine Initialization) Total time: 17.26 seconds
-[2020.10.12-05.14.59:391][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
-[2020.10.12-05.14.59:391][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
-[2020.10.12-05.14.59:418][  0]LogContentStreaming: Texture pool size now 1000 MB
-[2020.10.12-05.14.59:439][  0]LogSlate: Took 0.000196 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
-[2020.10.12-05.14.59:464][  1]LogAssetRegistry: Asset discovery search completed in 10.9155 seconds
-[2020.10.12-05.14.59:467][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
-[2020.10.12-05.14.59:467][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000069 seconds (updated 0 objects)
-[2020.10.12-05.15.01:259][184]LogEditorViewport: Clicking on Actor (LMB): BP_M_Model_C (BP_M_Model)
-[2020.10.12-05.15.04:974][622]LogSlate: Took 0.000276 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
-[2020.10.12-05.15.06:433][788]LogSlate: Took 0.000257 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
-[2020.10.12-05.15.06:444][788]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/Game" FILE="C:/Users/USER/Documents/GitHub/MuseoVirtualUdeM/Content/Scenes/Game.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
-[2020.10.12-05.15.06:692][788]LogSavePackage: Save=199.75ms
-[2020.10.12-05.15.06:692][788]LogSavePackage: Moving 'C:/Users/USER/Documents/GitHub/MuseoVirtualUdeM/Saved/Game679A299E44A04D1FA62DF28E0BE29FCC.tmp' to 'C:/Users/USER/Documents/GitHub/MuseoVirtualUdeM/Content/Scenes/Game.umap'
-[2020.10.12-05.15.06:695][788]LogSavePackage: Display: Finished SavePackage C:/Users/USER/Documents/GitHub/MuseoVirtualUdeM/Content/Scenes/Game.umap
-[2020.10.12-05.15.06:720][788]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/Game_BuiltData" FILE="C:/Users/USER/Documents/GitHub/MuseoVirtualUdeM/Content/Scenes/Game_BuiltData.uasset" SILENT=true
-[2020.10.12-05.15.06:797][788]LogSavePackage: Save=34.19ms
-[2020.10.12-05.15.06:797][788]LogSavePackage: Moving 'C:/Users/USER/Documents/GitHub/MuseoVirtualUdeM/Saved/Game_BuiltDataB2074C58422C26F82C5224B0731DC5E1.tmp' to 'C:/Users/USER/Documents/GitHub/MuseoVirtualUdeM/Content/Scenes/Game_BuiltData.uasset'
-[2020.10.12-05.15.06:798][788]LogSavePackage: Display: Finished SavePackage C:/Users/USER/Documents/GitHub/MuseoVirtualUdeM/Content/Scenes/Game_BuiltData.uasset
-[2020.10.12-05.15.07:810][889]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
-[2020.10.12-05.15.08:007][890]Cmd: QUIT_EDITOR
-[2020.10.12-05.15.08:094][890]LogExit: Preparing to exit.
-[2020.10.12-05.15.08:804][890]LogExit: Editor shut down
-[2020.10.12-05.15.08:807][890]LogExit: Transaction tracking system shut down
-[2020.10.12-05.15.09:001][890]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
-[2020.10.12-05.15.09:001][890]LogDirectoryWatcher: A directory notification for 'C:/Users/USER/Documents/GitHub/MuseoVirtualUdeM/Content/' was aborted.
-[2020.10.12-05.15.09:001][890]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
-[2020.10.12-05.15.09:001][890]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Marketplace/GameSparks/Content/' was aborted.
-[2020.10.12-05.15.09:001][890]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Media/MediaCompositing/Content/' was aborted.
-[2020.10.12-05.15.09:001][890]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/AppleARKit/Content/' was aborted.
-[2020.10.12-05.15.09:002][890]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
-[2020.10.12-05.15.09:002][890]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
-[2020.10.12-05.15.09:052][890]LogExit: Object subsystem successfully closed.
-[2020.10.12-05.15.09:165][890]LogD3D11RHI: Shutdown
-[2020.10.12-05.15.09:165][890]LogD3D11RHI: CleanupD3DDevice
-[2020.10.12-05.15.09:167][890]LogD3D11RHI: ~FD3D11DynamicRHI
-[2020.10.12-05.15.09:176][890]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (552)
-[2020.10.12-05.15.09:176][890]LogModuleManager: Shutting down and abandoning module SceneOutliner (550)
-[2020.10.12-05.15.09:176][890]LogModuleManager: Shutting down and abandoning module AddContentDialog (548)
-[2020.10.12-05.15.09:176][890]LogDirectoryWatcher: A directory notification for 'D:/Mutant/UE_4.18/FeaturePacks/' was aborted.
-[2020.10.12-05.15.09:177][890]LogModuleManager: Shutting down and abandoning module WidgetCarousel (547)
-[2020.10.12-05.15.09:177][890]LogModuleManager: Shutting down and abandoning module EditorWidgets (544)
-[2020.10.12-05.15.09:177][890]LogModuleManager: Shutting down and abandoning module CollectionManager (542)
-[2020.10.12-05.15.09:177][890]LogDirectoryWatcher: A directory notification for 'C:/Users/USER/Documents/GitHub/MuseoVirtualUdeM/Content/Collections/' was aborted.
-[2020.10.12-05.15.09:177][890]LogDirectoryWatcher: A directory notification for 'C:/Users/USER/Documents/GitHub/MuseoVirtualUdeM/Content/Developers/USER/Collections/' was aborted.
-[2020.10.12-05.15.09:177][890]LogDirectoryWatcher: A directory notification for 'C:/Users/USER/Documents/GitHub/MuseoVirtualUdeM/Saved/Collections/' was aborted.
-[2020.10.12-05.15.09:177][890]LogModuleManager: Shutting down and abandoning module StatsViewer (540)
-[2020.10.12-05.15.09:177][890]LogModuleManager: Shutting down and abandoning module FoliageEdit (538)
-[2020.10.12-05.15.09:178][890]LogModuleManager: Shutting down and abandoning module LandscapeEditor (536)
-[2020.10.12-05.15.09:178][890]LogModuleManager: Shutting down and abandoning module MeshPaintMode (534)
-[2020.10.12-05.15.09:178][890]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (532)
-[2020.10.12-05.15.09:178][890]LogModuleManager: Shutting down and abandoning module ActorPickerMode (530)
-[2020.10.12-05.15.09:178][890]LogModuleManager: Shutting down and abandoning module GeometryMode (528)
-[2020.10.12-05.15.09:178][890]LogModuleManager: Shutting down and abandoning module TextureAlignMode (526)
-[2020.10.12-05.15.09:178][890]LogModuleManager: Shutting down and abandoning module BspMode (524)
-[2020.10.12-05.15.09:178][890]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (522)
-[2020.10.12-05.15.09:178][890]LogModuleManager: Shutting down and abandoning module HardwareSurvey (520)
-[2020.10.12-05.15.09:178][890]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (518)
-[2020.10.12-05.15.09:178][890]LogModuleManager: Shutting down and abandoning module AutomationWorker (516)
-[2020.10.12-05.15.09:178][890]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (514)
-[2020.10.12-05.15.09:178][890]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (512)
-[2020.10.12-05.15.09:178][890]LogModuleManager: Shutting down and abandoning module PlacementMode (511)
-[2020.10.12-05.15.09:178][890]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (508)
-[2020.10.12-05.15.09:178][890]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (506)
-[2020.10.12-05.15.09:178][890]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (504)
-[2020.10.12-05.15.09:178][890]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (502)
-[2020.10.12-05.15.09:178][890]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (500)
-[2020.10.12-05.15.09:178][890]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (498)
-[2020.10.12-05.15.09:178][890]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (496)
-[2020.10.12-05.15.09:178][890]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (494)
-[2020.10.12-05.15.09:178][890]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (492)
-[2020.10.12-05.15.09:178][890]LogModuleManager: Shutting down and abandoning module CharacterAI (490)
-[2020.10.12-05.15.09:178][890]LogModuleManager: Shutting down and abandoning module AudioCapture (488)
-[2020.10.12-05.15.09:178][890]LogModuleManager: Shutting down and abandoning module SequenceRecorder (487)
-[2020.10.12-05.15.09:178][890]LogModuleManager: Shutting down and abandoning module SmartSnapping (484)
-[2020.10.12-05.15.09:178][890]LogModuleManager: Shutting down and abandoning module SessionServices (482)
-[2020.10.12-05.15.09:178][890]LogModuleManager: Shutting down and abandoning module ViewportSnapping (480)
-[2020.10.12-05.15.09:178][890]LogModuleManager: Shutting down and abandoning module ViewportInteraction (478)
-[2020.10.12-05.15.09:178][890]LogModuleManager: Shutting down and abandoning module ClothPainter (476)
-[2020.10.12-05.15.09:179][890]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (475)
-[2020.10.12-05.15.09:179][890]LogModuleManager: Shutting down and abandoning module LogVisualizer (472)
-[2020.10.12-05.15.09:179][890]LogModuleManager: Shutting down and abandoning module IntroTutorials (470)
-[2020.10.12-05.15.09:179][890]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (469)
-[2020.10.12-05.15.09:179][890]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (466)
-[2020.10.12-05.15.09:179][890]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (464)
-[2020.10.12-05.15.09:179][890]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (462)
-[2020.10.12-05.15.09:179][890]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (461)
-[2020.10.12-05.15.09:230][890]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (458)
-[2020.10.12-05.15.09:230][890]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (456)
-[2020.10.12-05.15.09:230][890]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (454)
-[2020.10.12-05.15.09:230][890]LogModuleManager: Shutting down and abandoning module InputBindingEditor (452)
-[2020.10.12-05.15.09:230][890]LogModuleManager: Shutting down and abandoning module MergeActors (450)
-[2020.10.12-05.15.09:230][890]LogModuleManager: Shutting down and abandoning module SizeMap (448)
-[2020.10.12-05.15.09:230][890]LogModuleManager: Shutting down and abandoning module TreeMap (446)
-[2020.10.12-05.15.09:230][890]LogModuleManager: Shutting down and abandoning module ReferenceViewer (444)
-[2020.10.12-05.15.09:230][890]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (442)
-[2020.10.12-05.15.09:230][890]LogModuleManager: Shutting down and abandoning module LocalizationService (441)
-[2020.10.12-05.15.09:230][890]LogModuleManager: Shutting down and abandoning module HardwareTargeting (438)
-[2020.10.12-05.15.09:230][890]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (436)
-[2020.10.12-05.15.09:230][890]LogModuleManager: Shutting down and abandoning module UndoHistory (434)
-[2020.10.12-05.15.09:230][890]LogModuleManager: Shutting down and abandoning module XmlParser (432)
-[2020.10.12-05.15.09:231][890]LogModuleManager: Shutting down and abandoning module Blutility (430)
-[2020.10.12-05.15.09:231][890]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (428)
-[2020.10.12-05.15.09:231][890]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (427)
-[2020.10.12-05.15.09:231][890]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (424)
-[2020.10.12-05.15.09:231][890]LogModuleManager: Shutting down and abandoning module SettingsEditor (422)
-[2020.10.12-05.15.09:231][890]LogModuleManager: Shutting down and abandoning module ProjectLauncher (420)
-[2020.10.12-05.15.09:231][890]LogModuleManager: Shutting down and abandoning module SessionFrontend (418)
-[2020.10.12-05.15.09:231][890]LogModuleManager: Shutting down and abandoning module ProfilerClient (416)
-[2020.10.12-05.15.09:231][890]LogModuleManager: Shutting down and abandoning module DeviceManager (414)
-[2020.10.12-05.15.09:231][890]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (413)
-[2020.10.12-05.15.09:282][890]LogModuleManager: Shutting down and abandoning module AutomationController (410)
-[2020.10.12-05.15.09:282][890]LogModuleManager: Shutting down and abandoning module AutomationWindow (408)
-[2020.10.12-05.15.09:282][890]LogModuleManager: Shutting down and abandoning module Layers (406)
-[2020.10.12-05.15.09:282][890]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (404)
-[2020.10.12-05.15.09:282][890]LogModuleManager: Shutting down and abandoning module DetailCustomizations (402)
-[2020.10.12-05.15.09:282][890]LogModuleManager: Shutting down and abandoning module PackagesDialog (400)
-[2020.10.12-05.15.09:282][890]LogModuleManager: Shutting down and abandoning module Persona (398)
-[2020.10.12-05.15.09:282][890]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (397)
-[2020.10.12-05.15.09:282][890]LogModuleManager: Shutting down and abandoning module AnimGraph (395)
-[2020.10.12-05.15.09:282][890]LogModuleManager: Shutting down and abandoning module Kismet (392)
-[2020.10.12-05.15.09:283][890]LogModuleManager: Shutting down and abandoning module ClassViewer (390)
-[2020.10.12-05.15.09:283][890]LogModuleManager: Shutting down and abandoning module Toolbox (388)
-[2020.10.12-05.15.09:283][890]LogModuleManager: Shutting down and abandoning module ModuleUI (386)
-[2020.10.12-05.15.09:283][890]LogModuleManager: Shutting down and abandoning module MovieSceneTools (384)
-[2020.10.12-05.15.09:283][890]LogModuleManager: Shutting down and abandoning module OutputLog (382)
-[2020.10.12-05.15.09:283][890]LogModuleManager: Shutting down and abandoning module GammaUI (380)
-[2020.10.12-05.15.09:283][890]LogModuleManager: Shutting down and abandoning module Documentation (378)
-[2020.10.12-05.15.09:283][890]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (376)
-[2020.10.12-05.15.09:283][890]LogModuleManager: Shutting down and abandoning module MovieScene (374)
-[2020.10.12-05.15.09:283][890]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (372)
-[2020.10.12-05.15.09:283][890]LogModuleManager: Shutting down and abandoning module LauncherPlatform (370)
-[2020.10.12-05.15.09:283][890]LogModuleManager: Shutting down and abandoning module AnalyticsET (368)
-[2020.10.12-05.15.09:283][890]LogModuleManager: Shutting down and abandoning module PortalServices (366)
-[2020.10.12-05.15.09:283][890]LogModuleManager: Shutting down and abandoning module PortalRpc (364)
-[2020.10.12-05.15.09:283][890]LogModuleManager: Shutting down and abandoning module MessagingRpc (362)
-[2020.10.12-05.15.09:283][890]LogModuleManager: Shutting down and abandoning module AIModule (360)
-[2020.10.12-05.15.09:283][890]LogModuleManager: Shutting down and abandoning module GameplayDebugger (359)
-[2020.10.12-05.15.09:283][890]LogModuleManager: Shutting down and abandoning module AITestSuite (357)
-[2020.10.12-05.15.09:283][890]LogModuleManager: Shutting down and abandoning module DesktopPlatform (354)
-[2020.10.12-05.15.09:283][890]LogModuleManager: Shutting down and abandoning module ProfilerService (352)
-[2020.10.12-05.15.09:513][890]LogModuleManager: Shutting down and abandoning module TaskGraph (350)
-[2020.10.12-05.15.09:513][890]LogModuleManager: Shutting down and abandoning module SteamVRController (348)
-[2020.10.12-05.15.09:513][890]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (346)
-[2020.10.12-05.15.09:513][890]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (344)
-[2020.10.12-05.15.09:513][890]LogModuleManager: Shutting down and abandoning module OculusInput (342)
-[2020.10.12-05.15.09:513][890]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (340)
-[2020.10.12-05.15.09:513][890]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (338)
-[2020.10.12-05.15.09:513][890]LogModuleManager: Shutting down and abandoning module CableComponent (336)
-[2020.10.12-05.15.09:513][890]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (334)
-[2020.10.12-05.15.09:513][890]LogModuleManager: Shutting down and abandoning module AndroidPermission (332)
-[2020.10.12-05.15.09:513][890]LogModuleManager: Shutting down and abandoning module ActorSequence (328)
-[2020.10.12-05.15.09:513][890]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (326)
-[2020.10.12-05.15.09:514][890]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (324)
-[2020.10.12-05.15.09:514][890]LogModuleManager: Shutting down and abandoning module MediaCompositing (322)
-[2020.10.12-05.15.09:514][890]LogModuleManager: Shutting down and abandoning module HTML5Networking (318)
-[2020.10.12-05.15.09:514][890]LogModuleManager: Shutting down and abandoning module AlembicImporter (316)
-[2020.10.12-05.15.09:514][890]LogModuleManager: Shutting down and abandoning module AlembicLibrary (315)
-[2020.10.12-05.15.09:514][890]LogModuleManager: Shutting down and abandoning module GeometryCache (314)
-[2020.10.12-05.15.09:514][890]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (313)
-[2020.10.12-05.15.09:514][890]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (308)
-[2020.10.12-05.15.09:514][890]LogModuleManager: Shutting down and abandoning module PluginBrowser (306)
-[2020.10.12-05.15.09:514][890]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (304)
-[2020.10.12-05.15.09:514][890]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (302)
-[2020.10.12-05.15.09:514][890]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (300)
-[2020.10.12-05.15.09:514][890]LogModuleManager: Shutting down and abandoning module UObjectPlugin (298)
-[2020.10.12-05.15.09:514][890]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (296)
-[2020.10.12-05.15.09:514][890]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (294)
-[2020.10.12-05.15.09:514][890]LogModuleManager: Shutting down and abandoning module GitSourceControl (292)
-[2020.10.12-05.15.09:514][890]LogModuleManager: Shutting down and abandoning module SourceControl (291)
-[2020.10.12-05.15.09:514][890]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (288)
-[2020.10.12-05.15.09:514][890]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (286)
-[2020.10.12-05.15.09:514][890]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (284)
-[2020.10.12-05.15.09:514][890]LogModuleManager: Shutting down and abandoning module Paper2DEditor (282)
-[2020.10.12-05.15.09:514][890]LogModuleManager: Shutting down and abandoning module MeshPaint (281)
-[2020.10.12-05.15.09:514][890]LogModuleManager: Shutting down and abandoning module LevelEditor (279)
-[2020.10.12-05.15.09:515][890]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (278)
-[2020.10.12-05.15.09:515][890]LogModuleManager: Shutting down and abandoning module MainFrame (276)
-[2020.10.12-05.15.09:515][890]LogModuleManager: Shutting down and abandoning module HotReload (275)
-[2020.10.12-05.15.09:515][890]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (270)
-[2020.10.12-05.15.09:515][890]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (268)
-[2020.10.12-05.15.09:515][890]LogModuleManager: Shutting down and abandoning module PhysXVehicles (266)
-[2020.10.12-05.15.09:515][890]LogModuleManager: Shutting down and abandoning module OculusEditor (264)
-[2020.10.12-05.15.09:515][890]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (262)
-[2020.10.12-05.15.09:515][890]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (260)
-[2020.10.12-05.15.09:515][890]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (258)
-[2020.10.12-05.15.09:515][890]LogModuleManager: Shutting down and abandoning module UdpMessaging (256)
-[2020.10.12-05.15.09:616][890]LogModuleManager: Shutting down and abandoning module TcpMessaging (254)
-[2020.10.12-05.15.09:716][890]LogModuleManager: Shutting down and abandoning module GameSparks (252)
-[2020.10.12-05.15.09:716][890]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (250)
-[2020.10.12-05.15.09:716][890]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (248)
-[2020.10.12-05.15.09:716][890]LogModuleManager: Shutting down and abandoning module FacialAnimation (246)
-[2020.10.12-05.15.09:716][890]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (244)
-[2020.10.12-05.15.09:716][890]LogModuleManager: Shutting down and abandoning module GraphEditor (243)
-[2020.10.12-05.15.09:716][890]LogModuleManager: Shutting down and abandoning module ContentBrowser (241)
-[2020.10.12-05.15.09:717][890]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
-[2020.10.12-05.15.09:717][890]LogModuleManager: Shutting down and abandoning module Paper2D (236)
-[2020.10.12-05.15.09:717][890]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (234)
-[2020.10.12-05.15.09:717][890]LogModuleManager: Shutting down and abandoning module WmfMedia (232)
-[2020.10.12-05.15.09:719][890]LogModuleManager: Shutting down and abandoning module ImgMedia (230)
-[2020.10.12-05.15.09:719][890]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
-[2020.10.12-05.15.09:719][890]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
-[2020.10.12-05.15.09:719][890]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
-[2020.10.12-05.15.09:719][890]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
-[2020.10.12-05.15.09:719][890]LogModuleManager: Shutting down and abandoning module Media (221)
-[2020.10.12-05.15.09:726][890]LogModuleManager: Shutting down and abandoning module Overlay (218)
-[2020.10.12-05.15.09:726][890]LogModuleManager: Shutting down and abandoning module OverlayEditor (217)
-[2020.10.12-05.15.09:726][890]LogModuleManager: Shutting down and abandoning module VREditor (214)
-[2020.10.12-05.15.09:726][890]LogModuleManager: Shutting down and abandoning module StringTableEditor (212)
-[2020.10.12-05.15.09:726][890]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (210)
-[2020.10.12-05.15.09:726][890]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (208)
-[2020.10.12-05.15.09:726][890]LogModuleManager: Shutting down and abandoning module FunctionalTesting (206)
-[2020.10.12-05.15.09:726][890]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (204)
-[2020.10.12-05.15.09:726][890]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (203)
-[2020.10.12-05.15.09:726][890]LogModuleManager: Shutting down and abandoning module UMG (200)
-[2020.10.12-05.15.09:726][890]LogModuleManager: Shutting down and abandoning module UMGEditor (199)
-[2020.10.12-05.15.09:726][890]LogModuleManager: Shutting down and abandoning module Sequencer (198)
-[2020.10.12-05.15.09:726][890]LogModuleManager: Shutting down and abandoning module MessageLog (195)
-[2020.10.12-05.15.09:726][890]LogModuleManager: Shutting down and abandoning module SlateReflector (190)
-[2020.10.12-05.15.09:726][890]LogModuleManager: Shutting down and abandoning module Slate (188)
-[2020.10.12-05.15.09:726][890]LogModuleManager: Shutting down and abandoning module EditorStyle (186)
-[2020.10.12-05.15.09:729][890]LogModuleManager: Shutting down and abandoning module MRMesh (184)
-[2020.10.12-05.15.09:729][890]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
-[2020.10.12-05.15.09:729][890]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
-[2020.10.12-05.15.09:729][890]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
-[2020.10.12-05.15.09:729][890]LogModuleManager: Shutting down and abandoning module Networking (176)
-[2020.10.12-05.15.09:729][890]LogModuleManager: Shutting down and abandoning module Core (172)
-[2020.10.12-05.15.09:729][890]LogModuleManager: Shutting down and abandoning module LevelSequence (168)
-[2020.10.12-05.15.09:729][890]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (166)
-[2020.10.12-05.15.09:730][890]LogModuleManager: Shutting down and abandoning module KismetCompiler (164)
-[2020.10.12-05.15.09:730][890]LogModuleManager: Shutting down and abandoning module MeshUtilities (162)
-[2020.10.12-05.15.09:730][890]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (161)
-[2020.10.12-05.15.09:730][890]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (160)
-[2020.10.12-05.15.09:730][890]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (159)
-[2020.10.12-05.15.09:730][890]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (157)
-[2020.10.12-05.15.09:730][890]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (155)
-[2020.10.12-05.15.09:730][890]LogModuleManager: Shutting down and abandoning module MaterialBaking (151)
-[2020.10.12-05.15.09:730][890]LogModuleManager: Shutting down and abandoning module DerivedDataCache (148)
-[2020.10.12-05.15.09:769][890]LogDerivedDataCache: Shutdown
-[2020.10.12-05.15.09:769][890]LogModuleManager: Shutting down and abandoning module TargetPlatform (146)
-[2020.10.12-05.15.09:769][890]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (145)
-[2020.10.12-05.15.09:770][890]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (143)
-[2020.10.12-05.15.09:770][890]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (141)
-[2020.10.12-05.15.09:770][890]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (139)
-[2020.10.12-05.15.09:770][890]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (137)
-[2020.10.12-05.15.09:770][890]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (135)
-[2020.10.12-05.15.09:770][890]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (133)
-[2020.10.12-05.15.09:770][890]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (131)
-[2020.10.12-05.15.09:770][890]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (129)
-[2020.10.12-05.15.09:770][890]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (127)
-[2020.10.12-05.15.09:770][890]LogModuleManager: Shutting down and abandoning module ImageWrapper (126)
-[2020.10.12-05.15.09:770][890]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (123)
-[2020.10.12-05.15.09:770][890]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (121)
-[2020.10.12-05.15.09:770][890]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (119)
-[2020.10.12-05.15.09:770][890]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (117)
-[2020.10.12-05.15.09:770][890]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (115)
-[2020.10.12-05.15.09:770][890]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (113)
-[2020.10.12-05.15.09:770][890]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (111)
-[2020.10.12-05.15.09:770][890]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (109)
-[2020.10.12-05.15.09:770][890]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (107)
-[2020.10.12-05.15.09:770][890]LogModuleManager: Shutting down and abandoning module Messaging (105)
-[2020.10.12-05.15.09:770][890]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (103)
-[2020.10.12-05.15.09:770][890]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (101)
-[2020.10.12-05.15.09:770][890]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (99)
-[2020.10.12-05.15.09:770][890]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (97)
-[2020.10.12-05.15.09:770][890]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (95)
-[2020.10.12-05.15.09:770][890]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (93)
-[2020.10.12-05.15.09:770][890]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (91)
-[2020.10.12-05.15.09:770][890]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (89)
-[2020.10.12-05.15.09:770][890]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (87)
-[2020.10.12-05.15.09:770][890]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (85)
-[2020.10.12-05.15.09:770][890]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (83)
-[2020.10.12-05.15.09:770][890]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (81)
-[2020.10.12-05.15.09:770][890]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (79)
-[2020.10.12-05.15.09:770][890]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (77)
-[2020.10.12-05.15.09:770][890]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (75)
-[2020.10.12-05.15.09:771][890]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (73)
-[2020.10.12-05.15.09:771][890]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (71)
-[2020.10.12-05.15.09:771][890]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (69)
-[2020.10.12-05.15.09:771][890]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (67)
-[2020.10.12-05.15.09:771][890]LogModuleManager: Shutting down and abandoning module InputCore (64)
-[2020.10.12-05.15.09:771][890]LogModuleManager: Shutting down and abandoning module Settings (62)
-[2020.10.12-05.15.09:771][890]LogModuleManager: Shutting down and abandoning module PhysXCooking (60)
-[2020.10.12-05.15.09:771][890]LogModuleManager: Shutting down and abandoning module SteamVR (58)
-[2020.10.12-05.15.09:771][890]LogModuleManager: Shutting down and abandoning module OculusHMD (56)
-[2020.10.12-05.15.09:771][890]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (54)
-[2020.10.12-05.15.09:771][890]LogModuleManager: Shutting down and abandoning module AppleARKit (52)
-[2020.10.12-05.15.09:771][890]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
-[2020.10.12-05.15.09:771][890]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
-[2020.10.12-05.15.09:771][890]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
-[2020.10.12-05.15.09:771][890]LogModuleManager: Shutting down and abandoning module XMPP (43)
-[2020.10.12-05.15.09:771][890]LogModuleManager: Shutting down and abandoning module HTTP (41)
-[2020.10.12-05.15.09:771][890]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
-[2020.10.12-05.15.09:771][890]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB4ADEB9E-4BD6-DA50-26C3-1097EAAB74F2%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.18.3-3832480%2B%2B%2BUE4%2BRelease-4.18&UserID=9b27e5cf40b2eed58b6f3fbd5dc876ca%7C4d72fa6746ce4127ab8e83a5541f326b%7C14e52adb-051c-4289-95a2-2a623f9f51cd&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
-[2020.10.12-05.15.09:780][890]LogModuleManager: Shutting down and abandoning module SSL (40)
-[2020.10.12-05.15.09:781][890]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
-[2020.10.12-05.15.09:782][890]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
-[2020.10.12-05.15.09:782][890]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
-[2020.10.12-05.15.09:782][890]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
-[2020.10.12-05.15.09:782][890]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
-[2020.10.12-05.15.09:782][890]LogModuleManager: Shutting down and abandoning module Landscape (26)
-[2020.10.12-05.15.09:782][890]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
-[2020.10.12-05.15.09:782][890]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
-[2020.10.12-05.15.09:782][890]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
-[2020.10.12-05.15.09:783][890]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
-[2020.10.12-05.15.09:783][890]LogModuleManager: Shutting down and abandoning module Renderer (16)
-[2020.10.12-05.15.09:783][890]LogModuleManager: Shutting down and abandoning module Engine (14)
-[2020.10.12-05.15.09:783][890]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
-[2020.10.12-05.15.09:783][890]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
-[2020.10.12-05.15.09:783][890]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
-[2020.10.12-05.15.09:783][890]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
-[2020.10.12-05.15.09:783][890]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
-[2020.10.12-05.15.09:783][890]LogModuleManager: Shutting down and abandoning module PakFile (2)
-[2020.10.12-05.15.09:787][890]LogExit: Exiting.
-[2020.10.12-05.15.09:799][890]Log file closed, 10/12/20 00:15:09
+[2020.10.12-05.23.49:384][  0]LogInit: Selected Device Profile: [Windows]
+[2020.10.12-05.23.49:384][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.10.12-05.23.49:394][  0]LogInit: Computer: DESKTOP-E44TFJF
+[2020.10.12-05.23.49:394][  0]LogInit: User: USER
+[2020.10.12-05.23.49:394][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.10.12-05.23.49:394][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.10.12-05.23.49:394][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2020.10.12-05.23.49:394][  0]LogMemory: Platform Memory Stats for Windows
+[2020.10.12-05.23.49:394][  0]LogMemory: Process Physical Memory: 272.30 MB used, 272.30 MB peak
+[2020.10.12-05.23.49:394][  0]LogMemory: Process Virtual Memory: 269.67 MB used, 269.67 MB peak
+[2020.10.12-05.23.49:394][  0]LogMemory: Physical Memory: 6239.41 MB used,  1898.20 MB free, 8137.61 MB total
+[2020.10.12-05.23.49:394][  0]LogMemory: Virtual Memory: 4762.64 MB used,  1898.20 MB free, 134217728.00 MB total
+[2020.10.12-05.23.49:539][  0]LogInit: Using OS detected language (es-ES).
+[2020.10.12-05.23.49:539][  0]LogInit: Using OS detected locale (es-CO).
+[2020.10.12-05.23.49:542][  0]LogTextLocalizationManager: No specific localization for 'es-ES' exists, so the 'es' localization will be used.
+[2020.10.12-05.23.49:703][  0]LogInit: Setting process to per monitor DPI aware
+[2020.10.12-05.23.49:985][  0]LogD3D11RHI: D3D11 adapters:
+[2020.10.12-05.23.50:064][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050' (Feature Level 11_0)
+[2020.10.12-05.23.50:064][  0]LogD3D11RHI:       1977/0/4068 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.10.12-05.23.50:067][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.10.12-05.23.50:067][  0]LogD3D11RHI:       0/0/4068 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.10.12-05.23.50:067][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.10.12-05.23.50:074][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.10.12-05.23.50:075][  0]LogD3D11RHI:     GPU DeviceId: 0x1c81 (for the marketing name, search the web for "GPU Device Id")
+[2020.10.12-05.23.50:075][  0]LogWindows: EnumDisplayDevices:
+[2020.10.12-05.23.50:075][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1050' (P:1 D:1)
+[2020.10.12-05.23.50:075][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1050' (P:0 D:0)
+[2020.10.12-05.23.50:075][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1050' (P:0 D:0)
+[2020.10.12-05.23.50:075][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1050' (P:0 D:0)
+[2020.10.12-05.23.50:076][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2020.10.12-05.23.50:076][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050
+[2020.10.12-05.23.50:076][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2020.10.12-05.23.50:076][  0]LogD3D11RHI:      Driver Date: Unknown
+[2020.10.12-05.23.50:076][  0]LogRHI: Texture pool is 1384 MB (70% of 1977 MB)
+[2020.10.12-05.23.50:125][  0]LogD3D11RHI: Async texture creation enabled
+[2020.10.12-05.23.50:138][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.10.12-05.23.50:141][  0]LogShaderCompilers: Guid format shader working directory is -3 characters bigger than the processId version (C:/Users/USER/Documents/GitHub/MuseoVirtualUdeM/Intermediate/Shaders/WorkingDirectory/12116/).
+[2020.10.12-05.23.50:141][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/USER/AppData/Local/Temp/UnrealShaderWorkingDir/448C6C844568CBA4FE2929A6442390AF/'.
+[2020.10.12-05.23.50:141][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.10.12-05.23.51:081][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2020.10.12-05.23.51:133][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2020.10.12-05.23.51:184][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2020.10.12-05.23.51:235][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2020.10.12-05.23.51:288][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2020.10.12-05.23.51:344][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2020.10.12-05.23.51:398][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2020.10.12-05.23.51:450][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2020.10.12-05.23.51:497][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2020.10.12-05.23.51:546][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2020.10.12-05.23.51:596][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2020.10.12-05.23.51:648][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2020.10.12-05.23.51:699][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2020.10.12-05.23.51:750][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2020.10.12-05.23.51:850][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2020.10.12-05.23.51:850][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2020.10.12-05.23.51:902][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.10.12-05.23.51:943][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2020.10.12-05.23.52:035][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2020.10.12-05.23.52:061][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2020.10.12-05.23.52:111][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2020.10.12-05.23.52:161][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2020.10.12-05.23.52:213][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2020.10.12-05.23.52:265][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2020.10.12-05.23.52:265][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.10.12-05.23.52:696][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.10.12-05.23.52:794][  0]LogDerivedDataCache: Loaded boot cache 0.10s 78MB C:/Users/USER/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2020.10.12-05.23.52:794][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/USER/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2020.10.12-05.23.52:794][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/USER/Documents/GitHub/MuseoVirtualUdeM/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.10.12-05.23.52:794][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.10.12-05.23.52:794][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/USER/Documents/GitHub/MuseoVirtualUdeM/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.10.12-05.23.52:794][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.10.12-05.23.52:811][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.10.12-05.23.52:824][  0]LogDerivedDataCache: Using Local data cache path C:/Users/USER/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.10.12-05.23.52:834][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.10.12-05.23.52:835][  0]LogSlate: Using Freetype 2.6.0
+[2020.10.12-05.23.52:835][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.10.12-05.23.52:835][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.10.12-05.23.53:232][  0]LogInit: Selected Device Profile: [Windows]
+[2020.10.12-05.23.53:556][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2020.10.12-05.23.53:595][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2020.10.12-05.23.53:595][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.10.12-05.23.53:595][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2020.10.12-05.23.53:595][  0]LogMeshReduction: No automatic mesh merging module available
+[2020.10.12-05.23.53:595][  0]LogMeshMerging: No automatic mesh merging module available
+[2020.10.12-05.23.53:624][  0]LogNetVersion: MuseoVirtualUdem , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 2631075334)
+[2020.10.12-05.23.53:794][  0]LogAssetRegistry: FAssetRegistry took 0.0268 seconds to start up
+[2020.10.12-05.23.54:327][  0]LogPackageLocalizationCache: Processed 8 localized package path(s) for 2 prioritized culture(s) in 0.074364 seconds
+[2020.10.12-05.23.54:333][  0]LogUObjectArray: 35870 objects as part of root set at end of initial load.
+[2020.10.12-05.23.54:333][  0]LogUObjectAllocator: 7363704 out of 0 bytes used by permanent object pool.
+[2020.10.12-05.23.54:333][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.10.12-05.23.54:380][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2020.10.12-05.23.57:237][  0]UGameSparksModuleLog: Warning: GameSparks::StartupModule
+[2020.10.12-05.23.57:269][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.10.12-05.23.57:313][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.10.12-05.23.57:981][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2020.10.12-05.23.58:395][  0]SourceControl: El control de código fuente está desactivado
+[2020.10.12-05.23.58:395][  0]SourceControl: El control de código fuente está desactivado
+[2020.10.12-05.23.58:448][  0]SourceControl: El control de código fuente está desactivado
+[2020.10.12-05.23.58:499][  0]SourceControl: El control de código fuente está desactivado
+[2020.10.12-05.23.59:342][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.10.12-05.23.59:604][  0]LogOcInput: OculusInput pre-init called
+[2020.10.12-05.23.59:911][  0]LogEngine: Initializing Engine...
+[2020.10.12-05.23.59:914][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.10.12-05.24.00:183][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2020.10.12-05.24.00:183][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2020.10.12-05.24.00:302][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.10.12-05.24.00:331][  0]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2020.10.12-05.24.00:385][  0]LogInit: FAudioDevice initialized.
+[2020.10.12-05.24.00:524][  0]LogDerivedDataCache: Saved boot cache 0.14s 78MB C:/Users/USER/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2020.10.12-05.24.00:543][  0]LogInit: Texture streaming: Enabled
+[2020.10.12-05.24.00:635][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.10.12-05.24.00:756][  0]LogInit: Transaction tracking system initialized
+[2020.10.12-05.24.01:047][  0]BlueprintLog: New page: Cargar el editor
+[2020.10.12-05.24.01:893][  0]LocalizationService: Localization service is disabled
+[2020.10.12-05.24.02:586][  0]LogConsoleResponse: Display: 
+[2020.10.12-05.24.02:747][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.10.12-05.24.02:747][  0]LogCook: Display: Mobile HDR setting 1
+[2020.10.12-05.24.02:747][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2020.10.12-05.24.03:535][  0]LogFileCache: Scanning file cache for directory 'C:/Users/USER/Documents/GitHub/MuseoVirtualUdeM/Content/' took 0.02s
+[2020.10.12-05.24.03:900][  0]SourceControl: El control de código fuente está desactivado
+[2020.10.12-05.24.03:900][  0]Cmd: MAP LOAD FILE="C:/Users/USER/Documents/GitHub/MuseoVirtualUdeM/Content/Scenes/Game.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.10.12-05.24.03:901][  0]LightingResults: New page: Diseñar la iluminación
+[2020.10.12-05.24.03:942][  0]MapCheck: New page: Revisión del mapa
+[2020.10.12-05.24.03:942][  0]LightingResults: New page: Diseñar la iluminación
+[2020.10.12-05.24.04:719][  0]LogAIModule: Creating AISystem for world Game
+[2020.10.12-05.24.04:750][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.10.12-05.24.04:768][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.10.12-05.24.04:828][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 60,2ms to complete.
+[2020.10.12-05.24.04:828][  0]LogFileHelpers: Loading map 'Game' took 0.927
+[2020.10.12-05.24.04:964][  0]LogCollectionManager: Loaded 0 collections in 0.001037 seconds
+[2020.10.12-05.24.05:041][  0]LogFileCache: Scanning file cache for directory 'C:/Users/USER/Documents/GitHub/MuseoVirtualUdeM/Saved/Collections/' took 0.01s
+[2020.10.12-05.24.05:041][  0]LogFileCache: Scanning file cache for directory 'C:/Users/USER/Documents/GitHub/MuseoVirtualUdeM/Content/Developers/USER/Collections/' took 0.01s
+[2020.10.12-05.24.05:041][  0]LogFileCache: Scanning file cache for directory 'C:/Users/USER/Documents/GitHub/MuseoVirtualUdeM/Content/Collections/' took 0.01s
+[2020.10.12-05.24.05:041][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2020.10.12-05.24.05:050][  0]LogContentBrowser: Native class hierarchy populated in 0.0088 seconds. Added 2462 classes and 523 folders.
+[2020.10.12-05.24.05:110][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.10.12-05.24.05:149][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.10.12-05.24.05:190][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2020.10.12-05.24.05:216][  0]LogSlate: Took 0.000295 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.10.12-05.24.05:218][  0]LogSlate: Took 0.000322 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.10.12-05.24.05:225][  0]LogSlate: Took 0.000228 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.10.12-05.24.05:336][  0]LogRenderer: Reallocating scene render targets to support 1208x580 Format 10 NumSamples 1 (Frame:1).
+[2020.10.12-05.24.05:571][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2020.10.12-05.24.05:571][  0]LogLoad: (Engine Initialization) Total time: 18.45 seconds
+[2020.10.12-05.24.05:571][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.10.12-05.24.05:571][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2020.10.12-05.24.05:926][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.10.12-05.24.05:947][  0]LogSlate: Took 0.000195 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2020.10.12-05.24.06:262][  1]LogAssetRegistry: Asset discovery search completed in 12.4914 seconds
+[2020.10.12-05.24.06:265][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2020.10.12-05.24.06:265][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000058 seconds (updated 0 objects)
+[2020.10.12-05.24.11:926][156]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_M_Model_C (BP_M_Model)
+[2020.10.12-05.24.12:773][249]LogSlate: Took 0.000277 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.10.12-05.26.37:058][664]LogSlate: Took 0.000199 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2020.10.12-05.26.37:761][664]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 116 classes and 0 folders.
+[2020.10.12-05.26.39:313][664]LogSlate: Took 0.024877 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.10.12-05.27.07:044][ 16]LogStats: FPlatformStackWalk::StackWalkAndDump -  1.736 s
+[2020.10.12-05.27.07:044][ 16]LogOutputDevice: Error: === Handled ensure: ===
+[2020.10.12-05.27.07:044][ 16]LogOutputDevice: Error: 
+[2020.10.12-05.27.07:044][ 16]LogOutputDevice: Error: Ensure condition failed: !bRegistered [File:D:\Build\++UE4+Release-4.18+Compile\Sync\Engine\Source\Runtime\Engine\Private\Components\SceneComponent.cpp] [Line: 1595]
+[2020.10.12-05.27.07:044][ 16]LogOutputDevice: Error: SetupAttachment should only be used to initialize AttachParent and AttachSocketName for a future AttachTo. Once a component is registered you must use AttachTo.
+[2020.10.12-05.27.07:044][ 16]LogOutputDevice: Error: Stack: 
+[2020.10.12-05.27.07:044][ 16]LogOutputDevice: Error: [Callstack] 0x0000000034672786 UE4Editor-Core.dll!UnknownFunction []
+[2020.10.12-05.27.07:044][ 16]LogOutputDevice: Error: [Callstack] 0x000000003441123A UE4Editor-Core.dll!UnknownFunction []
+[2020.10.12-05.27.07:044][ 16]LogOutputDevice: Error: [Callstack] 0x000000003442B906 UE4Editor-Core.dll!UnknownFunction []
+[2020.10.12-05.27.07:044][ 16]LogOutputDevice: Error: [Callstack] 0x0000000022208027 UE4Editor-Engine.dll!UnknownFunction []
+[2020.10.12-05.27.07:044][ 16]LogOutputDevice: Error: [Callstack] 0x0000000029DDC772 UE4Editor-Kismet.dll!UnknownFunction []
+[2020.10.12-05.27.07:044][ 16]LogOutputDevice: Error: [Callstack] 0x0000000029DC44E8 UE4Editor-Kismet.dll!UnknownFunction []
+[2020.10.12-05.27.07:044][ 16]LogOutputDevice: Error: [Callstack] 0x0000000029D17950 UE4Editor-Kismet.dll!UnknownFunction []
+[2020.10.12-05.27.07:044][ 16]LogOutputDevice: Error: [Callstack] 0x0000000029D19B5E UE4Editor-Kismet.dll!UnknownFunction []
+[2020.10.12-05.27.07:044][ 16]LogOutputDevice: Error: [Callstack] 0x0000000029DA1510 UE4Editor-Kismet.dll!UnknownFunction []
+[2020.10.12-05.27.07:044][ 16]LogOutputDevice: Error: [Callstack] 0x0000000029D9D190 UE4Editor-Kismet.dll!UnknownFunction []
+[2020.10.12-05.27.07:044][ 16]LogOutputDevice: Error: [Callstack] 0x0000000029D58306 UE4Editor-Kismet.dll!UnknownFunction []
+[2020.10.12-05.27.07:044][ 16]LogOutputDevice: Error: [Callstack] 0x0000000029DE6439 UE4Editor-Kismet.dll!UnknownFunction []
+[2020.10.12-05.27.07:044][ 16]LogOutputDevice: Error: [Callstack] 0x0000000036776C4B UE4Editor-Slate.dll!UnknownFunction []
+[2020.10.12-05.27.07:044][ 16]LogOutputDevice: Error: [Callstack] 0x000000003674777E UE4Editor-Slate.dll!UnknownFunction []
+[2020.10.12-05.27.07:044][ 16]LogOutputDevice: Error: [Callstack] 0x00000000367E2AF2 UE4Editor-Slate.dll!UnknownFunction []
+[2020.10.12-05.27.07:044][ 16]LogOutputDevice: Error: [Callstack] 0x00000000367CB092 UE4Editor-Slate.dll!UnknownFunction []
+[2020.10.12-05.27.07:044][ 16]LogOutputDevice: Error: [Callstack] 0x00000000367BD902 UE4Editor-Slate.dll!UnknownFunction []
+[2020.10.12-05.27.07:044][ 16]LogOutputDevice: Error: [Callstack] 0x000000004B86E54B UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.10.12-05.27.07:044][ 16]LogOutputDevice: Error: [Callstack] 0x000000004B861A48 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.10.12-05.27.07:044][ 16]LogOutputDevice: Error: [Callstack] 0x000000004B8703EC UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.10.12-05.27.07:044][ 16]LogOutputDevice: Error: [Callstack] 0x000000004B85D5A9 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.10.12-05.27.07:044][ 16]LogOutputDevice: Error: [Callstack] 0x0000000076585C7D USER32.dll!UnknownFunction []
+[2020.10.12-05.27.07:044][ 16]LogOutputDevice: Error: [Callstack] 0x0000000076585672 USER32.dll!UnknownFunction []
+[2020.10.12-05.27.07:044][ 16]LogOutputDevice: Error: [Callstack] 0x000000004B871516 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.10.12-05.27.07:044][ 16]LogOutputDevice: Error: [Callstack] 0x000000000AC450C8 UE4Editor.exe!UnknownFunction []
+[2020.10.12-05.27.07:045][ 16]LogOutputDevice: Error: [Callstack] 0x000000000AC55430 UE4Editor.exe!UnknownFunction []
+[2020.10.12-05.27.07:045][ 16]LogOutputDevice: Error: [Callstack] 0x000000000AC554AA UE4Editor.exe!UnknownFunction []
+[2020.10.12-05.27.07:045][ 16]LogOutputDevice: Error: [Callstack] 0x000000000AC62379 UE4Editor.exe!UnknownFunction []
+[2020.10.12-05.27.07:045][ 16]LogOutputDevice: Error: [Callstack] 0x000000000AC63D57 UE4Editor.exe!UnknownFunction []
+[2020.10.12-05.27.07:045][ 16]LogOutputDevice: Error: [Callstack] 0x0000000077357BD4 KERNEL32.DLL!UnknownFunction []
+[2020.10.12-05.27.07:045][ 16]LogOutputDevice: Error: [Callstack] 0x0000000077BECE51 ntdll.dll!UnknownFunction []
+[2020.10.12-05.27.07:045][ 16]LogOutputDevice: Error: 
+[2020.10.12-05.27.07:052][ 16]LogStats:                SubmitErrorReport -  0.000 s
+[2020.10.12-05.27.13:087][ 16]LogStats:                    SendNewReport -  6.035 s
+[2020.10.12-05.27.13:087][ 16]LogStats:             FDebug::EnsureFailed -  7.779 s
+[2020.10.12-05.28.00:427][721]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Models/BP_M_Model" FILE="C:/Users/USER/Documents/GitHub/MuseoVirtualUdeM/Content/Blueprints/Models/BP_M_Model.uasset" SILENT=true
+[2020.10.12-05.28.00:484][721]LogSavePackage: Save=22.73ms
+[2020.10.12-05.28.00:484][721]LogSavePackage: Moving 'C:/Users/USER/Documents/GitHub/MuseoVirtualUdeM/Saved/BP_M_Model0E079E8341CBF162E5C5BDB5D731701B.tmp' to 'C:/Users/USER/Documents/GitHub/MuseoVirtualUdeM/Content/Blueprints/Models/BP_M_Model.uasset'
+[2020.10.12-05.28.00:485][721]LogSavePackage: Display: Finished SavePackage C:/Users/USER/Documents/GitHub/MuseoVirtualUdeM/Content/Blueprints/Models/BP_M_Model.uasset
+[2020.10.12-05.28.03:283][983]BlueprintLog: New page: Compilar BP_M_Model
+[2020.10.12-05.31.29:361][266]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2020.10.12-05.31.29:365][266]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.12-05.31.29:365][266]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.12-05.31.29:365][266]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.12-05.31.29:365][266]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.12-05.31.29:365][266]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.12-05.31.29:366][266]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.12-05.31.29:366][266]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.12-05.31.29:366][266]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.12-05.31.29:366][266]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.12-05.31.29:366][266]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.12-05.31.29:366][266]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.12-05.31.29:366][266]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.12-05.31.29:366][266]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.12-05.31.29:366][266]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.12-05.31.29:366][266]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.12-05.31.29:367][266]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.12-05.31.29:367][266]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.12-05.31.29:367][266]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.12-05.31.29:367][266]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.12-05.31.29:367][266]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.12-05.31.29:367][266]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.12-05.31.29:367][266]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.12-05.31.29:367][266]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.12-05.31.29:368][266]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.12-05.31.29:368][266]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.12-05.31.29:368][266]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.12-05.31.29:368][266]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.12-05.31.29:368][266]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.12-05.31.29:368][266]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.12-05.31.29:368][266]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.12-05.31.29:368][266]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.12-05.31.29:368][266]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.12-05.31.29:368][266]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.12-05.31.29:369][266]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.12-05.31.29:369][266]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.12-05.31.29:369][266]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.12-05.31.29:369][266]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.12-05.31.29:369][266]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.12-05.31.29:369][266]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.12-05.31.29:369][266]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.12-05.31.29:369][266]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.12-05.31.29:369][266]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.12-05.31.29:369][266]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.12-05.31.29:370][266]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.12-05.31.29:370][266]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.12-05.31.29:370][266]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.12-05.31.29:370][266]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.12-05.31.29:370][266]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.12-05.31.29:370][266]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.12-05.31.29:370][266]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.12-05.31.29:370][266]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.12-05.31.29:370][266]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.12-05.31.29:370][266]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.12-05.31.29:371][266]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.12-05.31.29:371][266]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.12-05.31.29:371][266]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.12-05.31.29:371][266]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.12-05.31.29:371][266]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.12-05.31.29:371][266]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.12-05.31.29:371][266]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.12-05.31.29:371][266]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.12-05.31.29:371][266]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.12-05.31.29:371][266]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.12-05.31.29:372][266]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.12-05.31.29:372][266]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.12-05.31.29:372][266]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.12-05.31.29:372][266]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.12-05.31.29:372][266]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.12-05.31.29:372][266]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.12-05.31.29:372][266]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.12-05.31.29:372][266]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.12-05.31.29:372][266]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.12-05.31.29:372][266]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.12-05.31.29:372][266]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.12-05.31.29:372][266]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.12-05.31.29:373][266]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.12-05.31.29:373][266]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.12-05.31.29:373][266]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.12-05.31.29:373][266]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.12-05.31.29:373][266]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.12-05.31.29:373][266]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.12-05.31.29:373][266]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.12-05.31.29:373][266]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.12-05.31.29:373][266]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.12-05.31.29:373][266]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.12-05.31.29:373][266]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.12-05.31.29:374][266]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.12-05.31.29:374][266]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.12-05.31.29:374][266]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.12-05.31.29:374][266]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.12-05.31.29:374][266]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.12-05.31.29:374][266]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.12-05.31.29:374][266]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.12-05.31.29:374][266]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.12-05.31.29:374][266]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.12-05.31.29:374][266]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.12-05.31.29:375][266]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.12-05.31.29:375][266]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.12-05.31.29:375][266]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.12-05.31.29:375][266]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.12-05.31.29:375][266]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.12-05.31.29:375][266]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.12-05.31.29:375][266]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.12-05.31.29:375][266]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.12-05.31.29:375][266]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.12-05.31.29:375][266]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.12-05.31.29:375][266]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.12-05.31.29:375][266]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.12-05.31.29:376][266]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.12-05.31.29:376][266]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.12-05.31.29:376][266]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.12-05.31.29:376][266]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.12-05.31.29:376][266]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.12-05.31.29:376][266]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.12-05.31.29:376][266]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.12-05.31.29:376][266]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.12-05.31.29:376][266]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.12-05.31.29:376][266]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.12-05.31.29:380][266]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.12-05.31.29:404][266]LogVSAccessor: Warning: Couldn't access module table
+[2020.10.12-05.32.05:383][511]LogRenderer: Reallocating scene render targets to support 1208x900 Format 10 NumSamples 1 (Frame:12135).
+[2020.10.12-05.32.20:698][124]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor2)
+[2020.10.12-05.32.23:589][439]Cmd: TRANSACTION UNDO
+[2020.10.12-05.32.23:589][439]LogEditorTransaction: Undo Pinchar en los actores
+[2020.10.12-05.32.23:626][439]LogSlate: Took 0.000230 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2020.10.12-05.32.23:780][453]Cmd: TRANSACTION UNDO
+[2020.10.12-05.32.23:780][453]LogEditorTransaction: Undo Clicking on Component (tree view)
+[2020.10.12-05.32.24:177][486]Cmd: TRANSACTION UNDO
+[2020.10.12-05.32.24:177][486]LogEditorTransaction: Undo Clicking on Component (tree view)
+[2020.10.12-05.32.24:534][523]Cmd: TRANSACTION UNDO
+[2020.10.12-05.32.24:534][523]LogEditorTransaction: Undo Adjuntar componentes
+[2020.10.12-05.32.24:963][564]Cmd: TRANSACTION UNDO
+[2020.10.12-05.32.24:963][564]LogEditorTransaction: Undo Clicking on Component (tree view)
+[2020.10.12-05.32.25:241][591]Cmd: TRANSACTION UNDO
+[2020.10.12-05.32.25:241][591]LogEditorTransaction: Undo Clicking on Component (tree view)
+[2020.10.12-05.32.25:451][611]Cmd: TRANSACTION UNDO
+[2020.10.12-05.32.25:451][611]LogEditorTransaction: Undo Clicking on Component (tree view)
+[2020.10.12-05.32.25:624][627]Cmd: TRANSACTION UNDO
+[2020.10.12-05.32.25:624][627]LogEditorTransaction: Undo Clicking on Component (tree view)
+[2020.10.12-05.32.25:930][659]Cmd: TRANSACTION UNDO
+[2020.10.12-05.32.25:930][659]LogEditorTransaction: Undo Clicking on Component (tree view)
+[2020.10.12-05.32.26:110][676]Cmd: TRANSACTION UNDO
+[2020.10.12-05.32.26:110][676]LogEditorTransaction: Undo Remove Components
+[2020.10.12-05.32.26:268][680]Cmd: TRANSACTION UNDO
+[2020.10.12-05.32.26:268][680]LogEditorTransaction: Undo Añadir componente
+[2020.10.12-05.32.26:454][691]Cmd: TRANSACTION UNDO
+[2020.10.12-05.32.26:454][691]LogEditorTransaction: Undo Adjuntar componentes
+[2020.10.12-05.32.26:493][691]LogActorComponent: ~FComponentReregisterContext: (/Game/Scenes/Game.Game:PersistentLevel.BP_M_Model_808.Box10) Component already registered.
+[2020.10.12-05.32.26:618][701]Cmd: TRANSACTION UNDO
+[2020.10.12-05.32.26:618][701]LogEditorTransaction: Undo Remove Components
+[2020.10.12-05.32.26:911][724]Cmd: TRANSACTION UNDO
+[2020.10.12-05.32.26:911][724]LogEditorTransaction: Undo Añadir componente
+[2020.10.12-05.32.27:253][753]Cmd: TRANSACTION UNDO
+[2020.10.12-05.32.27:253][753]LogEditorTransaction: Undo Adjuntar componentes
+[2020.10.12-05.32.27:293][753]LogActorComponent: ~FComponentReregisterContext: (/Game/Scenes/Game.Game:PersistentLevel.BP_M_Model_808.Box10) Component already registered.
+[2020.10.12-05.32.27:521][775]Cmd: TRANSACTION UNDO
+[2020.10.12-05.32.27:521][775]LogEditorTransaction: Undo Clicking on Component (tree view)
+[2020.10.12-05.32.27:822][805]Cmd: TRANSACTION UNDO
+[2020.10.12-05.32.27:822][805]LogEditorTransaction: Undo Adjuntar componentes
+[2020.10.12-05.32.28:063][826]Cmd: TRANSACTION UNDO
+[2020.10.12-05.32.28:063][826]LogEditorTransaction: Undo Clicking on Component (tree view)
+[2020.10.12-05.32.28:307][848]Cmd: TRANSACTION UNDO
+[2020.10.12-05.32.28:307][848]LogEditorTransaction: Undo Clicking on Component (tree view)
+[2020.10.12-05.32.28:569][874]Cmd: TRANSACTION UNDO
+[2020.10.12-05.32.28:569][874]LogEditorTransaction: Undo Clicking on Component (tree view)
+[2020.10.12-05.32.28:871][904]Cmd: TRANSACTION UNDO
+[2020.10.12-05.32.28:871][904]LogEditorTransaction: Undo Clicking on Component (tree view)
+[2020.10.12-05.32.29:090][925]Cmd: TRANSACTION UNDO
+[2020.10.12-05.32.29:090][925]LogEditorTransaction: Undo Clicking on Component (tree view)
+[2020.10.12-05.32.29:376][953]Cmd: TRANSACTION UNDO
+[2020.10.12-05.32.29:376][953]LogEditorTransaction: Undo Clicking on Component (tree view)
+[2020.10.12-05.32.29:613][976]Cmd: TRANSACTION UNDO
+[2020.10.12-05.32.29:613][976]LogEditorTransaction: Undo Clicking on Component (tree view)
+[2020.10.12-05.32.29:857][  0]Cmd: TRANSACTION UNDO
+[2020.10.12-05.32.29:857][  0]LogEditorTransaction: Undo Clicking on Component (tree view)
+[2020.10.12-05.32.30:136][ 28]Cmd: TRANSACTION UNDO
+[2020.10.12-05.32.30:136][ 28]LogEditorTransaction: Undo Clicking on Component (tree view)
+[2020.10.12-05.32.30:480][ 63]Cmd: TRANSACTION UNDO
+[2020.10.12-05.32.30:480][ 63]LogEditorTransaction: Undo Clicking on Component (tree view)
+[2020.10.12-05.32.30:876][104]Cmd: TRANSACTION UNDO
+[2020.10.12-05.32.30:876][104]LogEditorTransaction: Undo Clicking on Component (tree view)
+[2020.10.12-05.32.31:250][142]Cmd: TRANSACTION UNDO
+[2020.10.12-05.32.31:250][142]LogEditorTransaction: Undo Clicking on Component (tree view)
+[2020.10.12-05.32.31:463][162]Cmd: TRANSACTION UNDO
+[2020.10.12-05.32.31:463][162]LogEditorTransaction: Undo Cambiar el nombre de la variable del componente
+[2020.10.12-05.32.31:669][183]Cmd: TRANSACTION UNDO
+[2020.10.12-05.32.31:669][183]LogEditorTransaction: Undo Adjuntar componente
+[2020.10.12-05.32.31:696][183]LogActorComponent: ~FComponentReregisterContext: (/Game/Scenes/Game.Game:PersistentLevel.BP_M_Model_808.Box21) Component already registered.
+[2020.10.12-05.32.31:698][183]LogActorComponent: ~FComponentReregisterContext: (/Game/Scenes/Game.Game:PersistentLevel.BP_M_Model_808.Box9) Component already registered.
+[2020.10.12-05.32.31:699][183]LogActorComponent: ~FComponentReregisterContext: (/Game/Scenes/Game.Game:PersistentLevel.BP_M_Model_808.Box8) Component already registered.
+[2020.10.12-05.32.31:701][183]LogActorComponent: ~FComponentReregisterContext: (/Game/Scenes/Game.Game:PersistentLevel.BP_M_Model_808.Box7) Component already registered.
+[2020.10.12-05.32.31:704][183]LogActorComponent: ~FComponentReregisterContext: (/Game/Scenes/Game.Game:PersistentLevel.BP_M_Model_808.Box6) Component already registered.
+[2020.10.12-05.32.31:706][183]LogActorComponent: ~FComponentReregisterContext: (/Game/Scenes/Game.Game:PersistentLevel.BP_M_Model_808.Box5) Component already registered.
+[2020.10.12-05.32.31:708][183]LogActorComponent: ~FComponentReregisterContext: (/Game/Scenes/Game.Game:PersistentLevel.BP_M_Model_808.Box22) Component already registered.
+[2020.10.12-05.32.31:709][183]LogActorComponent: ~FComponentReregisterContext: (/Game/Scenes/Game.Game:PersistentLevel.BP_M_Model_808.Box20) Component already registered.
+[2020.10.12-05.32.31:711][183]LogActorComponent: ~FComponentReregisterContext: (/Game/Scenes/Game.Game:PersistentLevel.BP_M_Model_808.Box11) Component already registered.
+[2020.10.12-05.32.31:712][183]LogActorComponent: ~FComponentReregisterContext: (/Game/Scenes/Game.Game:PersistentLevel.BP_M_Model_808.Box19) Component already registered.
+[2020.10.12-05.32.31:713][183]LogActorComponent: ~FComponentReregisterContext: (/Game/Scenes/Game.Game:PersistentLevel.BP_M_Model_808.Box18) Component already registered.
+[2020.10.12-05.32.31:715][183]LogActorComponent: ~FComponentReregisterContext: (/Game/Scenes/Game.Game:PersistentLevel.BP_M_Model_808.Box17) Component already registered.
+[2020.10.12-05.32.31:717][183]LogActorComponent: ~FComponentReregisterContext: (/Game/Scenes/Game.Game:PersistentLevel.BP_M_Model_808.Box16) Component already registered.
+[2020.10.12-05.32.31:718][183]LogActorComponent: ~FComponentReregisterContext: (/Game/Scenes/Game.Game:PersistentLevel.BP_M_Model_808.Box15) Component already registered.
+[2020.10.12-05.32.31:720][183]LogActorComponent: ~FComponentReregisterContext: (/Game/Scenes/Game.Game:PersistentLevel.BP_M_Model_808.Box14) Component already registered.
+[2020.10.12-05.32.31:721][183]LogActorComponent: ~FComponentReregisterContext: (/Game/Scenes/Game.Game:PersistentLevel.BP_M_Model_808.Box13) Component already registered.
+[2020.10.12-05.32.31:723][183]LogActorComponent: ~FComponentReregisterContext: (/Game/Scenes/Game.Game:PersistentLevel.BP_M_Model_808.Box12) Component already registered.
+[2020.10.12-05.32.31:873][198]Cmd: TRANSACTION UNDO
+[2020.10.12-05.32.31:873][198]LogEditorTransaction: Undo Clicking on Component (tree view)
+[2020.10.12-05.32.43:035][391]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMesh)
+[2020.10.12-05.33.01:419][144]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMesh)
+[2020.10.12-05.33.02:057][213]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMesh)
+[2020.10.12-05.33.02:136][218]LogEditorViewport: Clicking on Actor (double click): BP_M_Model_C (BP_M_Model)
+[2020.10.12-05.33.31:005][470]Cmd: TRANSACTION UNDO
+[2020.10.12-05.33.31:005][470]LogEditorTransaction: Undo Move Components
+[2020.10.12-05.33.31:690][533]Cmd: TRANSACTION UNDO
+[2020.10.12-05.33.31:690][533]LogEditorTransaction: Undo Move Components
+[2020.10.12-05.33.32:720][651]Cmd: TRANSACTION UNDO
+[2020.10.12-05.33.32:720][651]LogEditorTransaction: Undo Duplicar componente
+[2020.10.12-05.34.51:252][287]BlueprintLog: New page: Compilar BP_M_Model
+[2020.10.12-05.35.16:967][197]LogEditorActor: Deleted Actor: BP_M_Model_C
+[2020.10.12-05.35.16:990][197]LogEditorActor: Deleted 1 Actors (0.102 secs)
+[2020.10.12-05.35.19:551][499]LogEditorActor: Deleted Actor: BP_V_Model_C
+[2020.10.12-05.35.19:571][499]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2020.10.12-05.35.21:702][753]LogEditorViewport: Clicking on Actor (LMB): BP_M_Model_C (BP_M_Model)
+[2020.10.12-05.35.30:270][709]LogEditorViewport: Clicking on Actor (LMB): BP_V_Model_C (BP_V_Model)
+[2020.10.12-05.36.20:008][327]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/Game" FILE="C:/Users/USER/Documents/GitHub/MuseoVirtualUdeM/Content/Scenes/Game.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.10.12-05.36.20:282][327]LogSavePackage: Save=215.74ms
+[2020.10.12-05.36.20:282][327]LogSavePackage: Moving 'C:/Users/USER/Documents/GitHub/MuseoVirtualUdeM/Saved/Game005CC2B64D15F31E27186792D372C4D2.tmp' to 'C:/Users/USER/Documents/GitHub/MuseoVirtualUdeM/Content/Scenes/Game.umap'
+[2020.10.12-05.36.20:284][327]LogSavePackage: Display: Finished SavePackage C:/Users/USER/Documents/GitHub/MuseoVirtualUdeM/Content/Scenes/Game.umap
+[2020.10.12-05.36.20:312][327]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/Game_BuiltData" FILE="C:/Users/USER/Documents/GitHub/MuseoVirtualUdeM/Content/Scenes/Game_BuiltData.uasset" SILENT=true
+[2020.10.12-05.36.20:362][327]LogSavePackage: Save=15.35ms
+[2020.10.12-05.36.20:362][327]LogSavePackage: Moving 'C:/Users/USER/Documents/GitHub/MuseoVirtualUdeM/Saved/Game_BuiltData94AF70244EA2A2A6740EC9B4604F4430.tmp' to 'C:/Users/USER/Documents/GitHub/MuseoVirtualUdeM/Content/Scenes/Game_BuiltData.uasset'
+[2020.10.12-05.36.20:364][327]LogSavePackage: Display: Finished SavePackage C:/Users/USER/Documents/GitHub/MuseoVirtualUdeM/Content/Scenes/Game_BuiltData.uasset
+[2020.10.12-05.36.21:449][445]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/Game" FILE="C:/Users/USER/Documents/GitHub/MuseoVirtualUdeM/Content/Scenes/Game.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.10.12-05.36.21:717][445]LogSavePackage: Save=217.11ms
+[2020.10.12-05.36.21:717][445]LogSavePackage: Moving 'C:/Users/USER/Documents/GitHub/MuseoVirtualUdeM/Saved/GameBD6CF0AB4EEA8EBA8B1ED98E65E94B55.tmp' to 'C:/Users/USER/Documents/GitHub/MuseoVirtualUdeM/Content/Scenes/Game.umap'
+[2020.10.12-05.36.21:720][445]LogSavePackage: Display: Finished SavePackage C:/Users/USER/Documents/GitHub/MuseoVirtualUdeM/Content/Scenes/Game.umap
+[2020.10.12-05.36.21:745][445]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/Game_BuiltData" FILE="C:/Users/USER/Documents/GitHub/MuseoVirtualUdeM/Content/Scenes/Game_BuiltData.uasset" SILENT=true
+[2020.10.12-05.36.21:790][445]LogSavePackage: Save=11.99ms
+[2020.10.12-05.36.21:790][445]LogSavePackage: Moving 'C:/Users/USER/Documents/GitHub/MuseoVirtualUdeM/Saved/Game_BuiltData3F3A93D2418B32B218BBAA92B2D68589.tmp' to 'C:/Users/USER/Documents/GitHub/MuseoVirtualUdeM/Content/Scenes/Game_BuiltData.uasset'
+[2020.10.12-05.36.21:792][445]LogSavePackage: Display: Finished SavePackage C:/Users/USER/Documents/GitHub/MuseoVirtualUdeM/Content/Scenes/Game_BuiltData.uasset
+[2020.10.12-05.36.22:726][547]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/Game" FILE="C:/Users/USER/Documents/GitHub/MuseoVirtualUdeM/Content/Scenes/Game.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.10.12-05.36.22:994][547]LogSavePackage: Save=216.22ms
+[2020.10.12-05.36.22:995][547]LogSavePackage: Moving 'C:/Users/USER/Documents/GitHub/MuseoVirtualUdeM/Saved/Game832FBFDF4176A3EB6B0CD09EDE1AC7AA.tmp' to 'C:/Users/USER/Documents/GitHub/MuseoVirtualUdeM/Content/Scenes/Game.umap'
+[2020.10.12-05.36.22:997][547]LogSavePackage: Display: Finished SavePackage C:/Users/USER/Documents/GitHub/MuseoVirtualUdeM/Content/Scenes/Game.umap
+[2020.10.12-05.36.23:023][547]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/Game_BuiltData" FILE="C:/Users/USER/Documents/GitHub/MuseoVirtualUdeM/Content/Scenes/Game_BuiltData.uasset" SILENT=true
+[2020.10.12-05.36.23:066][547]LogSavePackage: Save=11.34ms
+[2020.10.12-05.36.23:066][547]LogSavePackage: Moving 'C:/Users/USER/Documents/GitHub/MuseoVirtualUdeM/Saved/Game_BuiltData6A101849459E4975FF7BCAA309D70A75.tmp' to 'C:/Users/USER/Documents/GitHub/MuseoVirtualUdeM/Content/Scenes/Game_BuiltData.uasset'
+[2020.10.12-05.36.23:068][547]LogSavePackage: Display: Finished SavePackage C:/Users/USER/Documents/GitHub/MuseoVirtualUdeM/Content/Scenes/Game_BuiltData.uasset
