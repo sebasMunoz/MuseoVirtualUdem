@@ -1,0 +1,1370 @@
+﻿Log file open, 10/22/20 21:31:56
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: MuseoVirtualUdem
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(1921306467) SRandInit(1921306467).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3832480, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.286759
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Marketplace/GameSparks/Binaries/Win64/UE4Editor-GameSparks.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Marketplace/GameSparks/Binaries/Win64/UE4Editor-OnlineSubsystemGameSparks.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin GameSparks
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3832480
+LogInit: Engine Version: 4.18.3-3832480+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Jan 12 2018 02:04:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line: -EpicPortal  -epicusername="Forcame2" -epicuserid=f199f47330f747318e206e5ff79be176 -epiclocale=es-MX
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2020.10.23-02.31.59:857][  0]LogInit: Selected Device Profile: [Windows]
+[2020.10.23-02.31.59:857][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.10.23-02.31.59:897][  0]LogInit: Computer: LAPTOP-I9MQC5NQ
+[2020.10.23-02.31.59:897][  0]LogInit: User: crist
+[2020.10.23-02.31.59:897][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.10.23-02.31.59:897][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.10.23-02.31.59:897][  0]LogMemory: Memory total: Physical=11.9GB (12GB approx)
+[2020.10.23-02.31.59:897][  0]LogMemory: Platform Memory Stats for Windows
+[2020.10.23-02.31.59:897][  0]LogMemory: Process Physical Memory: 276.34 MB used, 276.34 MB peak
+[2020.10.23-02.31.59:897][  0]LogMemory: Process Virtual Memory: 272.14 MB used, 272.14 MB peak
+[2020.10.23-02.31.59:897][  0]LogMemory: Physical Memory: 10192.09 MB used,  1982.76 MB free, 12174.85 MB total
+[2020.10.23-02.31.59:897][  0]LogMemory: Virtual Memory: 4766.38 MB used,  1982.76 MB free, 134217728.00 MB total
+[2020.10.23-02.32.00:826][  0]LogInit: Using OS detected language (es-MX).
+[2020.10.23-02.32.00:826][  0]LogInit: Using OS detected locale (es-CO).
+[2020.10.23-02.32.00:829][  0]LogTextLocalizationManager: No specific localization for 'es-MX' exists, so the 'es' localization will be used.
+[2020.10.23-02.32.00:997][  0]LogInit: Setting process to per monitor DPI aware
+[2020.10.23-02.32.01:410][  0]LogD3D11RHI: D3D11 adapters:
+[2020.10.23-02.32.01:493][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050' (Feature Level 11_0)
+[2020.10.23-02.32.01:493][  0]LogD3D11RHI:       4019/0/6087 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.10.23-02.32.01:503][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2020.10.23-02.32.01:503][  0]LogD3D11RHI:       128/0/6087 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2020.10.23-02.32.01:507][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.10.23-02.32.01:507][  0]LogD3D11RHI:       0/0/6087 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.10.23-02.32.01:507][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.10.23-02.32.01:538][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.10.23-02.32.01:538][  0]LogD3D11RHI:     GPU DeviceId: 0x1c8d (for the marketing name, search the web for "GPU Device Id")
+[2020.10.23-02.32.01:538][  0]LogWindows: EnumDisplayDevices:
+[2020.10.23-02.32.01:538][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2020.10.23-02.32.01:539][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2020.10.23-02.32.01:539][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2020.10.23-02.32.01:539][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1050' (P:0 D:0)
+[2020.10.23-02.32.01:540][  0]LogWindows:    4. 'NVIDIA GeForce GTX 1050' (P:0 D:0)
+[2020.10.23-02.32.01:540][  0]LogWindows:    5. 'NVIDIA GeForce GTX 1050' (P:0 D:0)
+[2020.10.23-02.32.01:540][  0]LogWindows:    6. 'NVIDIA GeForce GTX 1050' (P:0 D:0)
+[2020.10.23-02.32.01:540][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2020.10.23-02.32.01:540][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050
+[2020.10.23-02.32.01:541][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2020.10.23-02.32.01:541][  0]LogD3D11RHI:      Driver Date: Unknown
+[2020.10.23-02.32.01:541][  0]LogRHI: Texture pool is 2813 MB (70% of 4019 MB)
+[2020.10.23-02.32.01:597][  0]LogD3D11RHI: Async texture creation enabled
+[2020.10.23-02.32.01:610][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.10.23-02.32.01:612][  0]LogShaderCompilers: Guid format shader working directory is -40 characters bigger than the processId version (../../../../../../Users/crist/OneDrive/Escritorio/repositorios/Museo/MuseoVirtualUdeM/Intermediate/Shaders/WorkingDirectory/23408/).
+[2020.10.23-02.32.01:612][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/crist/AppData/Local/Temp/UnrealShaderWorkingDir/621589B3419137FA70F36284A6BD2FC6/'.
+[2020.10.23-02.32.01:612][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.10.23-02.32.03:253][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2020.10.23-02.32.03:386][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2020.10.23-02.32.03:513][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2020.10.23-02.32.03:642][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2020.10.23-02.32.03:773][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2020.10.23-02.32.03:911][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2020.10.23-02.32.04:069][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2020.10.23-02.32.04:204][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2020.10.23-02.32.04:334][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2020.10.23-02.32.04:463][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2020.10.23-02.32.04:605][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2020.10.23-02.32.04:740][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2020.10.23-02.32.04:868][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2020.10.23-02.32.04:992][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2020.10.23-02.32.05:247][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2020.10.23-02.32.05:247][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2020.10.23-02.32.05:374][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.10.23-02.32.05:481][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2020.10.23-02.32.05:674][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2020.10.23-02.32.05:749][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2020.10.23-02.32.05:904][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2020.10.23-02.32.06:038][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2020.10.23-02.32.06:165][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2020.10.23-02.32.06:296][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2020.10.23-02.32.06:296][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.10.23-02.32.07:592][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.10.23-02.32.07:697][  0]LogDerivedDataCache: Loaded boot cache 0.10s 78MB C:/Users/crist/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2020.10.23-02.32.07:697][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/crist/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2020.10.23-02.32.07:698][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/crist/OneDrive/Escritorio/repositorios/Museo/MuseoVirtualUdeM/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.10.23-02.32.07:698][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.10.23-02.32.07:698][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/crist/OneDrive/Escritorio/repositorios/Museo/MuseoVirtualUdeM/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.10.23-02.32.07:698][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.10.23-02.32.07:718][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.10.23-02.32.07:732][  0]LogDerivedDataCache: Using Local data cache path C:/Users/crist/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.10.23-02.32.07:751][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.10.23-02.32.07:751][  0]LogSlate: Using Freetype 2.6.0
+[2020.10.23-02.32.07:752][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.10.23-02.32.07:752][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.10.23-02.32.08:265][  0]LogInit: Selected Device Profile: [Windows]
+[2020.10.23-02.32.09:130][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2020.10.23-02.32.09:243][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2020.10.23-02.32.09:243][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.10.23-02.32.09:243][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2020.10.23-02.32.09:243][  0]LogMeshReduction: No automatic mesh merging module available
+[2020.10.23-02.32.09:243][  0]LogMeshMerging: No automatic mesh merging module available
+[2020.10.23-02.32.09:293][  0]LogNetVersion: MuseoVirtualUdem , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 2631075334)
+[2020.10.23-02.32.09:607][  0]LogAssetRegistry: FAssetRegistry took 0.0291 seconds to start up
+[2020.10.23-02.32.10:748][  0]LogPackageLocalizationCache: Processed 8 localized package path(s) for 2 prioritized culture(s) in 0.263065 seconds
+[2020.10.23-02.32.10:755][  0]LogUObjectArray: 35870 objects as part of root set at end of initial load.
+[2020.10.23-02.32.10:755][  0]LogUObjectAllocator: 7363696 out of 0 bytes used by permanent object pool.
+[2020.10.23-02.32.10:755][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.10.23-02.32.10:911][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2020.10.23-02.32.18:348][  0]UGameSparksModuleLog: Warning: GameSparks::StartupModule
+[2020.10.23-02.32.18:442][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.10.23-02.32.18:523][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.10.23-02.32.20:186][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2020.10.23-02.32.21:285][  0]SourceControl: El control de código fuente está desactivado
+[2020.10.23-02.32.21:285][  0]SourceControl: El control de código fuente está desactivado
+[2020.10.23-02.32.21:409][  0]SourceControl: El control de código fuente está desactivado
+[2020.10.23-02.32.21:534][  0]SourceControl: El control de código fuente está desactivado
+[2020.10.23-02.32.23:720][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.10.23-02.32.24:347][  0]LogOcInput: OculusInput pre-init called
+[2020.10.23-02.32.24:998][  0]LogEngine: Initializing Engine...
+[2020.10.23-02.32.25:001][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.10.23-02.32.25:248][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2020.10.23-02.32.25:261][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2020.10.23-02.32.25:589][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.10.23-02.32.25:600][  0]LogInit: XAudio2 using 'Altavoz/Auricular (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.10.23-02.32.25:641][  0]LogInit: FAudioDevice initialized.
+[2020.10.23-02.32.26:506][  0]LogDerivedDataCache: Saved boot cache 0.86s 78MB C:/Users/crist/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2020.10.23-02.32.26:525][  0]LogInit: Texture streaming: Enabled
+[2020.10.23-02.32.26:804][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.10.23-02.32.27:448][  0]LogInit: Transaction tracking system initialized
+[2020.10.23-02.32.28:236][  0]BlueprintLog: New page: Cargar el editor
+[2020.10.23-02.32.30:647][  0]LocalizationService: Localization service is disabled
+[2020.10.23-02.32.32:828][  0]LogConsoleResponse: Display: 
+[2020.10.23-02.32.33:377][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.10.23-02.32.33:378][  0]LogCook: Display: Mobile HDR setting 1
+[2020.10.23-02.32.33:378][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2020.10.23-02.32.33:388][  0]LogFileCache: Scanning file cache for directory 'C:/Users/crist/OneDrive/Escritorio/repositorios/Museo/MuseoVirtualUdeM/Content/' took 0.05s
+[2020.10.23-02.32.37:551][  0]SourceControl: El control de código fuente está desactivado
+[2020.10.23-02.32.37:551][  0]Cmd: MAP LOAD FILE="../../../../../../Users/crist/OneDrive/Escritorio/repositorios/Museo/MuseoVirtualUdeM/Content/Scenes/Game.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.10.23-02.32.37:551][  0]LightingResults: New page: Diseñar la iluminación
+[2020.10.23-02.32.37:685][  0]MapCheck: New page: Revisión del mapa
+[2020.10.23-02.32.37:685][  0]LightingResults: New page: Diseñar la iluminación
+[2020.10.23-02.32.49:492][  0]LogAIModule: Creating AISystem for world Game
+[2020.10.23-02.32.49:809][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.10.23-02.32.49:883][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.10.23-02.32.49:993][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 110,184ms to complete.
+[2020.10.23-02.32.49:993][  0]LogFileHelpers: Loading map 'Game' took 12.443
+[2020.10.23-02.32.51:200][  0]LogCollectionManager: Loaded 0 collections in 0.003927 seconds
+[2020.10.23-02.32.51:603][  0]LogFileCache: Scanning file cache for directory 'C:/Users/crist/OneDrive/Escritorio/repositorios/Museo/MuseoVirtualUdeM/Saved/Collections/' took 0.01s
+[2020.10.23-02.32.51:603][  0]LogFileCache: Scanning file cache for directory 'C:/Users/crist/OneDrive/Escritorio/repositorios/Museo/MuseoVirtualUdeM/Content/Developers/crist/Collections/' took 0.01s
+[2020.10.23-02.32.51:603][  0]LogFileCache: Scanning file cache for directory 'C:/Users/crist/OneDrive/Escritorio/repositorios/Museo/MuseoVirtualUdeM/Content/Collections/' took 0.01s
+[2020.10.23-02.32.51:603][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2020.10.23-02.32.51:614][  0]LogContentBrowser: Native class hierarchy populated in 0.0096 seconds. Added 2462 classes and 523 folders.
+[2020.10.23-02.32.51:938][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.10.23-02.32.52:969][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2020.10.23-02.32.53:193][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2020.10.23-02.32.53:774][  0]LogSlate: Took 0.000316 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.10.23-02.32.53:778][  0]LogSlate: Took 0.000661 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.10.23-02.32.53:867][  0]LogSlate: Took 0.013297 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.10.23-02.32.54:529][  0]LogRenderer: Reallocating scene render targets to support 964x436 Format 10 NumSamples 1 (Frame:1).
+[2020.10.23-02.32.55:698][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2020.10.23-02.32.55:698][  0]LogLoad: (Engine Initialization) Total time: 61.94 seconds
+[2020.10.23-02.32.55:698][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.10.23-02.32.55:698][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2020.10.23-02.32.55:698][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2020.10.23-02.32.55:804][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.10.23-02.32.56:270][  0]LogSlate: Took 0.011121 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2020.10.23-02.32.56:308][  1]LogAssetRegistry: Asset discovery search completed in 46.7245 seconds
+[2020.10.23-02.32.56:311][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2020.10.23-02.32.56:311][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000063 seconds (updated 0 objects)
+[2020.10.23-02.34.39:993][ 35]LogSlate: Took 0.000162 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2020.10.23-02.34.40:135][ 35]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\crist\OneDrive\Escritorio\Cuadro\Cuadro.fbx)
+[2020.10.23-02.34.40:265][ 35]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2020.10.23-02.34.40:265][ 35]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2020.10.23-02.34.40:265][ 35]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2020.10.23-02.34.40:265][ 35]LogFbx: ItemName: Geometry, ItemCount : 1
+[2020.10.23-02.34.40:265][ 35]LogFbx: ItemName: Material, ItemCount : 2
+[2020.10.23-02.34.40:265][ 35]LogFbx: ItemName: Texture, ItemCount : 1
+[2020.10.23-02.34.40:266][ 35]LogFbx: ItemName: Model, ItemCount : 1
+[2020.10.23-02.34.40:266][ 35]LogFbx: ItemName: Video, ItemCount : 1
+[2020.10.23-02.34.40:293][ 35]LogFbx: Loading FBX Scene from C:\Users\crist\OneDrive\Escritorio\Cuadro\Cuadro.fbx
+[2020.10.23-02.34.40:333][ 35]LogFbx: FBX Scene Loaded Succesfully
+[2020.10.23-02.41.13:378][ 35]LogFbx: Loading FBX Scene from C:\Users\crist\OneDrive\Escritorio\Cuadro\Cuadro.fbx
+[2020.10.23-02.41.13:386][ 35]LogFbx: FBX Scene Loaded Succesfully
+[2020.10.23-02.41.13:413][ 35]LogLinker: No puede encontrar el archivo '/Game/3DModels/Cuadro2/Obra'
+[2020.10.23-02.41.13:425][ 35]LogLinker: No puede encontrar el archivo '/Game/3DModels/Cuadro2/Obra'
+[2020.10.23-02.41.13:639][ 35]LogLinker: No puede encontrar el archivo '/Game/3DModels/Cuadro2/Arte'
+[2020.10.23-02.41.13:639][ 35]LogLinker: No puede encontrar el archivo '/Game/3DModels/Cuadro2/Arte'
+[2020.10.23-02.41.14:434][ 35]LogTexture: Display: Building textures: Arte (BGRA8, 2568X2122)
+[2020.10.23-02.41.15:081][ 35]LogMaterial: Missing cached shader map for material Obra, compiling. 
+[2020.10.23-02.41.15:267][ 35]LogSlate: Took 0.000159 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.10.23-02.41.15:274][ 35]LogLinker: No puede encontrar el archivo '/Game/3DModels/Cuadro2/Blanco'
+[2020.10.23-02.41.15:274][ 35]LogLinker: No puede encontrar el archivo '/Game/3DModels/Cuadro2/Blanco'
+[2020.10.23-02.41.15:296][ 35]LogMaterial: Missing cached shader map for material Blanco, compiling. 
+[2020.10.23-02.41.15:316][ 35]LogFbx: Warning: Triangulating static mesh pCube1
+[2020.10.23-02.41.15:639][ 35]LogStaticMesh: Generando la malla estática Cuadro...
+[2020.10.23-02.41.15:693][ 35]LogStaticMesh: Built static mesh [0.05s] /Game/3DModels/Cuadro2/Cuadro.Cuadro
+[2020.10.23-02.41.15:799][ 35]LogStaticMesh: Warning: Cuadro has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2020.10.23-02.41.15:799][ 35]LogStaticMesh: Warning: Cuadro has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2020.10.23-02.41.15:825][ 35]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.10.23-02.41.15:825][ 35]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2020.10.23-02.41.15:825][ 35]FBXImport: Warning: Cuadro has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2020.10.23-02.41.15:825][ 35]FBXImport: Warning: Cuadro has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2020.10.23-02.41.24:007][411]LogMaterial: Missing cached shader map for material M_SkyBox, compiling. 
+[2020.10.23-02.41.24:075][411]LogMaterial: Missing cached shader map for material GridMaterial, compiling. 
+[2020.10.23-02.42.46:971][967]LogSlate: Took 0.000298 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2020.10.23-02.42.56:358][995]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Scenes/Game' took 0.054
+[2020.10.23-02.42.56:388][995]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/3DModels/Cuadro2/Cuadro] ([1] browsable assets)...
+[2020.10.23-02.42.56:434][995]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/3DModels/Cuadro2/Cuadro.Cuadro]
+[2020.10.23-02.42.56:434][995]OBJ SavePackage: Finished generating thumbnails for package [/Game/3DModels/Cuadro2/Cuadro]
+[2020.10.23-02.42.56:561][995]LogSavePackage: Save=71.51ms
+[2020.10.23-02.42.56:561][995]LogSavePackage: Moving '../../../../../../Users/crist/OneDrive/Escritorio/repositorios/Museo/MuseoVirtualUdeM/Saved/Cuadro_Auto13F7442B74EB532D3251B88A095F29675.tmp' to '../../../../../../Users/crist/OneDrive/Escritorio/repositorios/Museo/MuseoVirtualUdeM/Saved/Autosaves/Game/3DModels/Cuadro2/Cuadro_Auto1.uasset'
+[2020.10.23-02.42.56:567][995]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/crist/OneDrive/Escritorio/repositorios/Museo/MuseoVirtualUdeM/Saved/Autosaves/Game/3DModels/Cuadro2/Cuadro_Auto1.uasset
+[2020.10.23-02.42.56:569][995]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/3DModels/Cuadro2/Obra] ([1] browsable assets)...
+[2020.10.23-02.42.56:589][995]OBJ SavePackage:     Rendered thumbnail for [Material /Game/3DModels/Cuadro2/Obra.Obra]
+[2020.10.23-02.42.56:589][995]OBJ SavePackage: Finished generating thumbnails for package [/Game/3DModels/Cuadro2/Obra]
+[2020.10.23-02.42.56:611][995]LogSavePackage: Save=18.91ms
+[2020.10.23-02.42.56:611][995]LogSavePackage: Moving '../../../../../../Users/crist/OneDrive/Escritorio/repositorios/Museo/MuseoVirtualUdeM/Saved/Obra_Auto1208C67B34883F6A7BEDB52B1D41D42A8.tmp' to '../../../../../../Users/crist/OneDrive/Escritorio/repositorios/Museo/MuseoVirtualUdeM/Saved/Autosaves/Game/3DModels/Cuadro2/Obra_Auto1.uasset'
+[2020.10.23-02.42.56:615][995]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/crist/OneDrive/Escritorio/repositorios/Museo/MuseoVirtualUdeM/Saved/Autosaves/Game/3DModels/Cuadro2/Obra_Auto1.uasset
+[2020.10.23-02.42.56:617][995]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/3DModels/Cuadro2/Arte] ([1] browsable assets)...
+[2020.10.23-02.42.56:628][995]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/3DModels/Cuadro2/Arte.Arte]
+[2020.10.23-02.42.56:628][995]OBJ SavePackage: Finished generating thumbnails for package [/Game/3DModels/Cuadro2/Arte]
+[2020.10.23-02.42.56:677][995]LogSavePackage: Save=44.27ms
+[2020.10.23-02.42.56:677][995]LogSavePackage: Moving '../../../../../../Users/crist/OneDrive/Escritorio/repositorios/Museo/MuseoVirtualUdeM/Saved/Arte_Auto12399B7E14C6634C2395338BC5B7A4E40.tmp' to '../../../../../../Users/crist/OneDrive/Escritorio/repositorios/Museo/MuseoVirtualUdeM/Saved/Autosaves/Game/3DModels/Cuadro2/Arte_Auto1.uasset'
+[2020.10.23-02.42.56:743][995]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/crist/OneDrive/Escritorio/repositorios/Museo/MuseoVirtualUdeM/Saved/Autosaves/Game/3DModels/Cuadro2/Arte_Auto1.uasset
+[2020.10.23-02.42.56:745][995]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/3DModels/Cuadro2/Blanco] ([1] browsable assets)...
+[2020.10.23-02.42.56:766][995]OBJ SavePackage:     Rendered thumbnail for [Material /Game/3DModels/Cuadro2/Blanco.Blanco]
+[2020.10.23-02.42.56:766][995]OBJ SavePackage: Finished generating thumbnails for package [/Game/3DModels/Cuadro2/Blanco]
+[2020.10.23-02.42.56:785][995]LogSavePackage: Save=15.02ms
+[2020.10.23-02.42.56:786][995]LogSavePackage: Moving '../../../../../../Users/crist/OneDrive/Escritorio/repositorios/Museo/MuseoVirtualUdeM/Saved/Blanco_Auto1E20048EC4B2F45CFDF8A2A8CFDFB47DE.tmp' to '../../../../../../Users/crist/OneDrive/Escritorio/repositorios/Museo/MuseoVirtualUdeM/Saved/Autosaves/Game/3DModels/Cuadro2/Blanco_Auto1.uasset'
+[2020.10.23-02.42.56:789][995]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/crist/OneDrive/Escritorio/repositorios/Museo/MuseoVirtualUdeM/Saved/Autosaves/Game/3DModels/Cuadro2/Blanco_Auto1.uasset
+[2020.10.23-02.42.56:789][995]LogFileHelpers: Auto-saving content packages took 0.431
+[2020.10.23-02.43.13:159][190]LogRenderer: Reallocating scene render targets to support 1144x708 Format 10 NumSamples 1 (Frame:789).
+[2020.10.23-03.02.20:466][ 23]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\crist\OneDrive\Escritorio\V2\V2.fbx)
+[2020.10.23-03.02.20:479][ 23]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2020.10.23-03.02.20:479][ 23]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2020.10.23-03.02.20:479][ 23]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2020.10.23-03.02.20:479][ 23]LogFbx: ItemName: NodeAttribute, ItemCount : 583
+[2020.10.23-03.02.20:479][ 23]LogFbx: ItemName: Model, ItemCount : 585
+[2020.10.23-03.02.20:479][ 23]LogFbx: ItemName: Geometry, ItemCount : 2
+[2020.10.23-03.02.20:479][ 23]LogFbx: ItemName: Material, ItemCount : 7
+[2020.10.23-03.02.20:479][ 23]LogFbx: ItemName: Texture, ItemCount : 5
+[2020.10.23-03.02.20:479][ 23]LogFbx: ItemName: Video, ItemCount : 5
+[2020.10.23-03.02.20:484][ 23]LogFbx: Loading FBX Scene from C:\Users\crist\OneDrive\Escritorio\V2\V2.fbx
+[2020.10.23-03.02.20:669][ 23]LogFbx: FBX Scene Loaded Succesfully
+[2020.10.23-03.02.22:756][ 23]LogFbx: Loading FBX Scene from C:\Users\crist\OneDrive\Escritorio\V2\V2.fbx
+[2020.10.23-03.02.22:900][ 23]LogFbx: FBX Scene Loaded Succesfully
+[2020.10.23-03.02.22:910][ 23]LogLinker: No puede encontrar el archivo '/Game/3DModels/V2/metal2'
+[2020.10.23-03.02.22:911][ 23]LogLinker: No puede encontrar el archivo '/Game/3DModels/V2/metal2'
+[2020.10.23-03.02.22:951][ 23]LogMaterial: Missing cached shader map for material metal2, compiling. 
+[2020.10.23-03.02.22:975][ 23]LogLinker: No puede encontrar el archivo '/Game/3DModels/V2/paredes_concreto'
+[2020.10.23-03.02.22:976][ 23]LogLinker: No puede encontrar el archivo '/Game/3DModels/V2/paredes_concreto'
+[2020.10.23-03.02.22:990][ 23]LogLinker: No puede encontrar el archivo '/Game/3DModels/V2/concreto'
+[2020.10.23-03.02.22:990][ 23]LogLinker: No puede encontrar el archivo '/Game/3DModels/V2/concreto'
+[2020.10.23-03.02.23:024][ 23]LogTexture: Display: Building textures: concreto (BGRA8, 750X1034)
+[2020.10.23-03.02.23:148][ 23]LogFbxMaterialImport: Warning: Manual texture reimport and recompression may be needed for concreto
+[2020.10.23-03.02.23:429][ 23]LogTexture: Display: Building textures: concreto (BGRA8, 750X1034)
+[2020.10.23-03.02.23:517][ 23]LogMaterial: Missing cached shader map for material paredes_concreto, compiling. 
+[2020.10.23-03.02.23:557][ 23]LogMaterial: Warning: /Game/3DModels/V2/paredes_concreto.paredes_concreto (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.10.23-03.02.23:557][ 23]LogMaterial: 	(Node TextureSample) TextureSample> Sampler type is Normal, should be Color for /Game/3DModels/V2/concreto.concreto
+[2020.10.23-03.02.23:558][ 23]LogLinker: No puede encontrar el archivo '/Game/3DModels/V2/vidrio'
+[2020.10.23-03.02.23:558][ 23]LogLinker: No puede encontrar el archivo '/Game/3DModels/V2/vidrio'
+[2020.10.23-03.02.23:577][ 23]LogMaterial: Missing cached shader map for material vidrio, compiling. 
+[2020.10.23-03.02.23:608][ 23]LogLinker: No puede encontrar el archivo '/Game/3DModels/V2/metal1'
+[2020.10.23-03.02.23:608][ 23]LogLinker: No puede encontrar el archivo '/Game/3DModels/V2/metal1'
+[2020.10.23-03.02.23:632][ 23]LogMaterial: Missing cached shader map for material metal1, compiling. 
+[2020.10.23-03.02.23:666][ 23]LogLinker: No puede encontrar el archivo '/Game/3DModels/V2/lambert1'
+[2020.10.23-03.02.23:666][ 23]LogLinker: No puede encontrar el archivo '/Game/3DModels/V2/lambert1'
+[2020.10.23-03.02.23:691][ 23]LogMaterial: Missing cached shader map for material lambert1, compiling. 
+[2020.10.23-03.02.23:731][ 23]LogLinker: No puede encontrar el archivo '/Game/3DModels/V2/Metal03'
+[2020.10.23-03.02.23:732][ 23]LogLinker: No puede encontrar el archivo '/Game/3DModels/V2/Metal03'
+[2020.10.23-03.02.23:755][ 23]LogLinker: No puede encontrar el archivo '/Game/3DModels/V2/metal-texture'
+[2020.10.23-03.02.23:756][ 23]LogLinker: No puede encontrar el archivo '/Game/3DModels/V2/metal-texture'
+[2020.10.23-03.02.23:865][ 23]LogTexture: Display: Building textures: metal-texture (AutoDXT, 1920X1440)
+[2020.10.23-03.02.26:933][ 23]LogMaterial: Missing cached shader map for material Metal03, compiling. 
+[2020.10.23-03.02.26:971][ 23]LogLinker: No puede encontrar el archivo '/Game/3DModels/V2/paredes04'
+[2020.10.23-03.02.26:972][ 23]LogLinker: No puede encontrar el archivo '/Game/3DModels/V2/paredes04'
+[2020.10.23-03.02.26:994][ 23]LogLinker: No puede encontrar el archivo '/Game/3DModels/V2/texutra4'
+[2020.10.23-03.02.26:994][ 23]LogLinker: No puede encontrar el archivo '/Game/3DModels/V2/texutra4'
+[2020.10.23-03.02.27:038][ 23]LogTexture: Display: Building textures: texutra4 (BGRA8, 658X991)
+[2020.10.23-03.02.27:126][ 23]LogFbxMaterialImport: Warning: Manual texture reimport and recompression may be needed for texutra4
+[2020.10.23-03.02.27:177][ 23]LogTexture: Display: Building textures: texutra4 (BGRA8, 658X991)
+[2020.10.23-03.02.27:260][ 23]LogMaterial: Missing cached shader map for material paredes04, compiling. 
+[2020.10.23-03.02.27:261][ 23]LogMaterial: Warning: /Game/3DModels/V2/paredes04.paredes04 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.10.23-03.02.27:261][ 23]LogMaterial: 	(Node TextureSample) TextureSample> Sampler type is Normal, should be Color for /Game/3DModels/V2/texutra4.texutra4
+[2020.10.23-03.02.27:262][ 23]LogFbx: Warning: Triangulating static mesh techo_02_curve14
+[2020.10.23-03.02.27:693][ 23]LogStaticMesh: Generando la malla estática V2...
+[2020.10.23-03.02.27:942][ 23]LogStaticMesh: Built static mesh [0.25s] /Game/3DModels/V2/V2.V2
+[2020.10.23-03.02.27:973][ 23]LogStaticMesh: Warning: V2 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2020.10.23-03.02.27:974][ 23]LogStaticMesh: Warning: V2 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2020.10.23-03.02.27:997][ 23]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.10.23-03.02.27:997][ 23]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.10.23-03.02.27:998][ 23]FBXImport: Warning: V2 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2020.10.23-03.02.27:998][ 23]FBXImport: Warning: V2 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2020.10.23-03.02.54:434][515]LogContentBrowser: Native class hierarchy updated for 'MaterialEditor' in 0.0081 seconds. Added 1 classes and 0 folders.
+[2020.10.23-03.02.54:444][515]LogMaterial: Missing cached shader map for material paredes_concreto, compiling. 
+[2020.10.23-03.02.54:445][515]LogMaterial: Warning: /Engine/Transient.paredes_concreto (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.10.23-03.02.54:445][515]LogMaterial: 	(Node TextureSample) TextureSample> Sampler type is Normal, should be Color for /Game/3DModels/V2/concreto.concreto
+[2020.10.23-03.02.54:759][515]LogMaterial: Missing cached shader map for material paredes_concreto, compiling. 
+[2020.10.23-03.02.54:759][515]LogMaterial: Warning: /Engine/Transient.paredes_concreto (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.10.23-03.02.54:759][515]LogMaterial: 	(Node TextureSample) TextureSample> Sampler type is Normal, should be Color for /Game/3DModels/V2/concreto.concreto
+[2020.10.23-03.02.54:772][515]LogMaterial: Missing cached shader map for material paredes_concreto, compiling. 
+[2020.10.23-03.02.54:773][515]LogMaterial: Warning: /Engine/Transient.paredes_concreto (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.10.23-03.02.54:773][515]LogMaterial: 	(Node TextureSample) TextureSample> Sampler type is Normal, should be Color for /Game/3DModels/V2/concreto.concreto
+[2020.10.23-03.02.54:815][515]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.10.23-03.02.54:819][515]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.10.23-03.02.54:822][515]MaterialEditorStats: Error: [SM5] (Node TextureSample) TextureSample> Sampler type is Normal, should be Color for /Game/3DModels/V2/concreto.concreto
+[2020.10.23-03.02.54:864][515]LogSlate: Took 0.035131 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.10.23-03.03.37:240][587]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Scenes/Game' took 0.062
+[2020.10.23-03.03.37:244][587]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/3DModels/V2/V2] ([1] browsable assets)...
+[2020.10.23-03.03.37:257][587]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/3DModels/V2/V2.V2]
+[2020.10.23-03.03.37:257][587]OBJ SavePackage: Finished generating thumbnails for package [/Game/3DModels/V2/V2]
+[2020.10.23-03.03.37:287][587]LogSavePackage: Save=27.13ms
+[2020.10.23-03.03.37:287][587]LogSavePackage: Moving '../../../../../../Users/crist/OneDrive/Escritorio/repositorios/Museo/MuseoVirtualUdeM/Saved/V2_Auto203FE518A4774D3C74FA5CA98E7F24EB0.tmp' to '../../../../../../Users/crist/OneDrive/Escritorio/repositorios/Museo/MuseoVirtualUdeM/Saved/Autosaves/Game/3DModels/V2/V2_Auto2.uasset'
+[2020.10.23-03.03.37:289][587]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/crist/OneDrive/Escritorio/repositorios/Museo/MuseoVirtualUdeM/Saved/Autosaves/Game/3DModels/V2/V2_Auto2.uasset
+[2020.10.23-03.03.37:290][587]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/3DModels/V2/metal2] ([1] browsable assets)...
+[2020.10.23-03.03.37:304][587]OBJ SavePackage:     Rendered thumbnail for [Material /Game/3DModels/V2/metal2.metal2]
+[2020.10.23-03.03.37:304][587]OBJ SavePackage: Finished generating thumbnails for package [/Game/3DModels/V2/metal2]
+[2020.10.23-03.03.37:321][587]LogSavePackage: Save=12.77ms
+[2020.10.23-03.03.37:321][587]LogSavePackage: Moving '../../../../../../Users/crist/OneDrive/Escritorio/repositorios/Museo/MuseoVirtualUdeM/Saved/metal2_Auto217F698C84C23A4EEF2C5E784F9985AA9.tmp' to '../../../../../../Users/crist/OneDrive/Escritorio/repositorios/Museo/MuseoVirtualUdeM/Saved/Autosaves/Game/3DModels/V2/metal2_Auto2.uasset'
+[2020.10.23-03.03.37:323][587]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/crist/OneDrive/Escritorio/repositorios/Museo/MuseoVirtualUdeM/Saved/Autosaves/Game/3DModels/V2/metal2_Auto2.uasset
+[2020.10.23-03.03.37:325][587]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/3DModels/V2/paredes_concreto] ([1] browsable assets)...
+[2020.10.23-03.03.37:340][587]OBJ SavePackage:     Rendered thumbnail for [Material /Game/3DModels/V2/paredes_concreto.paredes_concreto]
+[2020.10.23-03.03.37:340][587]OBJ SavePackage: Finished generating thumbnails for package [/Game/3DModels/V2/paredes_concreto]
+[2020.10.23-03.03.37:358][587]LogSavePackage: Save=14.45ms
+[2020.10.23-03.03.37:358][587]LogSavePackage: Moving '../../../../../../Users/crist/OneDrive/Escritorio/repositorios/Museo/MuseoVirtualUdeM/Saved/paredes_concreto_Auto204CBC27E4F98BF2D82551CB7A611E7DB.tmp' to '../../../../../../Users/crist/OneDrive/Escritorio/repositorios/Museo/MuseoVirtualUdeM/Saved/Autosaves/Game/3DModels/V2/paredes_concreto_Auto2.uasset'
+[2020.10.23-03.03.37:360][587]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/crist/OneDrive/Escritorio/repositorios/Museo/MuseoVirtualUdeM/Saved/Autosaves/Game/3DModels/V2/paredes_concreto_Auto2.uasset
+[2020.10.23-03.03.37:362][587]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/3DModels/V2/concreto] ([1] browsable assets)...
+[2020.10.23-03.03.37:368][587]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/3DModels/V2/concreto.concreto]
+[2020.10.23-03.03.37:368][587]OBJ SavePackage: Finished generating thumbnails for package [/Game/3DModels/V2/concreto]
+[2020.10.23-03.03.37:381][587]LogSavePackage: Save=10.20ms
+[2020.10.23-03.03.37:381][587]LogSavePackage: Moving '../../../../../../Users/crist/OneDrive/Escritorio/repositorios/Museo/MuseoVirtualUdeM/Saved/concreto_Auto2962CE2624DC0A7B0C6560BA210CBC221.tmp' to '../../../../../../Users/crist/OneDrive/Escritorio/repositorios/Museo/MuseoVirtualUdeM/Saved/Autosaves/Game/3DModels/V2/concreto_Auto2.uasset'
+[2020.10.23-03.03.37:383][587]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/crist/OneDrive/Escritorio/repositorios/Museo/MuseoVirtualUdeM/Saved/Autosaves/Game/3DModels/V2/concreto_Auto2.uasset
+[2020.10.23-03.03.37:385][587]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/3DModels/V2/vidrio] ([1] browsable assets)...
+[2020.10.23-03.03.37:397][587]OBJ SavePackage:     Rendered thumbnail for [Material /Game/3DModels/V2/vidrio.vidrio]
+[2020.10.23-03.03.37:397][587]OBJ SavePackage: Finished generating thumbnails for package [/Game/3DModels/V2/vidrio]
+[2020.10.23-03.03.37:413][587]LogSavePackage: Save=13.94ms
+[2020.10.23-03.03.37:413][587]LogSavePackage: Moving '../../../../../../Users/crist/OneDrive/Escritorio/repositorios/Museo/MuseoVirtualUdeM/Saved/vidrio_Auto2EA6F785C44221909F38ED880C463EF41.tmp' to '../../../../../../Users/crist/OneDrive/Escritorio/repositorios/Museo/MuseoVirtualUdeM/Saved/Autosaves/Game/3DModels/V2/vidrio_Auto2.uasset'
+[2020.10.23-03.03.37:416][587]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/crist/OneDrive/Escritorio/repositorios/Museo/MuseoVirtualUdeM/Saved/Autosaves/Game/3DModels/V2/vidrio_Auto2.uasset
+[2020.10.23-03.03.37:418][587]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/3DModels/V2/metal1] ([1] browsable assets)...
+[2020.10.23-03.03.37:431][587]OBJ SavePackage:     Rendered thumbnail for [Material /Game/3DModels/V2/metal1.metal1]
+[2020.10.23-03.03.37:431][587]OBJ SavePackage: Finished generating thumbnails for package [/Game/3DModels/V2/metal1]
+[2020.10.23-03.03.37:449][587]LogSavePackage: Save=16.17ms
+[2020.10.23-03.03.37:449][587]LogSavePackage: Moving '../../../../../../Users/crist/OneDrive/Escritorio/repositorios/Museo/MuseoVirtualUdeM/Saved/metal1_Auto224CE85D245ACC8C2B3407F89508E24EA.tmp' to '../../../../../../Users/crist/OneDrive/Escritorio/repositorios/Museo/MuseoVirtualUdeM/Saved/Autosaves/Game/3DModels/V2/metal1_Auto2.uasset'
+[2020.10.23-03.03.37:452][587]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/crist/OneDrive/Escritorio/repositorios/Museo/MuseoVirtualUdeM/Saved/Autosaves/Game/3DModels/V2/metal1_Auto2.uasset
+[2020.10.23-03.03.37:454][587]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/3DModels/V2/lambert1] ([1] browsable assets)...
+[2020.10.23-03.03.37:466][587]OBJ SavePackage:     Rendered thumbnail for [Material /Game/3DModels/V2/lambert1.lambert1]
+[2020.10.23-03.03.37:466][587]OBJ SavePackage: Finished generating thumbnails for package [/Game/3DModels/V2/lambert1]
+[2020.10.23-03.03.37:486][587]LogSavePackage: Save=16.69ms
+[2020.10.23-03.03.37:486][587]LogSavePackage: Moving '../../../../../../Users/crist/OneDrive/Escritorio/repositorios/Museo/MuseoVirtualUdeM/Saved/lambert1_Auto2B642B6C046C383B12426098BCE5D702B.tmp' to '../../../../../../Users/crist/OneDrive/Escritorio/repositorios/Museo/MuseoVirtualUdeM/Saved/Autosaves/Game/3DModels/V2/lambert1_Auto2.uasset'
+[2020.10.23-03.03.37:488][587]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/crist/OneDrive/Escritorio/repositorios/Museo/MuseoVirtualUdeM/Saved/Autosaves/Game/3DModels/V2/lambert1_Auto2.uasset
+[2020.10.23-03.03.37:490][587]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/3DModels/V2/Metal03] ([1] browsable assets)...
+[2020.10.23-03.03.37:502][587]OBJ SavePackage:     Rendered thumbnail for [Material /Game/3DModels/V2/Metal03.Metal03]
+[2020.10.23-03.03.37:502][587]OBJ SavePackage: Finished generating thumbnails for package [/Game/3DModels/V2/Metal03]
+[2020.10.23-03.03.37:524][587]LogSavePackage: Save=18.57ms
+[2020.10.23-03.03.37:524][587]LogSavePackage: Moving '../../../../../../Users/crist/OneDrive/Escritorio/repositorios/Museo/MuseoVirtualUdeM/Saved/Metal03_Auto256C5801A4586C64B8AB2EE986879A37D.tmp' to '../../../../../../Users/crist/OneDrive/Escritorio/repositorios/Museo/MuseoVirtualUdeM/Saved/Autosaves/Game/3DModels/V2/Metal03_Auto2.uasset'
+[2020.10.23-03.03.37:526][587]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/crist/OneDrive/Escritorio/repositorios/Museo/MuseoVirtualUdeM/Saved/Autosaves/Game/3DModels/V2/Metal03_Auto2.uasset
+[2020.10.23-03.03.37:528][587]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/3DModels/V2/metal-texture] ([1] browsable assets)...
+[2020.10.23-03.03.37:535][587]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/3DModels/V2/metal-texture.metal-texture]
+[2020.10.23-03.03.37:535][587]OBJ SavePackage: Finished generating thumbnails for package [/Game/3DModels/V2/metal-texture]
+[2020.10.23-03.03.37:555][587]LogSavePackage: Save=17.29ms
+[2020.10.23-03.03.37:555][587]LogSavePackage: Moving '../../../../../../Users/crist/OneDrive/Escritorio/repositorios/Museo/MuseoVirtualUdeM/Saved/metal-texture_Auto2D89722DA4220FDB5982F489A2BAAC233.tmp' to '../../../../../../Users/crist/OneDrive/Escritorio/repositorios/Museo/MuseoVirtualUdeM/Saved/Autosaves/Game/3DModels/V2/metal-texture_Auto2.uasset'
+[2020.10.23-03.03.37:557][587]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/crist/OneDrive/Escritorio/repositorios/Museo/MuseoVirtualUdeM/Saved/Autosaves/Game/3DModels/V2/metal-texture_Auto2.uasset
+[2020.10.23-03.03.37:559][587]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/3DModels/V2/paredes04] ([1] browsable assets)...
+[2020.10.23-03.03.37:572][587]OBJ SavePackage:     Rendered thumbnail for [Material /Game/3DModels/V2/paredes04.paredes04]
+[2020.10.23-03.03.37:572][587]OBJ SavePackage: Finished generating thumbnails for package [/Game/3DModels/V2/paredes04]
+[2020.10.23-03.03.37:590][587]LogSavePackage: Save=13.37ms
+[2020.10.23-03.03.37:590][587]LogSavePackage: Moving '../../../../../../Users/crist/OneDrive/Escritorio/repositorios/Museo/MuseoVirtualUdeM/Saved/paredes04_Auto267C705234A7EA58FA4939F803C69E88C.tmp' to '../../../../../../Users/crist/OneDrive/Escritorio/repositorios/Museo/MuseoVirtualUdeM/Saved/Autosaves/Game/3DModels/V2/paredes04_Auto2.uasset'
+[2020.10.23-03.03.37:592][587]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/crist/OneDrive/Escritorio/repositorios/Museo/MuseoVirtualUdeM/Saved/Autosaves/Game/3DModels/V2/paredes04_Auto2.uasset
+[2020.10.23-03.03.37:594][587]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/3DModels/V2/texutra4] ([1] browsable assets)...
+[2020.10.23-03.03.37:600][587]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/3DModels/V2/texutra4.texutra4]
+[2020.10.23-03.03.37:600][587]OBJ SavePackage: Finished generating thumbnails for package [/Game/3DModels/V2/texutra4]
+[2020.10.23-03.03.37:613][587]LogSavePackage: Save=10.91ms
+[2020.10.23-03.03.37:613][587]LogSavePackage: Moving '../../../../../../Users/crist/OneDrive/Escritorio/repositorios/Museo/MuseoVirtualUdeM/Saved/texutra4_Auto25687F5A847AE42AB8B63129603618B99.tmp' to '../../../../../../Users/crist/OneDrive/Escritorio/repositorios/Museo/MuseoVirtualUdeM/Saved/Autosaves/Game/3DModels/V2/texutra4_Auto2.uasset'
+[2020.10.23-03.03.37:616][587]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/crist/OneDrive/Escritorio/repositorios/Museo/MuseoVirtualUdeM/Saved/Autosaves/Game/3DModels/V2/texutra4_Auto2.uasset
+[2020.10.23-03.03.37:616][587]LogFileHelpers: Auto-saving content packages took 0.374
+[2020.10.23-03.05.10:431][742]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3DModels/Cuadro2/Cuadro" FILE="../../../../../../Users/crist/OneDrive/Escritorio/repositorios/Museo/MuseoVirtualUdeM/Content/3DModels/Cuadro2/Cuadro.uasset" SILENT=true
+[2020.10.23-03.05.10:446][742]LogSavePackage: Save=12.32ms
+[2020.10.23-03.05.10:446][742]LogSavePackage: Moving '../../../../../../Users/crist/OneDrive/Escritorio/repositorios/Museo/MuseoVirtualUdeM/Saved/Cuadro663298404177B81583D44FBC4827F69D.tmp' to '../../../../../../Users/crist/OneDrive/Escritorio/repositorios/Museo/MuseoVirtualUdeM/Content/3DModels/Cuadro2/Cuadro.uasset'
+[2020.10.23-03.05.10:451][742]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/crist/OneDrive/Escritorio/repositorios/Museo/MuseoVirtualUdeM/Content/3DModels/Cuadro2/Cuadro.uasset
+[2020.10.23-03.05.10:476][742]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3DModels/Cuadro2/Obra" FILE="../../../../../../Users/crist/OneDrive/Escritorio/repositorios/Museo/MuseoVirtualUdeM/Content/3DModels/Cuadro2/Obra.uasset" SILENT=true
+[2020.10.23-03.05.10:497][742]LogSavePackage: Save=17.99ms
+[2020.10.23-03.05.10:497][742]LogSavePackage: Moving '../../../../../../Users/crist/OneDrive/Escritorio/repositorios/Museo/MuseoVirtualUdeM/Saved/ObraC5C129864AD0230076BE64ADD169D173.tmp' to '../../../../../../Users/crist/OneDrive/Escritorio/repositorios/Museo/MuseoVirtualUdeM/Content/3DModels/Cuadro2/Obra.uasset'
+[2020.10.23-03.05.10:502][742]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/crist/OneDrive/Escritorio/repositorios/Museo/MuseoVirtualUdeM/Content/3DModels/Cuadro2/Obra.uasset
+[2020.10.23-03.05.10:517][742]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3DModels/Cuadro2/Arte" FILE="../../../../../../Users/crist/OneDrive/Escritorio/repositorios/Museo/MuseoVirtualUdeM/Content/3DModels/Cuadro2/Arte.uasset" SILENT=true
+[2020.10.23-03.05.11:734][742]LogSavePackage: Save=1213.20ms
+[2020.10.23-03.05.11:734][742]LogSavePackage: Moving '../../../../../../Users/crist/OneDrive/Escritorio/repositorios/Museo/MuseoVirtualUdeM/Saved/ArteDC51B2DD406A1303D49973B3A7B2E334.tmp' to '../../../../../../Users/crist/OneDrive/Escritorio/repositorios/Museo/MuseoVirtualUdeM/Content/3DModels/Cuadro2/Arte.uasset'
+[2020.10.23-03.05.11:740][742]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/crist/OneDrive/Escritorio/repositorios/Museo/MuseoVirtualUdeM/Content/3DModels/Cuadro2/Arte.uasset
+[2020.10.23-03.05.11:763][742]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3DModels/Cuadro2/Blanco" FILE="../../../../../../Users/crist/OneDrive/Escritorio/repositorios/Museo/MuseoVirtualUdeM/Content/3DModels/Cuadro2/Blanco.uasset" SILENT=true
+[2020.10.23-03.05.11:790][742]LogSavePackage: Save=11.86ms
+[2020.10.23-03.05.11:790][742]LogSavePackage: Moving '../../../../../../Users/crist/OneDrive/Escritorio/repositorios/Museo/MuseoVirtualUdeM/Saved/Blanco80ECFD7D4CA4DAC6A83C73ABEDEE2D39.tmp' to '../../../../../../Users/crist/OneDrive/Escritorio/repositorios/Museo/MuseoVirtualUdeM/Content/3DModels/Cuadro2/Blanco.uasset'
+[2020.10.23-03.05.11:796][742]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/crist/OneDrive/Escritorio/repositorios/Museo/MuseoVirtualUdeM/Content/3DModels/Cuadro2/Blanco.uasset
+[2020.10.23-03.05.11:819][742]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3DModels/V2/V2" FILE="../../../../../../Users/crist/OneDrive/Escritorio/repositorios/Museo/MuseoVirtualUdeM/Content/3DModels/V2/V2.uasset" SILENT=true
+[2020.10.23-03.05.11:837][742]LogSavePackage: Save=15.29ms
+[2020.10.23-03.05.11:837][742]LogSavePackage: Moving '../../../../../../Users/crist/OneDrive/Escritorio/repositorios/Museo/MuseoVirtualUdeM/Saved/V2341D2C93484E0F8CD706ED8D69574DCE.tmp' to '../../../../../../Users/crist/OneDrive/Escritorio/repositorios/Museo/MuseoVirtualUdeM/Content/3DModels/V2/V2.uasset'
+[2020.10.23-03.05.11:843][742]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/crist/OneDrive/Escritorio/repositorios/Museo/MuseoVirtualUdeM/Content/3DModels/V2/V2.uasset
+[2020.10.23-03.05.11:863][742]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3DModels/V2/metal2" FILE="../../../../../../Users/crist/OneDrive/Escritorio/repositorios/Museo/MuseoVirtualUdeM/Content/3DModels/V2/metal2.uasset" SILENT=true
+[2020.10.23-03.05.11:878][742]LogSavePackage: Save=12.66ms
+[2020.10.23-03.05.11:878][742]LogSavePackage: Moving '../../../../../../Users/crist/OneDrive/Escritorio/repositorios/Museo/MuseoVirtualUdeM/Saved/metal28F54447A47C3534A62C89AA2AA30D261.tmp' to '../../../../../../Users/crist/OneDrive/Escritorio/repositorios/Museo/MuseoVirtualUdeM/Content/3DModels/V2/metal2.uasset'
+[2020.10.23-03.05.11:882][742]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/crist/OneDrive/Escritorio/repositorios/Museo/MuseoVirtualUdeM/Content/3DModels/V2/metal2.uasset
+[2020.10.23-03.05.11:918][742]LogSavePackage: Save=12.84ms
+[2020.10.23-03.05.11:918][742]LogSavePackage: Moving '../../../../../../Users/crist/OneDrive/Escritorio/repositorios/Museo/MuseoVirtualUdeM/Saved/paredes_concreto01F9A0B64E784EEB8396058ED5FB624A.tmp' to '../../../../../../Users/crist/OneDrive/Escritorio/repositorios/Museo/MuseoVirtualUdeM/Content/3DModels/V2/paredes_concreto.uasset'
+[2020.10.23-03.05.11:924][742]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/crist/OneDrive/Escritorio/repositorios/Museo/MuseoVirtualUdeM/Content/3DModels/V2/paredes_concreto.uasset
+[2020.10.23-03.05.11:937][742]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3DModels/V2/concreto" FILE="../../../../../../Users/crist/OneDrive/Escritorio/repositorios/Museo/MuseoVirtualUdeM/Content/3DModels/V2/concreto.uasset" SILENT=true
+[2020.10.23-03.05.12:074][742]LogSavePackage: Save=63.99ms
+[2020.10.23-03.05.12:074][742]LogSavePackage: Moving '../../../../../../Users/crist/OneDrive/Escritorio/repositorios/Museo/MuseoVirtualUdeM/Saved/concreto4F2F64F745114DB16F276A8B3CB9F85E.tmp' to '../../../../../../Users/crist/OneDrive/Escritorio/repositorios/Museo/MuseoVirtualUdeM/Content/3DModels/V2/concreto.uasset'
+[2020.10.23-03.05.12:078][742]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/crist/OneDrive/Escritorio/repositorios/Museo/MuseoVirtualUdeM/Content/3DModels/V2/concreto.uasset
+[2020.10.23-03.05.12:097][742]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3DModels/V2/vidrio" FILE="../../../../../../Users/crist/OneDrive/Escritorio/repositorios/Museo/MuseoVirtualUdeM/Content/3DModels/V2/vidrio.uasset" SILENT=true
+[2020.10.23-03.05.12:112][742]LogSavePackage: Save=11.83ms
+[2020.10.23-03.05.12:112][742]LogSavePackage: Moving '../../../../../../Users/crist/OneDrive/Escritorio/repositorios/Museo/MuseoVirtualUdeM/Saved/vidrioAC57A684405F8DF8ADE6C8BA896C7142.tmp' to '../../../../../../Users/crist/OneDrive/Escritorio/repositorios/Museo/MuseoVirtualUdeM/Content/3DModels/V2/vidrio.uasset'
+[2020.10.23-03.05.12:117][742]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/crist/OneDrive/Escritorio/repositorios/Museo/MuseoVirtualUdeM/Content/3DModels/V2/vidrio.uasset
+[2020.10.23-03.05.12:143][742]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3DModels/V2/metal1" FILE="../../../../../../Users/crist/OneDrive/Escritorio/repositorios/Museo/MuseoVirtualUdeM/Content/3DModels/V2/metal1.uasset" SILENT=true
+[2020.10.23-03.05.12:156][742]LogSavePackage: Save=12.10ms
+[2020.10.23-03.05.12:156][742]LogSavePackage: Moving '../../../../../../Users/crist/OneDrive/Escritorio/repositorios/Museo/MuseoVirtualUdeM/Saved/metal14C0B72424B3071B2A33B8A8641FD862F.tmp' to '../../../../../../Users/crist/OneDrive/Escritorio/repositorios/Museo/MuseoVirtualUdeM/Content/3DModels/V2/metal1.uasset'
+[2020.10.23-03.05.12:162][742]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/crist/OneDrive/Escritorio/repositorios/Museo/MuseoVirtualUdeM/Content/3DModels/V2/metal1.uasset
+[2020.10.23-03.05.12:184][742]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3DModels/V2/lambert1" FILE="../../../../../../Users/crist/OneDrive/Escritorio/repositorios/Museo/MuseoVirtualUdeM/Content/3DModels/V2/lambert1.uasset" SILENT=true
+[2020.10.23-03.05.12:198][742]LogSavePackage: Save=13.38ms
+[2020.10.23-03.05.12:198][742]LogSavePackage: Moving '../../../../../../Users/crist/OneDrive/Escritorio/repositorios/Museo/MuseoVirtualUdeM/Saved/lambert1A069E3CF49DF3CBB6EC276A1B7F45BB8.tmp' to '../../../../../../Users/crist/OneDrive/Escritorio/repositorios/Museo/MuseoVirtualUdeM/Content/3DModels/V2/lambert1.uasset'
+[2020.10.23-03.05.12:203][742]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/crist/OneDrive/Escritorio/repositorios/Museo/MuseoVirtualUdeM/Content/3DModels/V2/lambert1.uasset
+[2020.10.23-03.05.12:231][742]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3DModels/V2/Metal03" FILE="../../../../../../Users/crist/OneDrive/Escritorio/repositorios/Museo/MuseoVirtualUdeM/Content/3DModels/V2/Metal03.uasset" SILENT=true
+[2020.10.23-03.05.12:247][742]LogSavePackage: Save=14.08ms
+[2020.10.23-03.05.12:247][742]LogSavePackage: Moving '../../../../../../Users/crist/OneDrive/Escritorio/repositorios/Museo/MuseoVirtualUdeM/Saved/Metal0324739E6C4DF521D0D7C5D5936F25F64C.tmp' to '../../../../../../Users/crist/OneDrive/Escritorio/repositorios/Museo/MuseoVirtualUdeM/Content/3DModels/V2/Metal03.uasset'
+[2020.10.23-03.05.12:252][742]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/crist/OneDrive/Escritorio/repositorios/Museo/MuseoVirtualUdeM/Content/3DModels/V2/Metal03.uasset
+[2020.10.23-03.05.12:622][742]LogSavePackage: Save=351.14ms
+[2020.10.23-03.05.12:623][742]LogSavePackage: Moving '../../../../../../Users/crist/OneDrive/Escritorio/repositorios/Museo/MuseoVirtualUdeM/Saved/metal-textureB604CED340E92DE49486C1B4ACDE6506.tmp' to '../../../../../../Users/crist/OneDrive/Escritorio/repositorios/Museo/MuseoVirtualUdeM/Content/3DModels/V2/metal-texture.uasset'
+[2020.10.23-03.05.12:628][742]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/crist/OneDrive/Escritorio/repositorios/Museo/MuseoVirtualUdeM/Content/3DModels/V2/metal-texture.uasset
+[2020.10.23-03.05.12:660][742]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3DModels/V2/paredes04" FILE="../../../../../../Users/crist/OneDrive/Escritorio/repositorios/Museo/MuseoVirtualUdeM/Content/3DModels/V2/paredes04.uasset" SILENT=true
+[2020.10.23-03.05.12:677][742]LogSavePackage: Save=13.93ms
+[2020.10.23-03.05.12:677][742]LogSavePackage: Moving '../../../../../../Users/crist/OneDrive/Escritorio/repositorios/Museo/MuseoVirtualUdeM/Saved/paredes04A8971BCE4A173918AABA4692F7FBBCF2.tmp' to '../../../../../../Users/crist/OneDrive/Escritorio/repositorios/Museo/MuseoVirtualUdeM/Content/3DModels/V2/paredes04.uasset'
+[2020.10.23-03.05.12:681][742]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/crist/OneDrive/Escritorio/repositorios/Museo/MuseoVirtualUdeM/Content/3DModels/V2/paredes04.uasset
+[2020.10.23-03.05.12:695][742]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3DModels/V2/texutra4" FILE="../../../../../../Users/crist/OneDrive/Escritorio/repositorios/Museo/MuseoVirtualUdeM/Content/3DModels/V2/texutra4.uasset" SILENT=true
+[2020.10.23-03.05.12:787][742]LogSavePackage: Save=87.89ms
+[2020.10.23-03.05.12:787][742]LogSavePackage: Moving '../../../../../../Users/crist/OneDrive/Escritorio/repositorios/Museo/MuseoVirtualUdeM/Saved/texutra4F07DB78D4AD369334A5677A51AE57956.tmp' to '../../../../../../Users/crist/OneDrive/Escritorio/repositorios/Museo/MuseoVirtualUdeM/Content/3DModels/V2/texutra4.uasset'
+[2020.10.23-03.05.12:791][742]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/crist/OneDrive/Escritorio/repositorios/Museo/MuseoVirtualUdeM/Content/3DModels/V2/texutra4.uasset
+[2020.10.23-03.16.02:876][819]LogMaterial: Missing cached shader map for material paredes_concreto, compiling. 
+[2020.10.23-03.16.02:877][819]LogMaterial: Warning: /Engine/Transient.paredes_concreto (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.10.23-03.16.02:877][819]LogMaterial: 	(Node TextureSample) TextureSample> Sampler type is Normal, should be Color for /Game/3DModels/V2/concreto.concreto
+[2020.10.23-03.16.02:984][819]LogMaterial: Missing cached shader map for material paredes_concreto, compiling. 
+[2020.10.23-03.16.02:984][819]LogMaterial: Warning: /Engine/Transient.paredes_concreto (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.10.23-03.16.02:984][819]LogMaterial: 	(Node TextureSample) TextureSample> Sampler type is Normal, should be Color for /Game/3DModels/V2/concreto.concreto
+[2020.10.23-03.16.02:989][819]LogMaterial: Missing cached shader map for material paredes_concreto, compiling. 
+[2020.10.23-03.16.02:990][819]LogMaterial: Warning: /Engine/Transient.paredes_concreto (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.10.23-03.16.02:990][819]LogMaterial: 	(Node TextureSample) TextureSample> Sampler type is Normal, should be Color for /Game/3DModels/V2/concreto.concreto
+[2020.10.23-03.16.03:024][819]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.10.23-03.16.03:042][819]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.10.23-03.16.03:051][819]MaterialEditorStats: Error: [SM5] (Node TextureSample) TextureSample> Sampler type is Normal, should be Color for /Game/3DModels/V2/concreto.concreto
+[2020.10.23-03.16.17:394][ 63]LogMaterial: Missing cached shader map for material paredes_concreto, compiling. 
+[2020.10.23-03.16.17:394][ 63]LogMaterial: Warning: /Engine/Transient.paredes_concreto (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.10.23-03.16.17:394][ 63]LogMaterial: 	(Node TextureSample) TextureSample> Sampler type is Normal, should be Color for /Game/3DModels/V2/concreto.concreto
+[2020.10.23-03.16.17:474][ 63]LogMaterial: Missing cached shader map for material paredes_concreto, compiling. 
+[2020.10.23-03.16.17:474][ 63]LogMaterial: Warning: C:\Users\crist\OneDrive\Escritorio\repositorios\Museo\MuseoVirtualUdeM\Content\3DModels\V2\paredes_concreto.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.10.23-03.16.17:474][ 63]LogMaterial: 	(Node TextureSample) TextureSample> Sampler type is Normal, should be Color for /Game/3DModels/V2/concreto.concreto
+[2020.10.23-03.16.17:477][ 63]LogMaterial: Missing cached shader map for material paredes_concreto, compiling. 
+[2020.10.23-03.16.17:478][ 63]LogMaterial: Warning: C:\Users\crist\OneDrive\Escritorio\repositorios\Museo\MuseoVirtualUdeM\Content\3DModels\V2\paredes_concreto.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.10.23-03.16.17:478][ 63]LogMaterial: 	(Node TextureSample) TextureSample> Sampler type is Normal, should be Color for /Game/3DModels/V2/concreto.concreto
+[2020.10.23-03.16.17:511][ 63]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy paredes_concreto, compiling. 
+[2020.10.23-03.16.17:529][ 63]TextureStreamingBuild: Display: Compiling optional shaders took 0.034 seconds.
+[2020.10.23-03.16.26:822][584]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Scenes/Game' took 0.016
+[2020.10.23-03.16.26:828][584]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/3DModels/V2/paredes_concreto] ([1] browsable assets)...
+[2020.10.23-03.16.26:841][584]OBJ SavePackage:     Rendered thumbnail for [Material /Game/3DModels/V2/paredes_concreto.paredes_concreto]
+[2020.10.23-03.16.26:841][584]OBJ SavePackage: Finished generating thumbnails for package [/Game/3DModels/V2/paredes_concreto]
+[2020.10.23-03.16.26:946][584]LogSavePackage: Save=14.22ms
+[2020.10.23-03.16.26:946][584]LogSavePackage: Moving '../../../../../../Users/crist/OneDrive/Escritorio/repositorios/Museo/MuseoVirtualUdeM/Saved/paredes_concreto_Auto32BB92802494CCD9B92EAA79D48A41456.tmp' to '../../../../../../Users/crist/OneDrive/Escritorio/repositorios/Museo/MuseoVirtualUdeM/Saved/Autosaves/Game/3DModels/V2/paredes_concreto_Auto3.uasset'
+[2020.10.23-03.16.26:948][584]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/crist/OneDrive/Escritorio/repositorios/Museo/MuseoVirtualUdeM/Saved/Autosaves/Game/3DModels/V2/paredes_concreto_Auto3.uasset
+[2020.10.23-03.16.26:948][584]LogFileHelpers: Auto-saving content packages took 0.124
+[2020.10.23-03.19.53:989][494]LogMaterial: Missing cached shader map for material vidrio, compiling. 
+[2020.10.23-03.19.54:123][494]LogMaterial: Missing cached shader map for material vidrio, compiling. 
+[2020.10.23-03.19.54:143][494]LogMaterial: Missing cached shader map for material vidrio, compiling. 
+[2020.10.23-03.19.54:191][494]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.10.23-03.19.54:387][495]LogSlate: Took 0.050153 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.10.23-03.19.56:883][591]MaterialEditorStats: Base pass shader: 101 instructions
+[2020.10.23-03.19.56:883][591]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 174 instructions
+[2020.10.23-03.19.56:883][591]MaterialEditorStats: Vertex shader: 29 instructions
+[2020.10.23-03.19.56:883][591]MaterialEditorStats: Texture samplers: 2/16
+[2020.10.23-03.20.08:503][239]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.10.23-03.20.08:591][240]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.10.23-03.20.08:625][240]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.10.23-03.20.08:692][241]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.10.23-03.20.08:728][241]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.10.23-03.20.08:762][241]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.10.23-03.20.08:831][242]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.10.23-03.20.08:865][242]LogMaterial: Missing cached shader map for material vidrio, compiling. 
+[2020.10.23-03.20.08:896][242]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.10.23-03.20.09:185][251]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.10.23-03.20.09:259][252]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.10.23-03.20.09:293][252]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.10.23-03.20.09:329][252]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.10.23-03.20.09:363][252]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.10.23-03.20.09:480][255]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.10.23-03.20.09:818][268]LogMaterial: Missing cached shader map for material vidrio, compiling. 
+[2020.10.23-03.20.09:862][268]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.10.23-03.20.12:378][363]MaterialEditorStats: Base pass shader: 101 instructions
+[2020.10.23-03.20.12:378][363]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 174 instructions
+[2020.10.23-03.20.12:378][363]MaterialEditorStats: Vertex shader: 29 instructions
+[2020.10.23-03.20.12:378][363]MaterialEditorStats: Texture samplers: 2/16
+[2020.10.23-03.20.21:249][878]LogMaterial: Missing cached shader map for material vidrio, compiling. 
+[2020.10.23-03.20.21:276][878]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.10.23-03.20.23:481][975]MaterialEditorStats: Base pass shader: 101 instructions
+[2020.10.23-03.20.23:481][975]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 174 instructions
+[2020.10.23-03.20.23:481][975]MaterialEditorStats: Vertex shader: 29 instructions
+[2020.10.23-03.20.23:481][975]MaterialEditorStats: Texture samplers: 2/16
+[2020.10.23-03.20.47:705][384]LogMaterial: Missing cached shader map for material vidrio, compiling. 
+[2020.10.23-03.20.47:731][384]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.10.23-03.20.50:409][500]MaterialEditorStats: Base pass shader: 101 instructions
+[2020.10.23-03.20.50:409][500]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 174 instructions
+[2020.10.23-03.20.50:409][500]MaterialEditorStats: Vertex shader: 29 instructions
+[2020.10.23-03.20.50:409][500]MaterialEditorStats: Texture samplers: 2/16
+[2020.10.23-03.20.54:791][760]LogMaterial: Missing cached shader map for material vidrio, compiling. 
+[2020.10.23-03.20.54:817][760]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.10.23-03.20.57:006][852]MaterialEditorStats: Base pass shader: 101 instructions
+[2020.10.23-03.20.57:006][852]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 174 instructions
+[2020.10.23-03.20.57:006][852]MaterialEditorStats: Vertex shader: 29 instructions
+[2020.10.23-03.20.57:006][852]MaterialEditorStats: Texture samplers: 2/16
+[2020.10.23-03.20.57:132][858]LogMaterial: Missing cached shader map for material vidrio, compiling. 
+[2020.10.23-03.20.57:157][858]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.10.23-03.20.59:161][953]MaterialEditorStats: Base pass shader: 101 instructions
+[2020.10.23-03.20.59:161][953]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 174 instructions
+[2020.10.23-03.20.59:161][953]MaterialEditorStats: Vertex shader: 29 instructions
+[2020.10.23-03.20.59:161][953]MaterialEditorStats: Texture samplers: 2/16
+[2020.10.23-03.21.03:935][215]LogEditorTransaction: Undo Modificar el valor del seleccionador del color
+[2020.10.23-03.21.03:975][215]LogMaterial: Missing cached shader map for material vidrio, compiling. 
+[2020.10.23-03.21.04:066][215]LogMaterial: Missing cached shader map for material vidrio, compiling. 
+[2020.10.23-03.21.04:101][215]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.10.23-03.21.05:184][253]LogEditorTransaction: Undo Modificar el valor del seleccionador del color
+[2020.10.23-03.21.05:198][253]LogMaterial: Missing cached shader map for material vidrio, compiling. 
+[2020.10.23-03.21.05:227][253]LogMaterial: Missing cached shader map for material vidrio, compiling. 
+[2020.10.23-03.21.05:262][253]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.10.23-03.21.07:829][347]MaterialEditorStats: Base pass shader: 101 instructions
+[2020.10.23-03.21.07:829][347]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 174 instructions
+[2020.10.23-03.21.07:829][347]MaterialEditorStats: Vertex shader: 29 instructions
+[2020.10.23-03.21.07:829][347]MaterialEditorStats: Texture samplers: 2/16
+[2020.10.23-03.21.08:291][371]Cmd: TRANSACTION UNDO
+[2020.10.23-03.21.08:292][371]LogEditorTransaction: Undo Modificar el valor del seleccionador del color
+[2020.10.23-03.21.08:296][371]LogMaterial: Missing cached shader map for material vidrio, compiling. 
+[2020.10.23-03.21.08:335][371]LogMaterial: Missing cached shader map for material vidrio, compiling. 
+[2020.10.23-03.21.08:379][371]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.10.23-03.21.10:971][462]MaterialEditorStats: Base pass shader: 101 instructions
+[2020.10.23-03.21.10:971][462]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 174 instructions
+[2020.10.23-03.21.10:972][462]MaterialEditorStats: Vertex shader: 29 instructions
+[2020.10.23-03.21.10:972][462]MaterialEditorStats: Texture samplers: 2/16
+[2020.10.23-03.23.06:079][671]LogMaterial: Missing cached shader map for material paredes04, compiling. 
+[2020.10.23-03.23.06:080][671]LogMaterial: Warning: /Engine/Transient.paredes04 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.10.23-03.23.06:080][671]LogMaterial: 	(Node TextureSample) TextureSample> Sampler type is Normal, should be Color for /Game/3DModels/V2/texutra4.texutra4
+[2020.10.23-03.23.06:183][671]LogMaterial: Missing cached shader map for material paredes04, compiling. 
+[2020.10.23-03.23.06:184][671]LogMaterial: Warning: /Engine/Transient.paredes04 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.10.23-03.23.06:184][671]LogMaterial: 	(Node TextureSample) TextureSample> Sampler type is Normal, should be Color for /Game/3DModels/V2/texutra4.texutra4
+[2020.10.23-03.23.06:188][671]LogMaterial: Missing cached shader map for material paredes04, compiling. 
+[2020.10.23-03.23.06:189][671]LogMaterial: Warning: /Engine/Transient.paredes04 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.10.23-03.23.06:189][671]LogMaterial: 	(Node TextureSample) TextureSample> Sampler type is Normal, should be Color for /Game/3DModels/V2/texutra4.texutra4
+[2020.10.23-03.23.06:223][671]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.10.23-03.23.06:228][671]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.10.23-03.23.06:232][671]MaterialEditorStats: Error: [SM5] (Node TextureSample) TextureSample> Sampler type is Normal, should be Color for /Game/3DModels/V2/texutra4.texutra4
+[2020.10.23-03.23.14:972][164]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2020.10.23-03.23.14:973][164]LogMaterial: Warning: /Engine/Transient.PreviewMaterial_0 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.10.23-03.23.14:973][164]LogMaterial: 	(Node TextureSample) TextureSample> Sampler type is Normal, should be Color for /Game/3DModels/V2/concreto.concreto
+[2020.10.23-03.23.15:082][164]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2020.10.23-03.23.15:083][164]LogMaterial: Warning: /Engine/Transient.PreviewMaterial_0 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.10.23-03.23.15:083][164]LogMaterial: 	(Node TextureSample) TextureSample> Sampler type is Normal, should be Color for /Game/3DModels/V2/concreto.concreto
+[2020.10.23-03.23.15:087][164]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2020.10.23-03.23.15:087][164]LogMaterial: Warning: /Engine/Transient.PreviewMaterial_0 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.10.23-03.23.15:087][164]LogMaterial: 	(Node TextureSample) TextureSample> Sampler type is Normal, should be Color for /Game/3DModels/V2/concreto.concreto
+[2020.10.23-03.23.15:127][164]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.10.23-03.23.15:146][164]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.10.23-03.23.15:156][164]MaterialEditorStats: Error: [SM5] (Node TextureSample) TextureSample> Sampler type is Normal, should be Color for /Game/3DModels/V2/concreto.concreto
+[2020.10.23-03.23.18:062][295]LogContentBrowser: Native class hierarchy updated for 'TextureEditor' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2020.10.23-03.23.22:053][508]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2020.10.23-03.23.22:176][508]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2020.10.23-03.23.22:196][508]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2020.10.23-03.23.22:251][508]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.10.23-03.23.24:736][603]MaterialEditorStats: Base pass shader: 101 instructions
+[2020.10.23-03.23.24:736][603]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 174 instructions
+[2020.10.23-03.23.24:736][603]MaterialEditorStats: Vertex shader: 29 instructions
+[2020.10.23-03.23.24:737][603]MaterialEditorStats: Texture samplers: 2/16
+[2020.10.23-03.25.26:495][386]LogMaterial: Missing cached shader map for material PreviewMaterial_2, compiling. 
+[2020.10.23-03.25.26:496][386]LogMaterial: Warning: /Engine/Transient.PreviewMaterial_2 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.10.23-03.25.26:496][386]LogMaterial: 	(Node TextureSample) TextureSample> Sampler type is Normal, should be Color for /Game/3DModels/V2/concreto.concreto
+[2020.10.23-03.25.26:605][386]LogMaterial: Missing cached shader map for material PreviewMaterial_2, compiling. 
+[2020.10.23-03.25.26:606][386]LogMaterial: Warning: /Engine/Transient.PreviewMaterial_2 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.10.23-03.25.26:606][386]LogMaterial: 	(Node TextureSample) TextureSample> Sampler type is Normal, should be Color for /Game/3DModels/V2/concreto.concreto
+[2020.10.23-03.25.26:611][386]LogMaterial: Missing cached shader map for material PreviewMaterial_2, compiling. 
+[2020.10.23-03.25.26:611][386]LogMaterial: Warning: /Engine/Transient.PreviewMaterial_2 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.10.23-03.25.26:611][386]LogMaterial: 	(Node TextureSample) TextureSample> Sampler type is Normal, should be Color for /Game/3DModels/V2/concreto.concreto
+[2020.10.23-03.25.26:640][386]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.10.23-03.25.26:647][386]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.10.23-03.25.26:650][386]MaterialEditorStats: Error: [SM5] (Node TextureSample) TextureSample> Sampler type is Normal, should be Color for /Game/3DModels/V2/concreto.concreto
+[2020.10.23-03.25.40:747][140]LogMaterial: Missing cached shader map for material PreviewMaterial_3, compiling. 
+[2020.10.23-03.25.40:748][140]LogMaterial: Warning: /Engine/Transient.PreviewMaterial_3 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.10.23-03.25.40:748][140]LogMaterial: 	(Node TextureSample) TextureSample> Sampler type is Normal, should be Color for /Game/3DModels/V2/concreto.concreto
+[2020.10.23-03.25.40:872][140]LogMaterial: Missing cached shader map for material PreviewMaterial_3, compiling. 
+[2020.10.23-03.25.40:873][140]LogMaterial: Warning: /Engine/Transient.PreviewMaterial_3 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.10.23-03.25.40:873][140]LogMaterial: 	(Node TextureSample) TextureSample> Sampler type is Normal, should be Color for /Game/3DModels/V2/concreto.concreto
+[2020.10.23-03.25.40:876][140]LogMaterial: Missing cached shader map for material PreviewMaterial_3, compiling. 
+[2020.10.23-03.25.40:877][140]LogMaterial: Warning: /Engine/Transient.PreviewMaterial_3 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.10.23-03.25.40:877][140]LogMaterial: 	(Node TextureSample) TextureSample> Sampler type is Normal, should be Color for /Game/3DModels/V2/concreto.concreto
+[2020.10.23-03.25.40:914][140]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.10.23-03.25.40:934][140]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.10.23-03.25.40:951][140]MaterialEditorStats: Error: [SM5] (Node TextureSample) TextureSample> Sampler type is Normal, should be Color for /Game/3DModels/V2/concreto.concreto
+[2020.10.23-03.26.02:718][299]LogMaterial: Missing cached shader map for material PreviewMaterial_4, compiling. 
+[2020.10.23-03.26.02:718][299]LogMaterial: Warning: /Engine/Transient.PreviewMaterial_4 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.10.23-03.26.02:718][299]LogMaterial: 	(Node TextureSample) TextureSample> Sampler type is Normal, should be Color for /Game/3DModels/V2/texutra4.texutra4
+[2020.10.23-03.26.02:835][299]LogMaterial: Missing cached shader map for material PreviewMaterial_4, compiling. 
+[2020.10.23-03.26.02:835][299]LogMaterial: Warning: /Engine/Transient.PreviewMaterial_4 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.10.23-03.26.02:835][299]LogMaterial: 	(Node TextureSample) TextureSample> Sampler type is Normal, should be Color for /Game/3DModels/V2/texutra4.texutra4
+[2020.10.23-03.26.02:838][299]LogMaterial: Missing cached shader map for material PreviewMaterial_4, compiling. 
+[2020.10.23-03.26.02:839][299]LogMaterial: Warning: /Engine/Transient.PreviewMaterial_4 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.10.23-03.26.02:839][299]LogMaterial: 	(Node TextureSample) TextureSample> Sampler type is Normal, should be Color for /Game/3DModels/V2/texutra4.texutra4
+[2020.10.23-03.26.02:873][299]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.10.23-03.26.02:881][299]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.10.23-03.26.02:886][299]MaterialEditorStats: Error: [SM5] (Node TextureSample) TextureSample> Sampler type is Normal, should be Color for /Game/3DModels/V2/texutra4.texutra4
+[2020.10.23-03.26.13:432][885]LogMaterial: Missing cached shader map for material PreviewMaterial_5, compiling. 
+[2020.10.23-03.26.13:432][885]LogMaterial: Warning: /Engine/Transient.PreviewMaterial_5 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.10.23-03.26.13:432][885]LogMaterial: 	(Node TextureSample) TextureSample> Sampler type is Normal, should be Color for /Game/3DModels/V2/concreto.concreto
+[2020.10.23-03.26.13:550][885]LogMaterial: Missing cached shader map for material PreviewMaterial_5, compiling. 
+[2020.10.23-03.26.13:550][885]LogMaterial: Warning: /Engine/Transient.PreviewMaterial_5 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.10.23-03.26.13:550][885]LogMaterial: 	(Node TextureSample) TextureSample> Sampler type is Normal, should be Color for /Game/3DModels/V2/concreto.concreto
+[2020.10.23-03.26.13:556][885]LogMaterial: Missing cached shader map for material PreviewMaterial_5, compiling. 
+[2020.10.23-03.26.13:556][885]LogMaterial: Warning: /Engine/Transient.PreviewMaterial_5 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.10.23-03.26.13:556][885]LogMaterial: 	(Node TextureSample) TextureSample> Sampler type is Normal, should be Color for /Game/3DModels/V2/concreto.concreto
+[2020.10.23-03.26.13:584][885]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.10.23-03.26.13:591][885]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.10.23-03.26.13:595][885]MaterialEditorStats: Error: [SM5] (Node TextureSample) TextureSample> Sampler type is Normal, should be Color for /Game/3DModels/V2/concreto.concreto
+[2020.10.23-03.28.06:197][393]LogMaterial: Missing cached shader map for material PreviewMaterial_6, compiling. 
+[2020.10.23-03.28.06:326][393]LogMaterial: Missing cached shader map for material PreviewMaterial_6, compiling. 
+[2020.10.23-03.28.06:344][393]LogMaterial: Missing cached shader map for material PreviewMaterial_6, compiling. 
+[2020.10.23-03.28.06:392][393]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.10.23-03.28.09:047][500]MaterialEditorStats: Base pass shader: 101 instructions
+[2020.10.23-03.28.09:047][500]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 174 instructions
+[2020.10.23-03.28.09:047][500]MaterialEditorStats: Vertex shader: 29 instructions
+[2020.10.23-03.28.09:047][500]MaterialEditorStats: Texture samplers: 2/16
+[2020.10.23-03.28.31:644][435]LogMaterial: Missing cached shader map for material PreviewMaterial_6, compiling. 
+[2020.10.23-03.28.31:682][435]LogMaterial: Missing cached shader map for material PreviewMaterial_6, compiling. 
+[2020.10.23-03.28.36:213][613]MaterialEditorStats: Base pass shader: 46 instructions
+[2020.10.23-03.28.36:213][613]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 73 instructions
+[2020.10.23-03.28.36:213][613]MaterialEditorStats: Vertex shader: 122 instructions
+[2020.10.23-03.28.36:213][613]MaterialEditorStats: Texture samplers: 3/16
+[2020.10.23-03.28.52:792][554]LogMaterialEditor: Saving and Compiling material vidrio
+[2020.10.23-03.28.53:523][554]LogMaterial: Missing cached shader map for material PreviewMaterial_6, compiling. 
+[2020.10.23-03.28.53:610][554]LogMaterial: Missing cached shader map for material vidrio, compiling. 
+[2020.10.23-03.28.53:684][554]LogMaterial: Missing cached shader map for material vidrio, compiling. 
+[2020.10.23-03.28.53:780][554]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy vidrio, compiling. 
+[2020.10.23-03.28.55:655][554]TextureStreamingBuild: Display: Compiling optional shaders took 1.886 seconds.
+[2020.10.23-03.28.58:964][554]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3DModels/V2/vidrio" FILE="../../../../../../Users/crist/OneDrive/Escritorio/repositorios/Museo/MuseoVirtualUdeM/Content/3DModels/V2/vidrio.uasset" SILENT=true
+[2020.10.23-03.28.59:027][554]LogSavePackage: Save=14.68ms
+[2020.10.23-03.28.59:027][554]LogSavePackage: Moving '../../../../../../Users/crist/OneDrive/Escritorio/repositorios/Museo/MuseoVirtualUdeM/Saved/vidrio9D16E8EE450B814AD98496A1B592E868.tmp' to '../../../../../../Users/crist/OneDrive/Escritorio/repositorios/Museo/MuseoVirtualUdeM/Content/3DModels/V2/vidrio.uasset'
+[2020.10.23-03.28.59:033][554]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/crist/OneDrive/Escritorio/repositorios/Museo/MuseoVirtualUdeM/Content/3DModels/V2/vidrio.uasset
+[2020.10.23-03.29.44:471][832]LogMaterial: Missing cached shader map for material PreviewMaterial_7, compiling. 
+[2020.10.23-03.29.44:472][832]LogMaterial: Warning: /Engine/Transient.PreviewMaterial_7 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.10.23-03.29.44:472][832]LogMaterial: 	(Node TextureSample) TextureSample> Sampler type is Normal, should be Color for /Game/3DModels/V2/concreto.concreto
+[2020.10.23-03.29.44:580][832]LogMaterial: Missing cached shader map for material PreviewMaterial_7, compiling. 
+[2020.10.23-03.29.44:580][832]LogMaterial: Warning: /Engine/Transient.PreviewMaterial_7 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.10.23-03.29.44:581][832]LogMaterial: 	(Node TextureSample) TextureSample> Sampler type is Normal, should be Color for /Game/3DModels/V2/concreto.concreto
+[2020.10.23-03.29.44:586][832]LogMaterial: Missing cached shader map for material PreviewMaterial_7, compiling. 
+[2020.10.23-03.29.44:587][832]LogMaterial: Warning: /Engine/Transient.PreviewMaterial_7 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.10.23-03.29.44:587][832]LogMaterial: 	(Node TextureSample) TextureSample> Sampler type is Normal, should be Color for /Game/3DModels/V2/concreto.concreto
+[2020.10.23-03.29.44:619][832]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.10.23-03.29.44:624][832]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.10.23-03.29.44:629][832]MaterialEditorStats: Error: [SM5] (Node TextureSample) TextureSample> Sampler type is Normal, should be Color for /Game/3DModels/V2/concreto.concreto
+[2020.10.23-03.30.07:191][921]LogMaterial: Missing cached shader map for material PreviewMaterial_7, compiling. 
+[2020.10.23-03.30.07:192][921]LogMaterial: Warning: /Engine/Transient.PreviewMaterial_7 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.10.23-03.30.07:192][921]LogMaterial: 	(Node TextureSample) TextureSample> Sampler type is Normal, should be Color for /Game/3DModels/V2/concreto.concreto
+[2020.10.23-03.30.07:197][921]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.10.23-03.30.09:083][ 19]LogEditorTransaction: Undo Crear enlace del Pin
+[2020.10.23-03.30.09:087][ 19]LogMaterial: Missing cached shader map for material PreviewMaterial_7, compiling. 
+[2020.10.23-03.30.09:088][ 19]LogMaterial: Warning: /Engine/Transient.PreviewMaterial_7 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.10.23-03.30.09:088][ 19]LogMaterial: 	(Node TextureSample) TextureSample> Sampler type is Normal, should be Color for /Game/3DModels/V2/concreto.concreto
+[2020.10.23-03.30.09:100][ 19]LogMaterial: Missing cached shader map for material PreviewMaterial_7, compiling. 
+[2020.10.23-03.30.09:101][ 19]LogMaterial: Warning: /Engine/Transient.PreviewMaterial_7 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.10.23-03.30.09:101][ 19]LogMaterial: 	(Node TextureSample) TextureSample> Sampler type is Normal, should be Color for /Game/3DModels/V2/concreto.concreto
+[2020.10.23-03.30.09:108][ 19]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.10.23-03.30.10:252][ 77]LogMaterial: Missing cached shader map for material PreviewMaterial_7, compiling. 
+[2020.10.23-03.30.12:064][146]LogMaterial: Missing cached shader map for material PreviewMaterial_7, compiling. 
+[2020.10.23-03.30.12:065][146]LogMaterial: Warning: /Engine/Transient.PreviewMaterial_7 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.10.23-03.30.12:066][146]LogMaterial: 	(Node TextureSample) TextureSample> Sampler type is Normal, should be Color for /Game/3DModels/V2/concreto.concreto
+[2020.10.23-03.30.12:071][146]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.10.23-03.30.12:096][146]MaterialEditorStats: Error: [SM5] (Node TextureSample) TextureSample> Sampler type is Normal, should be Color for /Game/3DModels/V2/concreto.concreto
+[2020.10.23-03.30.13:432][216]LogEditorTransaction: Undo Crear enlace del Pin
+[2020.10.23-03.30.13:436][216]LogMaterial: Missing cached shader map for material PreviewMaterial_7, compiling. 
+[2020.10.23-03.30.13:455][216]LogMaterial: Missing cached shader map for material PreviewMaterial_7, compiling. 
+[2020.10.23-03.30.13:481][216]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.10.23-03.30.14:637][257]LogEditorTransaction: Undo Romper los enlaces del Pin
+[2020.10.23-03.30.14:649][257]LogMaterial: Missing cached shader map for material PreviewMaterial_7, compiling. 
+[2020.10.23-03.30.14:649][257]LogMaterial: Warning: /Engine/Transient.PreviewMaterial_7 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.10.23-03.30.14:649][257]LogMaterial: 	(Node TextureSample) TextureSample> Sampler type is Normal, should be Color for /Game/3DModels/V2/concreto.concreto
+[2020.10.23-03.30.14:654][257]LogMaterial: Missing cached shader map for material PreviewMaterial_7, compiling. 
+[2020.10.23-03.30.14:655][257]LogMaterial: Warning: /Engine/Transient.PreviewMaterial_7 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.10.23-03.30.14:655][257]LogMaterial: 	(Node TextureSample) TextureSample> Sampler type is Normal, should be Color for /Game/3DModels/V2/concreto.concreto
+[2020.10.23-03.30.14:658][257]MaterialEditorStats: Error: [SM5] (Node TextureSample) TextureSample> Sampler type is Normal, should be Color for /Game/3DModels/V2/concreto.concreto
+[2020.10.23-03.35.06:982][853]LogMaterial: Missing cached shader map for material PreviewMaterial_7, compiling. 
+[2020.10.23-03.35.06:983][853]LogMaterial: Warning: /Engine/Transient.PreviewMaterial_7 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.10.23-03.35.06:983][853]LogMaterial: 	(Node TextureSample) TextureSample> Sampler type is Normal, should be Color for /Game/3DModels/V2/concreto.concreto
+[2020.10.23-03.35.06:990][853]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.10.23-03.35.09:203][980]LogMaterial: Missing cached shader map for material PreviewMaterial_7, compiling. 
+[2020.10.23-03.35.09:204][980]LogMaterial: Warning: /Engine/Transient.PreviewMaterial_7 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.10.23-03.35.09:204][980]LogMaterial: 	(Node TextureSample) TextureSample> Sampler type is Normal, should be Color for /Game/3DModels/V2/concreto.concreto
+[2020.10.23-03.35.11:314][102]LogMaterial: Missing cached shader map for material PreviewMaterial_7, compiling. 
+[2020.10.23-03.35.11:342][102]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.10.23-03.35.14:145][211]MaterialEditorStats: Base pass shader: 102 instructions
+[2020.10.23-03.35.14:145][211]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 175 instructions
+[2020.10.23-03.35.14:145][211]MaterialEditorStats: Vertex shader: 31 instructions
+[2020.10.23-03.35.14:145][211]MaterialEditorStats: Texture samplers: 3/16
+[2020.10.23-03.35.14:145][211]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.10.23-03.35.14:411][225]LogEditorTransaction: Undo Crear enlace del Pin
+[2020.10.23-03.35.14:415][225]LogMaterial: Missing cached shader map for material PreviewMaterial_7, compiling. 
+[2020.10.23-03.35.14:416][225]LogMaterial: Warning: /Engine/Transient.PreviewMaterial_7 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.10.23-03.35.14:416][225]LogMaterial: 	(Node TextureSample) TextureSample> Sampler type is Normal, should be Color for /Game/3DModels/V2/concreto.concreto
+[2020.10.23-03.35.14:418][225]LogMaterial: Missing cached shader map for material PreviewMaterial_7, compiling. 
+[2020.10.23-03.35.14:419][225]LogMaterial: Warning: /Engine/Transient.PreviewMaterial_7 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.10.23-03.35.14:419][225]LogMaterial: 	(Node TextureSample) TextureSample> Sampler type is Normal, should be Color for /Game/3DModels/V2/concreto.concreto
+[2020.10.23-03.35.14:426][225]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.10.23-03.35.14:462][225]MaterialEditorStats: Error: [SM5] (Node TextureSample) TextureSample> Sampler type is Normal, should be Color for /Game/3DModels/V2/concreto.concreto
+[2020.10.23-03.35.15:137][254]LogEditorTransaction: Undo Romper los enlaces del Pin
+[2020.10.23-03.35.15:149][254]LogMaterial: Missing cached shader map for material PreviewMaterial_7, compiling. 
+[2020.10.23-03.35.15:149][254]LogMaterial: Warning: /Engine/Transient.PreviewMaterial_7 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.10.23-03.35.15:149][254]LogMaterial: 	(Node TextureSample) TextureSample> Sampler type is Normal, should be Color for /Game/3DModels/V2/concreto.concreto
+[2020.10.23-03.35.15:152][254]LogMaterial: Missing cached shader map for material PreviewMaterial_7, compiling. 
+[2020.10.23-03.35.15:153][254]LogMaterial: Warning: /Engine/Transient.PreviewMaterial_7 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.10.23-03.35.15:153][254]LogMaterial: 	(Node TextureSample) TextureSample> Sampler type is Normal, should be Color for /Game/3DModels/V2/concreto.concreto
+[2020.10.23-03.35.16:054][303]LogEditorTransaction: Undo Crear enlace del Pin
+[2020.10.23-03.35.16:059][303]LogMaterial: Missing cached shader map for material PreviewMaterial_7, compiling. 
+[2020.10.23-03.35.16:060][303]LogMaterial: Warning: /Engine/Transient.PreviewMaterial_7 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.10.23-03.35.16:060][303]LogMaterial: 	(Node TextureSample) TextureSample> Sampler type is Normal, should be Color for /Game/3DModels/V2/concreto.concreto
+[2020.10.23-03.35.16:064][303]LogMaterial: Missing cached shader map for material PreviewMaterial_7, compiling. 
+[2020.10.23-03.35.16:064][303]LogMaterial: Warning: /Engine/Transient.PreviewMaterial_7 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.10.23-03.35.16:064][303]LogMaterial: 	(Node TextureSample) TextureSample> Sampler type is Normal, should be Color for /Game/3DModels/V2/concreto.concreto
+[2020.10.23-03.35.16:071][303]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.10.23-03.35.26:820][930]LogMaterial: Missing cached shader map for material PreviewMaterial_7, compiling. 
+[2020.10.23-03.35.29:485][  8]MaterialEditorStats: Base pass shader: 102 instructions
+[2020.10.23-03.35.29:486][  8]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 175 instructions
+[2020.10.23-03.35.29:486][  8]MaterialEditorStats: Vertex shader: 31 instructions
+[2020.10.23-03.35.29:486][  8]MaterialEditorStats: Texture samplers: 3/16
+[2020.10.23-03.35.29:486][  8]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.10.23-03.36.34:003][ 61]LogMaterialEditor: Saving and Compiling material paredes_concreto
+[2020.10.23-03.36.34:744][ 61]LogMaterial: Missing cached shader map for material PreviewMaterial_7, compiling. 
+[2020.10.23-03.36.34:808][ 61]LogMaterial: Missing cached shader map for material paredes_concreto, compiling. 
+[2020.10.23-03.36.34:862][ 61]LogMaterial: Missing cached shader map for material paredes_concreto, compiling. 
+[2020.10.23-03.36.34:917][ 61]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy paredes_concreto, compiling. 
+[2020.10.23-03.36.36:474][ 61]TextureStreamingBuild: Display: Compiling optional shaders took 1.565 seconds.
+[2020.10.23-03.36.39:079][ 61]LogSavePackage: Save=15.00ms
+[2020.10.23-03.36.39:079][ 61]LogSavePackage: Moving '../../../../../../Users/crist/OneDrive/Escritorio/repositorios/Museo/MuseoVirtualUdeM/Saved/paredes_concreto22E924A041AD25E42546F5BC5666B8AD.tmp' to '../../../../../../Users/crist/OneDrive/Escritorio/repositorios/Museo/MuseoVirtualUdeM/Content/3DModels/V2/paredes_concreto.uasset'
+[2020.10.23-03.36.39:086][ 61]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/crist/OneDrive/Escritorio/repositorios/Museo/MuseoVirtualUdeM/Content/3DModels/V2/paredes_concreto.uasset
+[2020.10.23-03.36.39:099][ 61]MaterialEditorStats: Base pass shader: 102 instructions
+[2020.10.23-03.36.39:099][ 61]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 175 instructions
+[2020.10.23-03.36.39:099][ 61]MaterialEditorStats: Vertex shader: 31 instructions
+[2020.10.23-03.36.39:099][ 61]MaterialEditorStats: Texture samplers: 4/16
+[2020.10.23-03.36.39:099][ 61]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.10.23-03.36.44:286][352]LogMaterial: Missing cached shader map for material paredes04, compiling. 
+[2020.10.23-03.36.44:287][352]LogMaterial: Warning: /Engine/Transient.paredes04 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.10.23-03.36.44:287][352]LogMaterial: 	(Node TextureSample) TextureSample> Sampler type is Normal, should be Color for /Game/3DModels/V2/texutra4.texutra4
+[2020.10.23-03.36.44:416][352]LogMaterial: Missing cached shader map for material paredes04, compiling. 
+[2020.10.23-03.36.44:417][352]LogMaterial: Warning: /Engine/Transient.paredes04 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.10.23-03.36.44:417][352]LogMaterial: 	(Node TextureSample) TextureSample> Sampler type is Normal, should be Color for /Game/3DModels/V2/texutra4.texutra4
+[2020.10.23-03.36.44:420][352]LogMaterial: Missing cached shader map for material paredes04, compiling. 
+[2020.10.23-03.36.44:421][352]LogMaterial: Warning: /Engine/Transient.paredes04 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.10.23-03.36.44:421][352]LogMaterial: 	(Node TextureSample) TextureSample> Sampler type is Normal, should be Color for /Game/3DModels/V2/texutra4.texutra4
+[2020.10.23-03.36.44:452][352]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.10.23-03.36.44:457][352]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.10.23-03.36.44:460][352]MaterialEditorStats: Error: [SM5] (Node TextureSample) TextureSample> Sampler type is Normal, should be Color for /Game/3DModels/V2/texutra4.texutra4
+[2020.10.23-03.36.54:213][902]LogMaterial: Missing cached shader map for material paredes04, compiling. 
+[2020.10.23-03.36.56:531][  2]MaterialEditorStats: Base pass shader: 102 instructions
+[2020.10.23-03.36.56:531][  2]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 175 instructions
+[2020.10.23-03.36.56:531][  2]MaterialEditorStats: Vertex shader: 31 instructions
+[2020.10.23-03.36.56:531][  2]MaterialEditorStats: Texture samplers: 3/16
+[2020.10.23-03.36.56:531][  2]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.10.23-03.36.57:751][ 71]LogMaterialEditor: Saving and Compiling material paredes04
+[2020.10.23-03.36.58:498][ 71]LogMaterial: Missing cached shader map for material paredes04, compiling. 
+[2020.10.23-03.36.58:566][ 71]LogMaterial: Missing cached shader map for material paredes04, compiling. 
+[2020.10.23-03.36.58:616][ 71]LogMaterial: Missing cached shader map for material paredes04, compiling. 
+[2020.10.23-03.36.58:677][ 71]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy paredes04, compiling. 
+[2020.10.23-03.36.59:801][ 71]TextureStreamingBuild: Display: Compiling optional shaders took 1.132 seconds.
+[2020.10.23-03.37.02:174][ 71]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3DModels/V2/paredes04" FILE="../../../../../../Users/crist/OneDrive/Escritorio/repositorios/Museo/MuseoVirtualUdeM/Content/3DModels/V2/paredes04.uasset" SILENT=true
+[2020.10.23-03.37.02:239][ 71]LogSavePackage: Save=16.47ms
+[2020.10.23-03.37.02:239][ 71]LogSavePackage: Moving '../../../../../../Users/crist/OneDrive/Escritorio/repositorios/Museo/MuseoVirtualUdeM/Saved/paredes0479F3B3D244E9D225CB2220810D133E9C.tmp' to '../../../../../../Users/crist/OneDrive/Escritorio/repositorios/Museo/MuseoVirtualUdeM/Content/3DModels/V2/paredes04.uasset'
+[2020.10.23-03.37.02:244][ 71]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/crist/OneDrive/Escritorio/repositorios/Museo/MuseoVirtualUdeM/Content/3DModels/V2/paredes04.uasset
+[2020.10.23-03.37.02:256][ 71]MaterialEditorStats: Base pass shader: 102 instructions
+[2020.10.23-03.37.02:256][ 71]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 175 instructions
+[2020.10.23-03.37.02:256][ 71]MaterialEditorStats: Vertex shader: 31 instructions
+[2020.10.23-03.37.02:256][ 71]MaterialEditorStats: Texture samplers: 4/16
+[2020.10.23-03.37.02:256][ 71]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.10.23-03.37.36:907][172]LogMaterial: Missing cached shader map for material Metal03, compiling. 
+[2020.10.23-03.37.37:034][172]LogMaterial: Missing cached shader map for material Metal03, compiling. 
+[2020.10.23-03.37.37:055][172]LogMaterial: Missing cached shader map for material Metal03, compiling. 
+[2020.10.23-03.37.37:106][172]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.10.23-03.37.39:894][282]MaterialEditorStats: Base pass shader: 102 instructions
+[2020.10.23-03.37.39:894][282]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 175 instructions
+[2020.10.23-03.37.39:894][282]MaterialEditorStats: Vertex shader: 31 instructions
+[2020.10.23-03.37.39:894][282]MaterialEditorStats: Texture samplers: 3/16
+[2020.10.23-03.37.39:894][282]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.10.23-03.37.45:448][453]LogMaterial: Missing cached shader map for material Metal03, compiling. 
+[2020.10.23-03.37.45:511][453]LogMaterial: Missing cached shader map for material Metal03, compiling. 
+[2020.10.23-03.37.45:557][453]LogMaterial: Missing cached shader map for material Metal03, compiling. 
+[2020.10.23-03.37.45:611][453]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Metal03, compiling. 
+[2020.10.23-03.37.46:773][453]TextureStreamingBuild: Display: Compiling optional shaders took 1.172 seconds.
+[2020.10.23-03.37.48:924][567]LogMaterial: Missing cached shader map for material PreviewMaterial_8, compiling. 
+[2020.10.23-03.37.49:090][567]LogMaterial: Missing cached shader map for material PreviewMaterial_8, compiling. 
+[2020.10.23-03.37.49:122][567]LogMaterial: Missing cached shader map for material PreviewMaterial_8, compiling. 
+[2020.10.23-03.37.49:180][567]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.10.23-03.37.52:050][675]MaterialEditorStats: Base pass shader: 102 instructions
+[2020.10.23-03.37.52:050][675]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 175 instructions
+[2020.10.23-03.37.52:050][675]MaterialEditorStats: Vertex shader: 31 instructions
+[2020.10.23-03.37.52:050][675]MaterialEditorStats: Texture samplers: 3/16
+[2020.10.23-03.37.52:050][675]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.10.23-03.37.55:472][866]LogMaterial: Missing cached shader map for material metal1, compiling. 
+[2020.10.23-03.37.55:624][866]LogMaterial: Missing cached shader map for material metal1, compiling. 
+[2020.10.23-03.37.55:656][866]LogMaterial: Missing cached shader map for material metal1, compiling. 
+[2020.10.23-03.37.55:713][866]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.10.23-03.37.58:073][948]MaterialEditorStats: Base pass shader: 101 instructions
+[2020.10.23-03.37.58:073][948]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 174 instructions
+[2020.10.23-03.37.58:073][948]MaterialEditorStats: Vertex shader: 29 instructions
+[2020.10.23-03.37.58:073][948]MaterialEditorStats: Texture samplers: 2/16
+[2020.10.23-03.38.02:338][193]LogMaterialEditor: Saving and Compiling material metal1
+[2020.10.23-03.38.03:078][193]LogMaterial: Missing cached shader map for material metal1, compiling. 
+[2020.10.23-03.38.03:146][193]LogMaterial: Missing cached shader map for material metal1, compiling. 
+[2020.10.23-03.38.03:196][193]LogMaterial: Missing cached shader map for material metal1, compiling. 
+[2020.10.23-03.38.03:267][193]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy metal1, compiling. 
+[2020.10.23-03.38.04:400][193]TextureStreamingBuild: Display: Compiling optional shaders took 1.147 seconds.
+[2020.10.23-03.38.06:717][193]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3DModels/V2/metal1" FILE="../../../../../../Users/crist/OneDrive/Escritorio/repositorios/Museo/MuseoVirtualUdeM/Content/3DModels/V2/metal1.uasset" SILENT=true
+[2020.10.23-03.38.06:779][193]LogSavePackage: Save=13.90ms
+[2020.10.23-03.38.06:779][193]LogSavePackage: Moving '../../../../../../Users/crist/OneDrive/Escritorio/repositorios/Museo/MuseoVirtualUdeM/Saved/metal1520380744A3D642309B34088045A3C88.tmp' to '../../../../../../Users/crist/OneDrive/Escritorio/repositorios/Museo/MuseoVirtualUdeM/Content/3DModels/V2/metal1.uasset'
+[2020.10.23-03.38.06:784][193]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/crist/OneDrive/Escritorio/repositorios/Museo/MuseoVirtualUdeM/Content/3DModels/V2/metal1.uasset
+[2020.10.23-03.38.06:797][193]MaterialEditorStats: Base pass shader: 101 instructions
+[2020.10.23-03.38.06:797][193]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 174 instructions
+[2020.10.23-03.38.06:797][193]MaterialEditorStats: Vertex shader: 29 instructions
+[2020.10.23-03.38.06:797][193]MaterialEditorStats: Texture samplers: 3/16
+[2020.10.23-03.38.09:577][347]LogMaterial: Missing cached shader map for material metal2, compiling. 
+[2020.10.23-03.38.09:704][347]LogMaterial: Missing cached shader map for material metal2, compiling. 
+[2020.10.23-03.38.09:723][347]LogMaterial: Missing cached shader map for material metal2, compiling. 
+[2020.10.23-03.38.09:770][347]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.10.23-03.38.12:158][436]MaterialEditorStats: Base pass shader: 101 instructions
+[2020.10.23-03.38.12:158][436]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 174 instructions
+[2020.10.23-03.38.12:159][436]MaterialEditorStats: Vertex shader: 29 instructions
+[2020.10.23-03.38.12:159][436]MaterialEditorStats: Texture samplers: 2/16
+[2020.10.23-03.38.15:449][625]LogMaterialEditor: Saving and Compiling material metal2
+[2020.10.23-03.38.16:222][625]LogMaterial: Missing cached shader map for material metal2, compiling. 
+[2020.10.23-03.38.16:291][625]LogMaterial: Missing cached shader map for material metal2, compiling. 
+[2020.10.23-03.38.16:341][625]LogMaterial: Missing cached shader map for material metal2, compiling. 
+[2020.10.23-03.38.16:422][625]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy metal2, compiling. 
+[2020.10.23-03.38.17:617][625]TextureStreamingBuild: Display: Compiling optional shaders took 1.210 seconds.
+[2020.10.23-03.38.19:912][625]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3DModels/V2/metal2" FILE="../../../../../../Users/crist/OneDrive/Escritorio/repositorios/Museo/MuseoVirtualUdeM/Content/3DModels/V2/metal2.uasset" SILENT=true
+[2020.10.23-03.38.19:971][625]LogSavePackage: Save=13.25ms
+[2020.10.23-03.38.19:971][625]LogSavePackage: Moving '../../../../../../Users/crist/OneDrive/Escritorio/repositorios/Museo/MuseoVirtualUdeM/Saved/metal298C1A241463686EFDC278E91E5FD85FC.tmp' to '../../../../../../Users/crist/OneDrive/Escritorio/repositorios/Museo/MuseoVirtualUdeM/Content/3DModels/V2/metal2.uasset'
+[2020.10.23-03.38.19:977][625]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/crist/OneDrive/Escritorio/repositorios/Museo/MuseoVirtualUdeM/Content/3DModels/V2/metal2.uasset
+[2020.10.23-03.38.19:993][625]MaterialEditorStats: Base pass shader: 101 instructions
+[2020.10.23-03.38.19:993][625]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 174 instructions
+[2020.10.23-03.38.19:993][625]MaterialEditorStats: Vertex shader: 29 instructions
+[2020.10.23-03.38.19:993][625]MaterialEditorStats: Texture samplers: 3/16
+[2020.10.23-03.38.25:502][776]LogMaterialEditor: Saving and Compiling material metal2
+[2020.10.23-03.38.25:530][776]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3DModels/V2/metal2" FILE="../../../../../../Users/crist/OneDrive/Escritorio/repositorios/Museo/MuseoVirtualUdeM/Content/3DModels/V2/metal2.uasset" SILENT=true
+[2020.10.23-03.38.25:583][776]LogSavePackage: Save=3.20ms
+[2020.10.23-03.38.25:583][776]LogSavePackage: Moving '../../../../../../Users/crist/OneDrive/Escritorio/repositorios/Museo/MuseoVirtualUdeM/Saved/metal205A2619346AFE47FB3DE179404A26383.tmp' to '../../../../../../Users/crist/OneDrive/Escritorio/repositorios/Museo/MuseoVirtualUdeM/Content/3DModels/V2/metal2.uasset'
+[2020.10.23-03.38.25:587][776]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/crist/OneDrive/Escritorio/repositorios/Museo/MuseoVirtualUdeM/Content/3DModels/V2/metal2.uasset
+[2020.10.23-03.38.30:930][ 77]LogMaterial: Missing cached shader map for material lambert1, compiling. 
+[2020.10.23-03.38.31:051][ 77]LogMaterial: Missing cached shader map for material lambert1, compiling. 
+[2020.10.23-03.38.31:072][ 77]LogMaterial: Missing cached shader map for material lambert1, compiling. 
+[2020.10.23-03.38.31:118][ 77]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.10.23-03.38.33:679][173]MaterialEditorStats: Base pass shader: 101 instructions
+[2020.10.23-03.38.33:679][173]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 174 instructions
+[2020.10.23-03.38.33:679][173]MaterialEditorStats: Vertex shader: 29 instructions
+[2020.10.23-03.38.33:679][173]MaterialEditorStats: Texture samplers: 2/16
+[2020.10.23-03.38.34:645][229]LogMaterialEditor: Saving and Compiling material lambert1
+[2020.10.23-03.38.35:391][229]LogMaterial: Missing cached shader map for material lambert1, compiling. 
+[2020.10.23-03.38.35:456][229]LogMaterial: Missing cached shader map for material lambert1, compiling. 
+[2020.10.23-03.38.35:505][229]LogMaterial: Missing cached shader map for material lambert1, compiling. 
+[2020.10.23-03.38.35:578][229]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy lambert1, compiling. 
+[2020.10.23-03.38.36:618][229]TextureStreamingBuild: Display: Compiling optional shaders took 1.050 seconds.
+[2020.10.23-03.38.38:917][229]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3DModels/V2/lambert1" FILE="../../../../../../Users/crist/OneDrive/Escritorio/repositorios/Museo/MuseoVirtualUdeM/Content/3DModels/V2/lambert1.uasset" SILENT=true
+[2020.10.23-03.38.38:985][229]LogSavePackage: Save=12.82ms
+[2020.10.23-03.38.38:985][229]LogSavePackage: Moving '../../../../../../Users/crist/OneDrive/Escritorio/repositorios/Museo/MuseoVirtualUdeM/Saved/lambert117856B23434721336480E2878BBD6399.tmp' to '../../../../../../Users/crist/OneDrive/Escritorio/repositorios/Museo/MuseoVirtualUdeM/Content/3DModels/V2/lambert1.uasset'
+[2020.10.23-03.38.38:993][229]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/crist/OneDrive/Escritorio/repositorios/Museo/MuseoVirtualUdeM/Content/3DModels/V2/lambert1.uasset
+[2020.10.23-03.38.39:006][229]MaterialEditorStats: Base pass shader: 101 instructions
+[2020.10.23-03.38.39:006][229]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 174 instructions
+[2020.10.23-03.38.39:006][229]MaterialEditorStats: Vertex shader: 29 instructions
+[2020.10.23-03.38.39:006][229]MaterialEditorStats: Texture samplers: 3/16
+[2020.10.23-03.39.11:482][802]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Scenes/Game' took 0.012
+[2020.10.23-03.39.11:488][802]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/3DModels/V2/Metal03] ([1] browsable assets)...
+[2020.10.23-03.39.11:502][802]OBJ SavePackage:     Rendered thumbnail for [Material /Game/3DModels/V2/Metal03.Metal03]
+[2020.10.23-03.39.11:502][802]OBJ SavePackage: Finished generating thumbnails for package [/Game/3DModels/V2/Metal03]
+[2020.10.23-03.39.11:566][802]LogSavePackage: Save=14.69ms
+[2020.10.23-03.39.11:566][802]LogSavePackage: Moving '../../../../../../Users/crist/OneDrive/Escritorio/repositorios/Museo/MuseoVirtualUdeM/Saved/Metal03_Auto44A40C2084A51ECCC60D0788290730DD7.tmp' to '../../../../../../Users/crist/OneDrive/Escritorio/repositorios/Museo/MuseoVirtualUdeM/Saved/Autosaves/Game/3DModels/V2/Metal03_Auto4.uasset'
+[2020.10.23-03.39.11:571][802]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/crist/OneDrive/Escritorio/repositorios/Museo/MuseoVirtualUdeM/Saved/Autosaves/Game/3DModels/V2/Metal03_Auto4.uasset
+[2020.10.23-03.39.11:571][802]LogFileHelpers: Auto-saving content packages took 0.087
+[2020.10.23-03.40.59:916][511]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3DModels/V2/Metal03" FILE="../../../../../../Users/crist/OneDrive/Escritorio/repositorios/Museo/MuseoVirtualUdeM/Content/3DModels/V2/Metal03.uasset" SILENT=true
+[2020.10.23-03.40.59:965][511]LogSavePackage: Save=3.71ms
+[2020.10.23-03.40.59:965][511]LogSavePackage: Moving '../../../../../../Users/crist/OneDrive/Escritorio/repositorios/Museo/MuseoVirtualUdeM/Saved/Metal03D4895A35482DEC1A52700F9BF59AC2DC.tmp' to '../../../../../../Users/crist/OneDrive/Escritorio/repositorios/Museo/MuseoVirtualUdeM/Content/3DModels/V2/Metal03.uasset'
+[2020.10.23-03.40.59:972][511]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/crist/OneDrive/Escritorio/repositorios/Museo/MuseoVirtualUdeM/Content/3DModels/V2/Metal03.uasset
+[2020.10.23-03.42.21:532][ 98]Cmd: QUIT_EDITOR
+[2020.10.23-03.42.22:063][ 98]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.10.23-03.42.22:262][ 98]LogExit: Preparing to exit.
+[2020.10.23-03.42.24:616][ 98]LogDirectoryWatcher: A directory notification for 'C:/Users/crist/OneDrive/Escritorio/repositorios/Museo/MuseoVirtualUdeM/Content/' was aborted.
+[2020.10.23-03.42.25:262][ 98]LogExit: Editor shut down
+[2020.10.23-03.42.25:308][ 98]LogExit: Transaction tracking system shut down
+[2020.10.23-03.42.27:542][ 98]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2020.10.23-03.42.27:542][ 98]LogDirectoryWatcher: A directory notification for '../../../../../../Users/crist/OneDrive/Escritorio/repositorios/Museo/MuseoVirtualUdeM/Content/' was aborted.
+[2020.10.23-03.42.27:542][ 98]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2020.10.23-03.42.27:543][ 98]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Marketplace/GameSparks/Content/' was aborted.
+[2020.10.23-03.42.27:543][ 98]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Media/MediaCompositing/Content/' was aborted.
+[2020.10.23-03.42.27:543][ 98]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2020.10.23-03.42.27:543][ 98]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2020.10.23-03.42.27:543][ 98]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2020.10.23-03.42.30:339][ 98]LogExit: Object subsystem successfully closed.
+[2020.10.23-03.42.30:966][ 98]LogD3D11RHI: Shutdown
+[2020.10.23-03.42.30:985][ 98]LogD3D11RHI: CleanupD3DDevice
+[2020.10.23-03.42.31:032][ 98]LogD3D11RHI: ~FD3D11DynamicRHI
+[2020.10.23-03.42.32:071][ 98]LogModuleManager: Shutting down and abandoning module TextureEditor (558)
+[2020.10.23-03.42.32:112][ 98]LogModuleManager: Shutting down and abandoning module MaterialEditor (556)
+[2020.10.23-03.42.32:112][ 98]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (554)
+[2020.10.23-03.42.32:112][ 98]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (552)
+[2020.10.23-03.42.32:112][ 98]LogModuleManager: Shutting down and abandoning module SceneOutliner (550)
+[2020.10.23-03.42.32:121][ 98]LogModuleManager: Shutting down and abandoning module AddContentDialog (548)
+[2020.10.23-03.42.32:145][ 98]LogDirectoryWatcher: A directory notification for 'C:/Program Files/Epic Games/UE_4.18/FeaturePacks/' was aborted.
+[2020.10.23-03.42.32:150][ 98]LogModuleManager: Shutting down and abandoning module WidgetCarousel (547)
+[2020.10.23-03.42.32:151][ 98]LogModuleManager: Shutting down and abandoning module EditorWidgets (544)
+[2020.10.23-03.42.32:151][ 98]LogModuleManager: Shutting down and abandoning module CollectionManager (542)
+[2020.10.23-03.42.32:151][ 98]LogDirectoryWatcher: A directory notification for 'C:/Users/crist/OneDrive/Escritorio/repositorios/Museo/MuseoVirtualUdeM/Content/Collections/' was aborted.
+[2020.10.23-03.42.32:151][ 98]LogDirectoryWatcher: A directory notification for 'C:/Users/crist/OneDrive/Escritorio/repositorios/Museo/MuseoVirtualUdeM/Content/Developers/crist/Collections/' was aborted.
+[2020.10.23-03.42.32:151][ 98]LogDirectoryWatcher: A directory notification for 'C:/Users/crist/OneDrive/Escritorio/repositorios/Museo/MuseoVirtualUdeM/Saved/Collections/' was aborted.
+[2020.10.23-03.42.32:151][ 98]LogModuleManager: Shutting down and abandoning module StatsViewer (540)
+[2020.10.23-03.42.32:168][ 98]LogModuleManager: Shutting down and abandoning module FoliageEdit (538)
+[2020.10.23-03.42.32:168][ 98]LogModuleManager: Shutting down and abandoning module LandscapeEditor (536)
+[2020.10.23-03.42.32:168][ 98]LogModuleManager: Shutting down and abandoning module MeshPaintMode (534)
+[2020.10.23-03.42.32:168][ 98]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (532)
+[2020.10.23-03.42.32:168][ 98]LogModuleManager: Shutting down and abandoning module ActorPickerMode (530)
+[2020.10.23-03.42.32:168][ 98]LogModuleManager: Shutting down and abandoning module GeometryMode (528)
+[2020.10.23-03.42.32:168][ 98]LogModuleManager: Shutting down and abandoning module TextureAlignMode (526)
+[2020.10.23-03.42.32:168][ 98]LogModuleManager: Shutting down and abandoning module BspMode (524)
+[2020.10.23-03.42.32:168][ 98]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (522)
+[2020.10.23-03.42.32:168][ 98]LogModuleManager: Shutting down and abandoning module HardwareSurvey (520)
+[2020.10.23-03.42.32:169][ 98]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (518)
+[2020.10.23-03.42.32:169][ 98]LogModuleManager: Shutting down and abandoning module AutomationWorker (516)
+[2020.10.23-03.42.32:169][ 98]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (514)
+[2020.10.23-03.42.32:169][ 98]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (512)
+[2020.10.23-03.42.32:169][ 98]LogModuleManager: Shutting down and abandoning module PlacementMode (511)
+[2020.10.23-03.42.32:169][ 98]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (508)
+[2020.10.23-03.42.32:169][ 98]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (506)
+[2020.10.23-03.42.32:169][ 98]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (504)
+[2020.10.23-03.42.32:169][ 98]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (502)
+[2020.10.23-03.42.32:169][ 98]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (500)
+[2020.10.23-03.42.32:169][ 98]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (498)
+[2020.10.23-03.42.32:169][ 98]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (496)
+[2020.10.23-03.42.32:169][ 98]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (494)
+[2020.10.23-03.42.32:169][ 98]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (492)
+[2020.10.23-03.42.32:170][ 98]LogModuleManager: Shutting down and abandoning module CharacterAI (490)
+[2020.10.23-03.42.32:170][ 98]LogModuleManager: Shutting down and abandoning module AudioCapture (488)
+[2020.10.23-03.42.32:189][ 98]LogModuleManager: Shutting down and abandoning module SequenceRecorder (487)
+[2020.10.23-03.42.32:190][ 98]LogModuleManager: Shutting down and abandoning module SmartSnapping (484)
+[2020.10.23-03.42.32:191][ 98]LogModuleManager: Shutting down and abandoning module SessionServices (482)
+[2020.10.23-03.42.32:191][ 98]LogModuleManager: Shutting down and abandoning module ViewportSnapping (480)
+[2020.10.23-03.42.32:191][ 98]LogModuleManager: Shutting down and abandoning module ViewportInteraction (478)
+[2020.10.23-03.42.32:191][ 98]LogModuleManager: Shutting down and abandoning module ClothPainter (476)
+[2020.10.23-03.42.32:208][ 98]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (475)
+[2020.10.23-03.42.32:208][ 98]LogModuleManager: Shutting down and abandoning module LogVisualizer (472)
+[2020.10.23-03.42.32:208][ 98]LogModuleManager: Shutting down and abandoning module IntroTutorials (470)
+[2020.10.23-03.42.32:236][ 98]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (469)
+[2020.10.23-03.42.32:257][ 98]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (466)
+[2020.10.23-03.42.32:257][ 98]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (464)
+[2020.10.23-03.42.32:257][ 98]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (462)
+[2020.10.23-03.42.32:258][ 98]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (461)
+[2020.10.23-03.42.32:999][ 98]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (458)
+[2020.10.23-03.42.32:999][ 98]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (456)
+[2020.10.23-03.42.32:999][ 98]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (454)
+[2020.10.23-03.42.32:999][ 98]LogModuleManager: Shutting down and abandoning module InputBindingEditor (452)
+[2020.10.23-03.42.32:999][ 98]LogModuleManager: Shutting down and abandoning module MergeActors (450)
+[2020.10.23-03.42.32:999][ 98]LogModuleManager: Shutting down and abandoning module SizeMap (448)
+[2020.10.23-03.42.32:999][ 98]LogModuleManager: Shutting down and abandoning module TreeMap (446)
+[2020.10.23-03.42.32:999][ 98]LogModuleManager: Shutting down and abandoning module ReferenceViewer (444)
+[2020.10.23-03.42.32:999][ 98]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (442)
+[2020.10.23-03.42.33:000][ 98]LogModuleManager: Shutting down and abandoning module LocalizationService (441)
+[2020.10.23-03.42.33:000][ 98]LogModuleManager: Shutting down and abandoning module HardwareTargeting (438)
+[2020.10.23-03.42.33:000][ 98]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (436)
+[2020.10.23-03.42.33:000][ 98]LogModuleManager: Shutting down and abandoning module UndoHistory (434)
+[2020.10.23-03.42.33:000][ 98]LogModuleManager: Shutting down and abandoning module XmlParser (432)
+[2020.10.23-03.42.33:021][ 98]LogModuleManager: Shutting down and abandoning module Blutility (430)
+[2020.10.23-03.42.33:022][ 98]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (428)
+[2020.10.23-03.42.33:022][ 98]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (427)
+[2020.10.23-03.42.33:022][ 98]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (424)
+[2020.10.23-03.42.33:022][ 98]LogModuleManager: Shutting down and abandoning module SettingsEditor (422)
+[2020.10.23-03.42.33:022][ 98]LogModuleManager: Shutting down and abandoning module ProjectLauncher (420)
+[2020.10.23-03.42.33:022][ 98]LogModuleManager: Shutting down and abandoning module SessionFrontend (418)
+[2020.10.23-03.42.33:022][ 98]LogModuleManager: Shutting down and abandoning module ProfilerClient (416)
+[2020.10.23-03.42.33:022][ 98]LogModuleManager: Shutting down and abandoning module DeviceManager (414)
+[2020.10.23-03.42.33:022][ 98]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (413)
+[2020.10.23-03.42.33:067][ 98]LogModuleManager: Shutting down and abandoning module AutomationController (410)
+[2020.10.23-03.42.33:067][ 98]LogModuleManager: Shutting down and abandoning module AutomationWindow (408)
+[2020.10.23-03.42.33:067][ 98]LogModuleManager: Shutting down and abandoning module Layers (406)
+[2020.10.23-03.42.33:067][ 98]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (404)
+[2020.10.23-03.42.33:067][ 98]LogModuleManager: Shutting down and abandoning module DetailCustomizations (402)
+[2020.10.23-03.42.33:097][ 98]LogModuleManager: Shutting down and abandoning module PackagesDialog (400)
+[2020.10.23-03.42.33:097][ 98]LogModuleManager: Shutting down and abandoning module Persona (398)
+[2020.10.23-03.42.33:128][ 98]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (397)
+[2020.10.23-03.42.33:128][ 98]LogModuleManager: Shutting down and abandoning module AnimGraph (395)
+[2020.10.23-03.42.33:128][ 98]LogModuleManager: Shutting down and abandoning module Kismet (392)
+[2020.10.23-03.42.33:347][ 98]LogModuleManager: Shutting down and abandoning module ClassViewer (390)
+[2020.10.23-03.42.33:347][ 98]LogModuleManager: Shutting down and abandoning module Toolbox (388)
+[2020.10.23-03.42.33:347][ 98]LogModuleManager: Shutting down and abandoning module ModuleUI (386)
+[2020.10.23-03.42.33:347][ 98]LogModuleManager: Shutting down and abandoning module MovieSceneTools (384)
+[2020.10.23-03.42.33:406][ 98]LogModuleManager: Shutting down and abandoning module OutputLog (382)
+[2020.10.23-03.42.33:406][ 98]LogModuleManager: Shutting down and abandoning module GammaUI (380)
+[2020.10.23-03.42.33:406][ 98]LogModuleManager: Shutting down and abandoning module Documentation (378)
+[2020.10.23-03.42.33:406][ 98]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (376)
+[2020.10.23-03.42.33:406][ 98]LogModuleManager: Shutting down and abandoning module MovieScene (374)
+[2020.10.23-03.42.33:406][ 98]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (372)
+[2020.10.23-03.42.33:406][ 98]LogModuleManager: Shutting down and abandoning module LauncherPlatform (370)
+[2020.10.23-03.42.33:406][ 98]LogModuleManager: Shutting down and abandoning module AnalyticsET (368)
+[2020.10.23-03.42.33:406][ 98]LogModuleManager: Shutting down and abandoning module PortalServices (366)
+[2020.10.23-03.42.33:406][ 98]LogModuleManager: Shutting down and abandoning module PortalRpc (364)
+[2020.10.23-03.42.33:406][ 98]LogModuleManager: Shutting down and abandoning module MessagingRpc (362)
+[2020.10.23-03.42.33:406][ 98]LogModuleManager: Shutting down and abandoning module AIModule (360)
+[2020.10.23-03.42.33:428][ 98]LogModuleManager: Shutting down and abandoning module GameplayDebugger (359)
+[2020.10.23-03.42.33:455][ 98]LogModuleManager: Shutting down and abandoning module AITestSuite (357)
+[2020.10.23-03.42.33:471][ 98]LogModuleManager: Shutting down and abandoning module DesktopPlatform (354)
+[2020.10.23-03.42.33:471][ 98]LogModuleManager: Shutting down and abandoning module ProfilerService (352)
+[2020.10.23-03.42.33:613][ 98]LogModuleManager: Shutting down and abandoning module TaskGraph (350)
+[2020.10.23-03.42.33:645][ 98]LogModuleManager: Shutting down and abandoning module SteamVRController (348)
+[2020.10.23-03.42.33:645][ 98]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (346)
+[2020.10.23-03.42.33:645][ 98]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (344)
+[2020.10.23-03.42.33:658][ 98]LogModuleManager: Shutting down and abandoning module OculusInput (342)
+[2020.10.23-03.42.33:676][ 98]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (340)
+[2020.10.23-03.42.33:677][ 98]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (338)
+[2020.10.23-03.42.33:677][ 98]LogModuleManager: Shutting down and abandoning module CableComponent (336)
+[2020.10.23-03.42.33:695][ 98]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (334)
+[2020.10.23-03.42.33:695][ 98]LogModuleManager: Shutting down and abandoning module AndroidPermission (332)
+[2020.10.23-03.42.33:695][ 98]LogModuleManager: Shutting down and abandoning module ActorSequence (328)
+[2020.10.23-03.42.33:695][ 98]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (326)
+[2020.10.23-03.42.33:794][ 98]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (324)
+[2020.10.23-03.42.33:794][ 98]LogModuleManager: Shutting down and abandoning module MediaCompositing (322)
+[2020.10.23-03.42.33:794][ 98]LogModuleManager: Shutting down and abandoning module HTML5Networking (318)
+[2020.10.23-03.42.33:794][ 98]LogModuleManager: Shutting down and abandoning module AlembicImporter (316)
+[2020.10.23-03.42.33:807][ 98]LogModuleManager: Shutting down and abandoning module AlembicLibrary (315)
+[2020.10.23-03.42.33:807][ 98]LogModuleManager: Shutting down and abandoning module GeometryCache (314)
+[2020.10.23-03.42.33:826][ 98]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (313)
+[2020.10.23-03.42.33:826][ 98]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (308)
+[2020.10.23-03.42.33:826][ 98]LogModuleManager: Shutting down and abandoning module PluginBrowser (306)
+[2020.10.23-03.42.33:919][ 98]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (304)
+[2020.10.23-03.42.33:947][ 98]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (302)
+[2020.10.23-03.42.33:947][ 98]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (300)
+[2020.10.23-03.42.33:947][ 98]LogModuleManager: Shutting down and abandoning module UObjectPlugin (298)
+[2020.10.23-03.42.33:947][ 98]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (296)
+[2020.10.23-03.42.34:035][ 98]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (294)
+[2020.10.23-03.42.34:058][ 98]LogModuleManager: Shutting down and abandoning module GitSourceControl (292)
+[2020.10.23-03.42.34:112][ 98]LogModuleManager: Shutting down and abandoning module SourceControl (291)
+[2020.10.23-03.42.34:149][ 98]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (288)
+[2020.10.23-03.42.34:149][ 98]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (286)
+[2020.10.23-03.42.34:149][ 98]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (284)
+[2020.10.23-03.42.34:149][ 98]LogModuleManager: Shutting down and abandoning module Paper2DEditor (282)
+[2020.10.23-03.42.34:197][ 98]LogModuleManager: Shutting down and abandoning module MeshPaint (281)
+[2020.10.23-03.42.34:220][ 98]LogModuleManager: Shutting down and abandoning module LevelEditor (279)
+[2020.10.23-03.42.34:241][ 98]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (278)
+[2020.10.23-03.42.34:266][ 98]LogModuleManager: Shutting down and abandoning module MainFrame (276)
+[2020.10.23-03.42.34:294][ 98]LogModuleManager: Shutting down and abandoning module HotReload (275)
+[2020.10.23-03.42.34:312][ 98]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (270)
+[2020.10.23-03.42.34:312][ 98]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (268)
+[2020.10.23-03.42.34:312][ 98]LogModuleManager: Shutting down and abandoning module PhysXVehicles (266)
+[2020.10.23-03.42.34:312][ 98]LogModuleManager: Shutting down and abandoning module OculusEditor (264)
+[2020.10.23-03.42.34:312][ 98]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (262)
+[2020.10.23-03.42.34:312][ 98]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (260)
+[2020.10.23-03.42.34:312][ 98]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (258)
+[2020.10.23-03.42.34:331][ 98]LogModuleManager: Shutting down and abandoning module UdpMessaging (256)
+[2020.10.23-03.42.34:447][ 98]LogModuleManager: Shutting down and abandoning module TcpMessaging (254)
+[2020.10.23-03.42.34:567][ 98]LogModuleManager: Shutting down and abandoning module GameSparks (252)
+[2020.10.23-03.42.34:640][ 98]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (250)
+[2020.10.23-03.42.34:727][ 98]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (248)
+[2020.10.23-03.42.34:727][ 98]LogModuleManager: Shutting down and abandoning module FacialAnimation (246)
+[2020.10.23-03.42.34:727][ 98]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (244)
+[2020.10.23-03.42.34:786][ 98]LogModuleManager: Shutting down and abandoning module GraphEditor (243)
+[2020.10.23-03.42.34:786][ 98]LogModuleManager: Shutting down and abandoning module ContentBrowser (241)
+[2020.10.23-03.42.34:789][ 98]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2020.10.23-03.42.34:789][ 98]LogModuleManager: Shutting down and abandoning module Paper2D (236)
+[2020.10.23-03.42.34:789][ 98]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (234)
+[2020.10.23-03.42.34:861][ 98]LogModuleManager: Shutting down and abandoning module WmfMedia (232)
+[2020.10.23-03.42.34:925][ 98]LogModuleManager: Shutting down and abandoning module ImgMedia (230)
+[2020.10.23-03.42.34:925][ 98]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2020.10.23-03.42.34:925][ 98]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2020.10.23-03.42.34:925][ 98]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2020.10.23-03.42.34:946][ 98]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2020.10.23-03.42.34:946][ 98]LogModuleManager: Shutting down and abandoning module Media (221)
+[2020.10.23-03.42.34:952][ 98]LogModuleManager: Shutting down and abandoning module Overlay (218)
+[2020.10.23-03.42.34:952][ 98]LogModuleManager: Shutting down and abandoning module OverlayEditor (217)
+[2020.10.23-03.42.34:952][ 98]LogModuleManager: Shutting down and abandoning module VREditor (214)
+[2020.10.23-03.42.34:977][ 98]LogModuleManager: Shutting down and abandoning module StringTableEditor (212)
+[2020.10.23-03.42.34:990][ 98]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (210)
+[2020.10.23-03.42.34:990][ 98]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (208)
+[2020.10.23-03.42.35:064][ 98]LogModuleManager: Shutting down and abandoning module FunctionalTesting (206)
+[2020.10.23-03.42.35:081][ 98]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (204)
+[2020.10.23-03.42.35:125][ 98]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (203)
+[2020.10.23-03.42.35:126][ 98]LogModuleManager: Shutting down and abandoning module UMG (200)
+[2020.10.23-03.42.35:147][ 98]LogModuleManager: Shutting down and abandoning module UMGEditor (199)
+[2020.10.23-03.42.35:210][ 98]LogModuleManager: Shutting down and abandoning module Sequencer (198)
+[2020.10.23-03.42.35:306][ 98]LogModuleManager: Shutting down and abandoning module MessageLog (195)
+[2020.10.23-03.42.35:306][ 98]LogModuleManager: Shutting down and abandoning module SlateReflector (190)
+[2020.10.23-03.42.35:377][ 98]LogModuleManager: Shutting down and abandoning module Slate (188)
+[2020.10.23-03.42.35:377][ 98]LogModuleManager: Shutting down and abandoning module EditorStyle (186)
+[2020.10.23-03.42.35:381][ 98]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2020.10.23-03.42.35:382][ 98]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2020.10.23-03.42.35:382][ 98]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2020.10.23-03.42.35:382][ 98]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2020.10.23-03.42.35:382][ 98]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2020.10.23-03.42.35:382][ 98]LogModuleManager: Shutting down and abandoning module Core (172)
+[2020.10.23-03.42.35:382][ 98]LogModuleManager: Shutting down and abandoning module LevelSequence (168)
+[2020.10.23-03.42.35:398][ 98]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (166)
+[2020.10.23-03.42.35:401][ 98]LogModuleManager: Shutting down and abandoning module KismetCompiler (164)
+[2020.10.23-03.42.35:402][ 98]LogModuleManager: Shutting down and abandoning module MeshUtilities (162)
+[2020.10.23-03.42.35:428][ 98]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (161)
+[2020.10.23-03.42.35:448][ 98]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (160)
+[2020.10.23-03.42.35:449][ 98]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (159)
+[2020.10.23-03.42.35:488][ 98]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (157)
+[2020.10.23-03.42.35:488][ 98]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (155)
+[2020.10.23-03.42.35:516][ 98]LogModuleManager: Shutting down and abandoning module MaterialBaking (151)
+[2020.10.23-03.42.35:527][ 98]LogModuleManager: Shutting down and abandoning module DerivedDataCache (148)
+[2020.10.23-03.42.35:590][ 98]LogDerivedDataCache: Shutdown
+[2020.10.23-03.42.35:590][ 98]LogModuleManager: Shutting down and abandoning module TargetPlatform (146)
+[2020.10.23-03.42.35:590][ 98]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (145)
+[2020.10.23-03.42.35:605][ 98]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (143)
+[2020.10.23-03.42.35:654][ 98]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (141)
+[2020.10.23-03.42.35:671][ 98]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (139)
+[2020.10.23-03.42.35:719][ 98]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (137)
+[2020.10.23-03.42.35:787][ 98]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (135)
+[2020.10.23-03.42.35:787][ 98]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (133)
+[2020.10.23-03.42.35:787][ 98]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (131)
+[2020.10.23-03.42.35:787][ 98]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (129)
+[2020.10.23-03.42.35:844][ 98]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (127)
+[2020.10.23-03.42.35:845][ 98]LogModuleManager: Shutting down and abandoning module ImageWrapper (126)
+[2020.10.23-03.42.35:845][ 98]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (123)
+[2020.10.23-03.42.35:845][ 98]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (121)
+[2020.10.23-03.42.35:845][ 98]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (119)
+[2020.10.23-03.42.35:845][ 98]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (117)
+[2020.10.23-03.42.35:845][ 98]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (115)
+[2020.10.23-03.42.35:845][ 98]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (113)
+[2020.10.23-03.42.35:845][ 98]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (111)
+[2020.10.23-03.42.35:845][ 98]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (109)
+[2020.10.23-03.42.35:845][ 98]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (107)
+[2020.10.23-03.42.35:845][ 98]LogModuleManager: Shutting down and abandoning module Messaging (105)
+[2020.10.23-03.42.35:845][ 98]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (103)
+[2020.10.23-03.42.35:845][ 98]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (101)
+[2020.10.23-03.42.35:845][ 98]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (99)
+[2020.10.23-03.42.35:845][ 98]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (97)
+[2020.10.23-03.42.35:845][ 98]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (95)
+[2020.10.23-03.42.35:845][ 98]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (93)
+[2020.10.23-03.42.35:845][ 98]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (91)
+[2020.10.23-03.42.35:845][ 98]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (89)
+[2020.10.23-03.42.35:845][ 98]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (87)
+[2020.10.23-03.42.35:846][ 98]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (85)
+[2020.10.23-03.42.35:846][ 98]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (83)
+[2020.10.23-03.42.35:846][ 98]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (81)
+[2020.10.23-03.42.35:846][ 98]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (79)
+[2020.10.23-03.42.35:846][ 98]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (77)
+[2020.10.23-03.42.35:846][ 98]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (75)
+[2020.10.23-03.42.35:846][ 98]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (73)
+[2020.10.23-03.42.35:846][ 98]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (71)
+[2020.10.23-03.42.35:846][ 98]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (69)
+[2020.10.23-03.42.35:846][ 98]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (67)
+[2020.10.23-03.42.35:846][ 98]LogModuleManager: Shutting down and abandoning module InputCore (64)
+[2020.10.23-03.42.35:846][ 98]LogModuleManager: Shutting down and abandoning module Settings (62)
+[2020.10.23-03.42.35:846][ 98]LogModuleManager: Shutting down and abandoning module PhysXCooking (60)
+[2020.10.23-03.42.35:846][ 98]LogModuleManager: Shutting down and abandoning module SteamVR (58)
+[2020.10.23-03.42.35:846][ 98]LogModuleManager: Shutting down and abandoning module OculusHMD (56)
+[2020.10.23-03.42.35:881][ 98]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (54)
+[2020.10.23-03.42.35:881][ 98]LogModuleManager: Shutting down and abandoning module AppleARKit (52)
+[2020.10.23-03.42.35:881][ 98]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
+[2020.10.23-03.42.35:881][ 98]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2020.10.23-03.42.35:881][ 98]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2020.10.23-03.42.36:027][ 98]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2020.10.23-03.42.36:062][ 98]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2020.10.23-03.42.36:062][ 98]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2020.10.23-03.42.36:110][ 98]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BD14759EE-40D8-8035-438C-B5B4DE6FA83C%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.18.3-3832480%2B%2B%2BUE4%2BRelease-4.18&UserID=41a214e5437f56f716e84fb7d341aa5a%7Cf199f47330f747318e206e5ff79be176%7Cdf1c97bf-b580-4826-b4bb-78b342930448&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2020.10.23-03.42.36:130][ 98]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2020.10.23-03.42.36:180][ 98]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2020.10.23-03.42.36:293][ 98]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2020.10.23-03.42.36:294][ 98]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2020.10.23-03.42.36:463][ 98]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2020.10.23-03.42.36:463][ 98]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2020.10.23-03.42.36:463][ 98]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2020.10.23-03.42.36:463][ 98]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2020.10.23-03.42.36:488][ 98]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2020.10.23-03.42.36:522][ 98]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2020.10.23-03.42.36:522][ 98]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2020.10.23-03.42.36:549][ 98]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2020.10.23-03.42.36:549][ 98]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2020.10.23-03.42.36:549][ 98]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2020.10.23-03.42.36:549][ 98]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2020.10.23-03.42.36:564][ 98]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2020.10.23-03.42.36:565][ 98]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2020.10.23-03.42.36:587][ 98]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2020.10.23-03.42.36:609][ 98]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2020.10.23-03.42.36:647][ 98]LogExit: Exiting.
+[2020.10.23-03.42.36:674][ 98]Log file closed, 10/22/20 22:42:36
