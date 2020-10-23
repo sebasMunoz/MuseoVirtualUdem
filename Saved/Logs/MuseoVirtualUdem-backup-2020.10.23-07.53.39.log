@@ -1,0 +1,810 @@
+﻿Log file open, 10/22/20 23:21:51
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: MuseoVirtualUdem
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(122644033) SRandInit(122644033).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3832480, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.352254
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Marketplace/GameSparks/Binaries/Win64/UE4Editor-GameSparks.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Marketplace/GameSparks/Binaries/Win64/UE4Editor-OnlineSubsystemGameSparks.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin GameSparks
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3832480
+LogInit: Engine Version: 4.18.3-3832480+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Jan 12 2018 02:04:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line: 
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2020.10.23-04.21.56:931][  0]LogInit: Selected Device Profile: [Windows]
+[2020.10.23-04.21.56:931][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.10.23-04.21.56:967][  0]LogInit: Computer: DESKTOP-IJ1U86O
+[2020.10.23-04.21.56:967][  0]LogInit: User: DANIELFS
+[2020.10.23-04.21.56:967][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.10.23-04.21.56:967][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.10.23-04.21.56:967][  0]LogMemory: Memory total: Physical=6.9GB (7GB approx)
+[2020.10.23-04.21.56:967][  0]LogMemory: Platform Memory Stats for Windows
+[2020.10.23-04.21.56:967][  0]LogMemory: Process Physical Memory: 272.85 MB used, 272.86 MB peak
+[2020.10.23-04.21.56:967][  0]LogMemory: Process Virtual Memory: 269.50 MB used, 269.51 MB peak
+[2020.10.23-04.21.56:968][  0]LogMemory: Physical Memory: 4216.14 MB used,  2882.40 MB free, 7098.54 MB total
+[2020.10.23-04.21.56:968][  0]LogMemory: Virtual Memory: 4748.58 MB used,  2882.40 MB free, 134217728.00 MB total
+[2020.10.23-04.21.57:692][  0]LogInit: Overriding language with editor language configuration option (en).
+[2020.10.23-04.21.57:692][  0]LogInit: Overriding locale with editor locale configuration option (en).
+[2020.10.23-04.21.58:492][  0]LogInit: Setting process to per monitor DPI aware
+[2020.10.23-04.21.59:268][  0]LogD3D11RHI: D3D11 adapters:
+[2020.10.23-04.21.59:352][  0]LogD3D11RHI:    0. 'AMD Radeon(TM) R7 Graphics' (Feature Level 11_0)
+[2020.10.23-04.21.59:352][  0]LogD3D11RHI:       1004/0/3549 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x1002
+[2020.10.23-04.21.59:359][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.10.23-04.21.59:359][  0]LogD3D11RHI:       0/0/3549 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.10.23-04.21.59:359][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.10.23-04.21.59:374][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.10.23-04.21.59:375][  0]LogD3D11RHI:     GPU DeviceId: 0x1309 (for the marketing name, search the web for "GPU Device Id")
+[2020.10.23-04.21.59:375][  0]LogWindows: EnumDisplayDevices:
+[2020.10.23-04.21.59:375][  0]LogWindows:    0. 'AMD Radeon(TM) R7 Graphics' (P:1 D:1)
+[2020.10.23-04.21.59:376][  0]LogWindows:    1. 'AMD Radeon(TM) R7 Graphics' (P:0 D:0)
+[2020.10.23-04.21.59:376][  0]LogWindows:    2. 'AMD Radeon(TM) R7 Graphics' (P:0 D:0)
+[2020.10.23-04.21.59:377][  0]LogWindows:    3. 'AMD Radeon(TM) R7 Graphics' (P:0 D:0)
+[2020.10.23-04.21.59:377][  0]LogWindows:    4. 'AMD Radeon(TM) R7 Graphics' (P:0 D:0)
+[2020.10.23-04.21.59:378][  0]LogWindows:    5. 'AMD Radeon(TM) R7 Graphics' (P:0 D:0)
+[2020.10.23-04.21.59:378][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2020.10.23-04.21.59:378][  0]LogD3D11RHI:     Adapter Name: AMD Radeon(TM) R7 Graphics
+[2020.10.23-04.21.59:378][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2020.10.23-04.21.59:378][  0]LogD3D11RHI:      Driver Date: Unknown
+[2020.10.23-04.21.59:378][  0]LogRHI: Texture pool is 703 MB (70% of 1004 MB)
+[2020.10.23-04.21.59:474][  0]LogD3D11RHI: Async texture creation enabled
+[2020.10.23-04.21.59:510][  0]LogD3D11RHI: GPU Timing Frequency: 27.000000 (Debug: 2 2)
+[2020.10.23-04.21.59:513][  0]LogShaderCompilers: Guid format shader working directory is -18 characters bigger than the processId version (../../../../../../Users/DANIEL_FS/Documents/GitHub/MuseoVirtualUdeM/Intermediate/Shaders/WorkingDirectory/16152/).
+[2020.10.23-04.21.59:513][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/DANIEL_FS/AppData/Local/Temp/UnrealShaderWorkingDir/8E130A164EC22887DA0355AAFAE89C3E/'.
+[2020.10.23-04.21.59:514][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.10.23-04.22.02:326][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2020.10.23-04.22.02:536][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2020.10.23-04.22.02:750][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2020.10.23-04.22.02:970][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2020.10.23-04.22.03:189][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2020.10.23-04.22.03:409][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2020.10.23-04.22.03:627][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2020.10.23-04.22.03:851][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2020.10.23-04.22.04:057][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2020.10.23-04.22.04:264][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2020.10.23-04.22.04:473][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2020.10.23-04.22.04:690][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2020.10.23-04.22.04:921][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2020.10.23-04.22.05:151][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2020.10.23-04.22.05:571][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2020.10.23-04.22.05:571][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2020.10.23-04.22.05:791][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.10.23-04.22.05:983][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2020.10.23-04.22.06:307][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2020.10.23-04.22.06:419][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2020.10.23-04.22.06:636][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2020.10.23-04.22.06:854][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2020.10.23-04.22.07:079][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2020.10.23-04.22.07:297][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2020.10.23-04.22.07:297][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.10.23-04.22.09:549][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.10.23-04.22.09:753][  0]LogDerivedDataCache: Loaded boot cache 0.20s 78MB C:/Users/DANIEL_FS/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2020.10.23-04.22.09:754][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/DANIEL_FS/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2020.10.23-04.22.09:754][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/DANIEL_FS/Documents/GitHub/MuseoVirtualUdeM/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.10.23-04.22.09:754][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.10.23-04.22.09:754][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/DANIEL_FS/Documents/GitHub/MuseoVirtualUdeM/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.10.23-04.22.09:754][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.10.23-04.22.09:795][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.10.23-04.22.09:809][  0]LogDerivedDataCache: Using Local data cache path C:/Users/DANIEL_FS/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.10.23-04.22.09:834][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.10.23-04.22.09:835][  0]LogSlate: Using Freetype 2.6.0
+[2020.10.23-04.22.09:837][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.10.23-04.22.09:837][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.10.23-04.22.10:818][  0]LogInit: Selected Device Profile: [Windows]
+[2020.10.23-04.22.12:109][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2020.10.23-04.22.12:299][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2020.10.23-04.22.12:299][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.10.23-04.22.12:299][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2020.10.23-04.22.12:299][  0]LogMeshReduction: No automatic mesh merging module available
+[2020.10.23-04.22.12:299][  0]LogMeshMerging: No automatic mesh merging module available
+[2020.10.23-04.22.12:383][  0]LogNetVersion: MuseoVirtualUdem , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 2631075334)
+[2020.10.23-04.22.12:845][  0]LogAssetRegistry: FAssetRegistry took 0.0336 seconds to start up
+[2020.10.23-04.22.14:455][  0]LogPackageLocalizationCache: Processed 8 localized package path(s) for 1 prioritized culture(s) in 0.089523 seconds
+[2020.10.23-04.22.14:470][  0]LogUObjectArray: 35870 objects as part of root set at end of initial load.
+[2020.10.23-04.22.14:471][  0]LogUObjectAllocator: 7363696 out of 0 bytes used by permanent object pool.
+[2020.10.23-04.22.14:471][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.10.23-04.22.14:813][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2020.10.23-04.22.26:346][  0]UGameSparksModuleLog: Warning: GameSparks::StartupModule
+[2020.10.23-04.22.26:495][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.10.23-04.22.26:660][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.10.23-04.22.29:491][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2020.10.23-04.22.31:223][  0]SourceControl: Source control is disabled
+[2020.10.23-04.22.31:223][  0]SourceControl: Source control is disabled
+[2020.10.23-04.22.31:468][  0]SourceControl: Source control is disabled
+[2020.10.23-04.22.31:702][  0]SourceControl: Source control is disabled
+[2020.10.23-04.22.35:576][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.10.23-04.22.36:778][  0]LogOcInput: OculusInput pre-init called
+[2020.10.23-04.22.38:005][  0]LogEngine: Initializing Engine...
+[2020.10.23-04.22.38:012][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.10.23-04.22.38:614][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2020.10.23-04.22.38:614][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2020.10.23-04.22.39:207][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.10.23-04.22.39:250][  0]LogInit: XAudio2 using 'Altavoces (Conexant SmartAudio HD)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2020.10.23-04.22.39:335][  0]LogInit: FAudioDevice initialized.
+[2020.10.23-04.22.39:511][  0]LogDerivedDataCache: Saved boot cache 0.18s 78MB C:/Users/DANIEL_FS/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2020.10.23-04.22.39:542][  0]LogInit: Texture streaming: Enabled
+[2020.10.23-04.22.40:061][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.10.23-04.22.40:647][  0]LogInit: Transaction tracking system initialized
+[2020.10.23-04.22.42:125][  0]BlueprintLog: New page: Editor Load
+[2020.10.23-04.22.46:322][  0]LocalizationService: Localization service is disabled
+[2020.10.23-04.22.49:703][  0]LogConsoleResponse: Display: 
+[2020.10.23-04.22.50:233][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.10.23-04.22.50:233][  0]LogCook: Display: Mobile HDR setting 1
+[2020.10.23-04.22.50:233][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2020.10.23-04.22.50:994][  0]LogFileCache: Scanning file cache for directory 'C:/Users/DANIEL_FS/Documents/GitHub/MuseoVirtualUdeM/Content/' took 0.03s
+[2020.10.23-04.22.55:753][  0]SourceControl: Source control is disabled
+[2020.10.23-04.22.55:754][  0]Cmd: MAP LOAD FILE="../../../../../../Users/DANIEL_FS/Documents/GitHub/MuseoVirtualUdeM/Content/Scenes/Game.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.10.23-04.22.55:755][  0]LightingResults: New page: Lighting Build
+[2020.10.23-04.22.55:943][  0]MapCheck: New page: Map Check
+[2020.10.23-04.22.55:943][  0]LightingResults: New page: Lighting Build
+[2020.10.23-04.22.57:872][  0]LogAIModule: Creating AISystem for world Game
+[2020.10.23-04.22.57:936][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.10.23-04.22.57:977][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.10.23-04.22.58:174][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 197.082ms to complete.
+[2020.10.23-04.22.58:175][  0]LogFileHelpers: Loading map 'Game' took 2.421
+[2020.10.23-04.22.58:766][  0]LogCollectionManager: Loaded 0 collections in 0.008392 seconds
+[2020.10.23-04.22.59:052][  0]LogFileCache: Scanning file cache for directory 'C:/Users/DANIEL_FS/Documents/GitHub/MuseoVirtualUdeM/Saved/Collections/' took 0.01s
+[2020.10.23-04.22.59:052][  0]LogFileCache: Scanning file cache for directory 'C:/Users/DANIEL_FS/Documents/GitHub/MuseoVirtualUdeM/Content/Developers/DANIELFS/Collections/' took 0.01s
+[2020.10.23-04.22.59:052][  0]LogFileCache: Scanning file cache for directory 'C:/Users/DANIEL_FS/Documents/GitHub/MuseoVirtualUdeM/Content/Collections/' took 0.01s
+[2020.10.23-04.22.59:052][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2020.10.23-04.22.59:086][  0]LogContentBrowser: Native class hierarchy populated in 0.0332 seconds. Added 2462 classes and 523 folders.
+[2020.10.23-04.22.59:614][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2020.10.23-04.22.59:825][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2020.10.23-04.23.00:202][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0007 seconds. Added 1 classes and 2 folders.
+[2020.10.23-04.23.00:289][  0]LogSlate: Took 0.000603 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.10.23-04.23.00:294][  0]LogSlate: Took 0.000773 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.10.23-04.23.00:313][  0]LogSlate: Took 0.000582 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.10.23-04.23.00:724][  0]LogRenderer: Reallocating scene render targets to support 756x396 Format 10 NumSamples 1 (Frame:1).
+[2020.10.23-04.23.01:388][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0006 seconds. Added 1 classes and 2 folders.
+[2020.10.23-04.23.01:389][  0]LogLoad: (Engine Initialization) Total time: 72.10 seconds
+[2020.10.23-04.23.01:389][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.10.23-04.23.01:389][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2020.10.23-04.23.01:389][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2020.10.23-04.23.01:430][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.10.23-04.23.01:719][  2]LogAssetRegistry: Asset discovery search completed in 48.8974 seconds
+[2020.10.23-04.23.01:724][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2020.10.23-04.23.01:724][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000322 seconds (updated 0 objects)
+[2020.10.23-04.23.05:479][218]LogSlate: Took 0.000554 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2020.10.23-04.23.28:048][501]LogSlate: Took 0.000523 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2020.10.23-04.23.28:671][501]LogSlate: Took 0.000619 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.10.23-04.23.29:883][501]LogRenderer: Reallocating scene render targets to support 796x652 Format 10 NumSamples 1 (Frame:1).
+[2020.10.23-04.23.52:378][209]LogStaticMesh: Building static mesh Cuadro...
+[2020.10.23-04.23.52:381][209]LogStaticMesh: Built static mesh [0.01s] /Game/3DModels/Cuadro2/Cuadro.Cuadro
+[2020.10.23-04.23.52:385][209]LogStaticMesh: Warning: Cuadro has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2020.10.23-04.23.52:386][209]LogStaticMesh: Warning: Cuadro has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2020.10.23-04.24.05:134][594]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3DModels/Cuadro2/Cuadro" FILE="../../../../../../Users/DANIEL_FS/Documents/GitHub/MuseoVirtualUdeM/Content/3DModels/Cuadro2/Cuadro.uasset" SILENT=true
+[2020.10.23-04.24.05:265][594]LogSavePackage: Save=33.26ms
+[2020.10.23-04.24.05:266][594]LogSavePackage: Moving '../../../../../../Users/DANIEL_FS/Documents/GitHub/MuseoVirtualUdeM/Saved/CuadroA3AA11B748A085F9FAE528B314FE9E75.tmp' to '../../../../../../Users/DANIEL_FS/Documents/GitHub/MuseoVirtualUdeM/Content/3DModels/Cuadro2/Cuadro.uasset'
+[2020.10.23-04.24.05:273][594]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/DANIEL_FS/Documents/GitHub/MuseoVirtualUdeM/Content/3DModels/Cuadro2/Cuadro.uasset
+[2020.10.23-04.26.15:396][759]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3DModels/Cuadro/Cuadro" FILE="../../../../../../Users/DANIEL_FS/Documents/GitHub/MuseoVirtualUdeM/Content/3DModels/Cuadro/Cuadro.uasset" SILENT=true
+[2020.10.23-04.26.15:426][759]LogSavePackage: Save=26.60ms
+[2020.10.23-04.26.15:426][759]LogSavePackage: Moving '../../../../../../Users/DANIEL_FS/Documents/GitHub/MuseoVirtualUdeM/Saved/Cuadro5DD0FDE544DCBB33BD4F7B9F476CC01E.tmp' to '../../../../../../Users/DANIEL_FS/Documents/GitHub/MuseoVirtualUdeM/Content/3DModels/Cuadro/Cuadro.uasset'
+[2020.10.23-04.26.15:432][759]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/DANIEL_FS/Documents/GitHub/MuseoVirtualUdeM/Content/3DModels/Cuadro/Cuadro.uasset
+[2020.10.23-04.26.15:511][759]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3DModels/Cuadro/Obra" FILE="../../../../../../Users/DANIEL_FS/Documents/GitHub/MuseoVirtualUdeM/Content/3DModels/Cuadro/Obra.uasset" SILENT=true
+[2020.10.23-04.26.15:550][759]LogSavePackage: Save=34.99ms
+[2020.10.23-04.26.15:550][759]LogSavePackage: Moving '../../../../../../Users/DANIEL_FS/Documents/GitHub/MuseoVirtualUdeM/Saved/Obra66C5EE4A4B553DA9D3276CB3FDFB2121.tmp' to '../../../../../../Users/DANIEL_FS/Documents/GitHub/MuseoVirtualUdeM/Content/3DModels/Cuadro/Obra.uasset'
+[2020.10.23-04.26.15:556][759]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/DANIEL_FS/Documents/GitHub/MuseoVirtualUdeM/Content/3DModels/Cuadro/Obra.uasset
+[2020.10.23-04.26.15:582][759]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3DModels/Cuadro/Arte" FILE="../../../../../../Users/DANIEL_FS/Documents/GitHub/MuseoVirtualUdeM/Content/3DModels/Cuadro/Arte.uasset" SILENT=true
+[2020.10.23-04.26.15:981][759]LogSavePackage: Save=395.43ms
+[2020.10.23-04.26.15:982][759]LogSavePackage: Moving '../../../../../../Users/DANIEL_FS/Documents/GitHub/MuseoVirtualUdeM/Saved/Arte4FFA7DD745086CF0E5A26DA7569FD518.tmp' to '../../../../../../Users/DANIEL_FS/Documents/GitHub/MuseoVirtualUdeM/Content/3DModels/Cuadro/Arte.uasset'
+[2020.10.23-04.26.15:989][759]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/DANIEL_FS/Documents/GitHub/MuseoVirtualUdeM/Content/3DModels/Cuadro/Arte.uasset
+[2020.10.23-04.26.16:068][759]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3DModels/Cuadro/Blanco" FILE="../../../../../../Users/DANIEL_FS/Documents/GitHub/MuseoVirtualUdeM/Content/3DModels/Cuadro/Blanco.uasset" SILENT=true
+[2020.10.23-04.26.16:091][759]LogSavePackage: Save=18.87ms
+[2020.10.23-04.26.16:091][759]LogSavePackage: Moving '../../../../../../Users/DANIEL_FS/Documents/GitHub/MuseoVirtualUdeM/Saved/Blanco630150CB4294A297961646B4313BAB54.tmp' to '../../../../../../Users/DANIEL_FS/Documents/GitHub/MuseoVirtualUdeM/Content/3DModels/Cuadro/Blanco.uasset'
+[2020.10.23-04.26.16:097][759]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/DANIEL_FS/Documents/GitHub/MuseoVirtualUdeM/Content/3DModels/Cuadro/Blanco.uasset
+[2020.10.23-04.26.25:028][940]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0018 seconds. Added 116 classes and 0 folders.
+[2020.10.23-04.26.26:893][940]LogSlate: Took 0.003897 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.10.23-04.26.28:463][997]LogSlate: Took 0.008592 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.10.23-04.26.31:601][107]LogSlate: Took 0.000621 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2020.10.23-04.26.42:117][475]BlueprintLog: New page: Compile BP_Obra
+[2020.10.23-04.26.44:564][501]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Obra" FILE="../../../../../../Users/DANIEL_FS/Documents/GitHub/MuseoVirtualUdeM/Content/Blueprints/BP_Obra.uasset" SILENT=true
+[2020.10.23-04.26.44:831][501]LogSavePackage: Save=178.11ms
+[2020.10.23-04.26.44:831][501]LogSavePackage: Moving '../../../../../../Users/DANIEL_FS/Documents/GitHub/MuseoVirtualUdeM/Saved/BP_Obra1857B8F942CE081D544EFEBAED6DBBA0.tmp' to '../../../../../../Users/DANIEL_FS/Documents/GitHub/MuseoVirtualUdeM/Content/Blueprints/BP_Obra.uasset'
+[2020.10.23-04.26.44:838][501]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/DANIEL_FS/Documents/GitHub/MuseoVirtualUdeM/Content/Blueprints/BP_Obra.uasset
+[2020.10.23-04.26.56:559][952]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.23-04.26.56:725][952]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Scenes/Game.Game:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/Game.Game:PersistentLevel.Game' with GeneratedClass '/Game/Scenes/Game.Game_C' with ClassGeneratedBy '/Game/Scenes/Game.Game:PersistentLevel.Game'
+[2020.10.23-04.26.56:730][952]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.10.23-04.26.56:736][952]LogPlayLevel: [PlayLevel] Compiling Game before play...
+[2020.10.23-04.26.57:082][952]LogPlayLevel: PlayLevel: Blueprint regeneration took 352 ms (1 blueprints)
+[2020.10.23-04.26.57:098][952]PIE: New page: PIE session: Game (Oct 22, 2020, 6:26:57 PM)
+[2020.10.23-04.26.57:099][952]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_1_Game
+[2020.10.23-04.26.57:109][952]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010369s)
+[2020.10.23-04.26.57:111][952]LogAIModule: Creating AISystem for world Game
+[2020.10.23-04.26.57:114][952]LogPlayLevel: PIE: World Init took: (0.004192s)
+[2020.10.23-04.26.57:115][952]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/Game.Game to /Game/Scenes/UEDPIE_1_Game.Game (0.016423s)
+[2020.10.23-04.26.57:244][952]LogInit: XAudio2 using 'Altavoces (Conexant SmartAudio HD)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2020.10.23-04.26.57:331][952]LogInit: FAudioDevice initialized.
+[2020.10.23-04.26.57:393][952]LogLoad: Game class is 'BP_GameMode_C'
+[2020.10.23-04.26.57:413][952]LogWorld: Bringing World /Game/Scenes/UEDPIE_1_Game.Game up for play (max tick rate 60) at 2020.10.22-23.26.57
+[2020.10.23-04.26.57:419][952]LogWorld: Bringing up level for play took: 0.013239
+[2020.10.23-04.26.57:693][952]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0008 seconds. Added 11 classes and 0 folders.
+[2020.10.23-04.26.57:695][952]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.10.23-04.26.57:696][952]LogTemp: Display: ParseSettings for IpNetDriver_0
+[2020.10.23-04.26.57:696][952]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.10.23-04.26.57:698][952]LogInit: WinSock: Socket queue 131072 / 131072
+[2020.10.23-04.26.57:707][952]LogInit: WinSock: I am DESKTOP-IJ1U86O (192.168.1.69:0)
+[2020.10.23-04.26.57:709][952]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2020.10.23-04.26.57:711][952]LogNet: GameNetDriver IpNetDriver_0 IpNetDriver listening on port 17777
+[2020.10.23-04.26.57:711][952]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.10.23-04.26.57:711][952]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.10.23-04.26.57:711][952]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.10.23-04.26.57:733][952]UGameSparksModuleLog: Warning: GameSparks::Initialize
+[2020.10.23-04.26.57:753][952]UGameSparksModuleLog: Initialized
+[2020.10.23-04.26.57:771][952]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.10.23-04.26.57:773][952]PIE: Play in editor start time for /Game/Scenes/UEDPIE_1_Game -0.229
+[2020.10.23-04.26.57:777][952]PIE: New page: PIE session: Game (Oct 22, 2020, 6:26:57 PM)
+[2020.10.23-04.26.57:875][952]LogNet: Browse: 127.0.0.1:17777//Game/Scenes/Game
+[2020.10.23-04.26.57:877][952]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.10.23-04.26.57:877][952]LogTemp: Display: ParseSettings for IpNetDriver_1
+[2020.10.23-04.26.57:877][952]LogTemp: Display: ParseSettings for PendingNetDriver
+[2020.10.23-04.26.57:877][952]LogInit: WinSock: Socket queue 32768 / 32768
+[2020.10.23-04.26.57:879][952]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2020.10.23-04.26.57:882][952]LogNet: Game client on port 17777, rate 10000
+[2020.10.23-04.26.57:892][952]PIE: Play in editor start time for /Game/Scenes/Game -0.109
+[2020.10.23-04.26.57:913][952]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Scenes/Game.Game:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/Game.Game:PersistentLevel.Game' with GeneratedClass '/Game/Scenes/Game.Game_C' with ClassGeneratedBy '/Game/Scenes/Game.Game:PersistentLevel.Game'
+[2020.10.23-04.26.57:917][952]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:50627
+[2020.10.23-04.26.57:918][952]LogHandshake: SendConnectChallenge. Timestamp: 0.016667, Cookie: 161155207146177006247097128037070202173196081142148012084175
+[2020.10.23-04.26.58:122][952]LogHandshake: SendChallengeResponse. Timestamp: 0.016667, Cookie: 161155207146177006247097128037070202173196081142148012084175
+[2020.10.23-04.26.58:313][953]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:50627
+[2020.10.23-04.26.58:313][953]LogHandshake: SendChallengeAck. InCookie: 161155207146177006247097128037070202173196081142148012084175
+[2020.10.23-04.26.58:314][953]LogNet: Server accepting post-challenge connection from: 127.0.0.1:50627
+[2020.10.23-04.26.58:314][953]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2020.10.23-04.26.58:315][953]LogNet: NotifyAcceptedConnection: Name: Game, TimeStamp: 10/22/20 23:26:58, [UNetConnection] RemoteAddr: 127.0.0.1:50627, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL
+[2020.10.23-04.26.58:315][953]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:50627, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL
+[2020.10.23-04.26.58:319][953]LogNetVersion: MuseoVirtualUdem 1.0.0.0, NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 51747653)
+[2020.10.23-04.26.58:319][953]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_0, Driver: PendingNetDriver IpNetDriver_1, IsServer: NO, PC: NULL, Owner: NULL
+[2020.10.23-04.26.58:366][954]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Scenes/UEDPIE_1_Game.Game: Accepted
+[2020.10.23-04.26.58:367][954]LogNet: Remote platform little endian=1
+[2020.10.23-04.26.58:368][954]LogNet: This platform little endian=1
+[2020.10.23-04.26.58:388][955]LogNet: Login request: /Game/Scenes/Game userId: Invalid
+[2020.10.23-04.26.58:392][955]LogNet: Welcomed by server (Level: /Game/Scenes/UEDPIE_1_Game, Game: /Game/Blueprints/BP_GameMode.BP_GameMode_C)
+[2020.10.23-04.26.58:394][955]LogLoad: LoadMap: 127.0.0.1:17777//Game/Scenes/UEDPIE_1_Game?game=/Game/Blueprints/BP_GameMode.BP_GameMode_C
+[2020.10.23-04.26.58:482][955]LogAIModule: Creating AISystem for world Game
+[2020.10.23-04.26.58:483][955]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.10.23-04.26.58:493][955]LogWorld: Bringing World /Game/Scenes/UEDPIE_2_Game.Game up for play (max tick rate 60) at 2020.10.22-23.26.58
+[2020.10.23-04.26.58:495][955]LogWorld: Bringing up level for play took: 0.009160
+[2020.10.23-04.26.58:496][955]LogLoad: Took 0.101861 seconds to LoadMap(/Game/Scenes/UEDPIE_1_Game)
+[2020.10.23-04.26.58:525][956]LogNet: Client netspeed is 10000
+[2020.10.23-04.26.58:526][956]LogNet: Join request: /Game/Scenes/Game?SplitscreenCount=1
+[2020.10.23-04.26.58:538][956]LogNet: Join succeeded: User257
+[2020.10.23-04.26.58:576][957]LogRenderer: Reallocating scene render targets to support 1280x720 Format 10 NumSamples 1 (Frame:1).
+[2020.10.23-04.26.59:042][963]UGameSparksModuleLog: WebSocket callback: {"@class": ".AuthenticatedConnectResponse","connectUrl": "wss://gsp-aeu000-se05.gamesparks.net/ws/device/293711ZXWjA9","requestId": "0"}
+[2020.10.23-04.26.59:043][963]UGameSparksModuleLog: Received new connection url from gamesparks backend. Establishing new connection now.
+[2020.10.23-04.26.59:044][963]UGameSparksModuleLog: Create new connection
+[2020.10.23-04.26.59:048][963]UGameSparksModuleLog: Handle authentication connect response with immediate handshake
+[2020.10.23-04.26.59:050][963]UGameSparksModuleLog: WebSocket closed
+[2020.10.23-04.27.00:397][987]UGameSparksModuleLog: WebSocket callback: {"@class":".AuthenticatedConnectResponse","nonce":"92f90a94-d5b4-44bc-9d89-368a3f03f24e","requestId":"0"}
+[2020.10.23-04.27.00:398][987]UGameSparksModuleLog: Handle authentication connect response with immediate handshake
+[2020.10.23-04.27.00:404][987]UGameSparksModuleLog: Send immediate request: {
+	"@class":	".AuthenticatedConnectRequest",
+	"hmac":	"19dzWPlv9SFOdFE3+fwMnfveWJ2xnah0gc/HqyGN8wo=",
+	"os":	"Windows",
+	"platform":	"Windows",
+	"deviceId":	"358f339235f14dd54cfdd76c989536aa",
+	"deviceStats":	{
+		"cpu.cores":	"4",
+		"cpu.vendor":	"AMD FX-7500 Radeon R7, 10 Compute Cores 4C+6G  ",
+		"engine":	"Unreal Engine",
+		"engine.version":	"4.18.0",
+		"manufacturer":	"Microsoft",
+		"memory":	"7098 MB",
+		"model":	"PC",
+		"os.name":	"Windows",
+		"os.version":	"10.0.18362.959",
+		"os.version.major":	"10",
+		"os.version.major.minor":	"10.0",
+		"resolution":	"1366x768",
+		"gssdk":	"1.1.18.0"
+	},
+	"authToken":	"1f5d0d5d-3a3f-4736-8904-c37bcea32511"
+}
+[2020.10.23-04.27.00:405][987]UGameSparksModuleLog: Handshake request sent
+[2020.10.23-04.27.00:677][992]UGameSparksModuleLog: WebSocket callback: {"@class":".AuthenticatedConnectResponse","requestId":"0","sessionId":"92f90a94-d5b4-44bc-9d89-368a3f03f24e"}
+[2020.10.23-04.27.00:677][992]UGameSparksModuleLog: Handle authentication connect response with immediate handshake
+[2020.10.23-04.27.00:679][992]UGameSparksModuleLog: Warning: GameSparks::GameSparksAvailable_Static
+[2020.10.23-04.27.00:680][992]LogBlueprintUserMessages: [BP_GameMode_C_0] Server: Gamesparks available
+[2020.10.23-04.27.34:243][140]UGameSparksModuleLog: Send immediate request: {
+	"@class":	".AuthenticationRequest",
+	"password":	"dan",
+	"userName":	"dan",
+	"requestId":	"1603427254_0"
+}
+[2020.10.23-04.27.34:460][144]UGameSparksModuleLog: WebSocket callback: {"@class":".AuthenticationResponse","authToken":"47241bf5-5123-49d5-a11e-534c06b64d79","displayName":"dan","newPlayer":false,"requestId":"1603427254_0","userId":"5f628e387e50dd01db7dfbad"}
+[2020.10.23-04.27.34:460][144]UGameSparksModuleLog: Received auth token
+[2020.10.23-04.27.34:466][144]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Client 1: Hello
+[2020.10.23-04.28.17:740][876]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Scenes/Game.Game:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/Game.Game:PersistentLevel.Game' with GeneratedClass '/Game/Scenes/Game.Game_C' with ClassGeneratedBy '/Game/Scenes/Game.Game:PersistentLevel.Game'
+[2020.10.23-04.28.17:949][876]UGameSparksModuleLog: Warning: GameSparks::Shutdown
+[2020.10.23-04.28.17:950][876]UGameSparksModuleLog: Starting connection terminate
+[2020.10.23-04.28.17:950][876]UGameSparksModuleLog: WebSocket closed
+[2020.10.23-04.28.17:951][876]UGameSparksModuleLog: Connection terminated
+[2020.10.23-04.28.17:951][876]UGameSparksModuleLog: Warning: GameSparks::GameSparksAvailable_Static
+[2020.10.23-04.28.17:952][876]LogBlueprintUserMessages: [BP_GameMode_C_0] Server: Gamesparks unavailable
+[2020.10.23-04.28.18:006][876]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Scenes/Game.Game:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/Game.Game:PersistentLevel.Game' with GeneratedClass '/Game/Scenes/Game.Game_C' with ClassGeneratedBy '/Game/Scenes/Game.Game:PersistentLevel.Game'
+[2020.10.23-04.28.18:093][876]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:50627, Name: IpConnection_1, Driver: GameNetDriver None, IsServer: YES, PC: None, Owner: None
+[2020.10.23-04.28.18:093][876]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:50627, Name: IpConnection_1, Driver: GameNetDriver None, IsServer: YES, PC: None, Owner: None, Channels: 2, Time: 2020.10.23-04.28.18
+[2020.10.23-04.28.18:094][876]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:50627, Name: IpConnection_1, Driver: GameNetDriver None, IsServer: YES, PC: None, Owner: None
+[2020.10.23-04.28.18:094][876]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_0, Driver: GameNetDriver IpNetDriver_1, IsServer: NO, PC: None, Owner: None
+[2020.10.23-04.28.18:095][876]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_0, Driver: GameNetDriver IpNetDriver_1, IsServer: NO, PC: None, Owner: None, Channels: 2, Time: 2020.10.23-04.28.18
+[2020.10.23-04.28.18:095][876]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_0, Driver: GameNetDriver IpNetDriver_1, IsServer: NO, PC: None, Owner: None
+[2020.10.23-04.28.18:107][876]LogExit: GameNetDriver None shut down
+[2020.10.23-04.28.18:109][876]LogExit: GameNetDriver None shut down
+[2020.10.23-04.31.21:520][922]LogStaticMesh: Building static mesh V2...
+[2020.10.23-04.31.22:053][922]LogStaticMesh: Built static mesh [0.53s] /Game/3DModels/V2/V2.V2
+[2020.10.23-04.31.22:123][922]LogStaticMesh: Warning: V2 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2020.10.23-04.31.22:123][922]LogStaticMesh: Warning: V2 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2020.10.23-04.32.13:179][ 87]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3DModels/V2/VModel" FILE="../../../../../../Users/DANIEL_FS/Documents/GitHub/MuseoVirtualUdeM/Content/3DModels/V2/VModel.uasset" SILENT=true
+[2020.10.23-04.32.13:226][ 87]LogSavePackage: Save=43.06ms
+[2020.10.23-04.32.13:227][ 87]LogSavePackage: Moving '../../../../../../Users/DANIEL_FS/Documents/GitHub/MuseoVirtualUdeM/Saved/VModel570888F9479887731DF720BB9A22853E.tmp' to '../../../../../../Users/DANIEL_FS/Documents/GitHub/MuseoVirtualUdeM/Content/3DModels/V2/VModel.uasset'
+[2020.10.23-04.32.13:238][ 87]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/DANIEL_FS/Documents/GitHub/MuseoVirtualUdeM/Content/3DModels/V2/VModel.uasset
+[2020.10.23-04.33.01:476][629]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3DModels/V/VModel" FILE="../../../../../../Users/DANIEL_FS/Documents/GitHub/MuseoVirtualUdeM/Content/3DModels/V/VModel.uasset" SILENT=true
+[2020.10.23-04.33.01:513][629]LogSavePackage: Save=32.73ms
+[2020.10.23-04.33.01:513][629]LogSavePackage: Moving '../../../../../../Users/DANIEL_FS/Documents/GitHub/MuseoVirtualUdeM/Saved/VModelD5A2D5974B8F30342690FCADCDF5C4BF.tmp' to '../../../../../../Users/DANIEL_FS/Documents/GitHub/MuseoVirtualUdeM/Content/3DModels/V/VModel.uasset'
+[2020.10.23-04.33.01:520][629]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/DANIEL_FS/Documents/GitHub/MuseoVirtualUdeM/Content/3DModels/V/VModel.uasset
+[2020.10.23-04.33.01:590][629]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3DModels/V/vidrio" FILE="../../../../../../Users/DANIEL_FS/Documents/GitHub/MuseoVirtualUdeM/Content/3DModels/V/vidrio.uasset" SILENT=true
+[2020.10.23-04.33.01:615][629]LogSavePackage: Save=21.43ms
+[2020.10.23-04.33.01:615][629]LogSavePackage: Moving '../../../../../../Users/DANIEL_FS/Documents/GitHub/MuseoVirtualUdeM/Saved/vidrioCCBC69A844D23137972F7E8BCD80B6D0.tmp' to '../../../../../../Users/DANIEL_FS/Documents/GitHub/MuseoVirtualUdeM/Content/3DModels/V/vidrio.uasset'
+[2020.10.23-04.33.01:622][629]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/DANIEL_FS/Documents/GitHub/MuseoVirtualUdeM/Content/3DModels/V/vidrio.uasset
+[2020.10.23-04.33.01:689][629]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3DModels/V/paredes_concreto" FILE="../../../../../../Users/DANIEL_FS/Documents/GitHub/MuseoVirtualUdeM/Content/3DModels/V/paredes_concreto.uasset" SILENT=true
+[2020.10.23-04.33.01:720][629]LogSavePackage: Save=25.90ms
+[2020.10.23-04.33.01:720][629]LogSavePackage: Moving '../../../../../../Users/DANIEL_FS/Documents/GitHub/MuseoVirtualUdeM/Saved/paredes_concretoB8855F0C4372FC79CB4B9991221B9A5C.tmp' to '../../../../../../Users/DANIEL_FS/Documents/GitHub/MuseoVirtualUdeM/Content/3DModels/V/paredes_concreto.uasset'
+[2020.10.23-04.33.01:726][629]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/DANIEL_FS/Documents/GitHub/MuseoVirtualUdeM/Content/3DModels/V/paredes_concreto.uasset
+[2020.10.23-04.33.01:748][629]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3DModels/V/concreto" FILE="../../../../../../Users/DANIEL_FS/Documents/GitHub/MuseoVirtualUdeM/Content/3DModels/V/concreto.uasset" SILENT=true
+[2020.10.23-04.33.01:785][629]LogSavePackage: Save=32.16ms
+[2020.10.23-04.33.01:785][629]LogSavePackage: Moving '../../../../../../Users/DANIEL_FS/Documents/GitHub/MuseoVirtualUdeM/Saved/concreto40B541344940DBE7C095E391CCDDB963.tmp' to '../../../../../../Users/DANIEL_FS/Documents/GitHub/MuseoVirtualUdeM/Content/3DModels/V/concreto.uasset'
+[2020.10.23-04.33.01:792][629]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/DANIEL_FS/Documents/GitHub/MuseoVirtualUdeM/Content/3DModels/V/concreto.uasset
+[2020.10.23-04.33.01:857][629]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3DModels/V/paredes04" FILE="../../../../../../Users/DANIEL_FS/Documents/GitHub/MuseoVirtualUdeM/Content/3DModels/V/paredes04.uasset" SILENT=true
+[2020.10.23-04.33.01:885][629]LogSavePackage: Save=24.48ms
+[2020.10.23-04.33.01:886][629]LogSavePackage: Moving '../../../../../../Users/DANIEL_FS/Documents/GitHub/MuseoVirtualUdeM/Saved/paredes04C46CC71E4E3762158650EF89CFEFFC1A.tmp' to '../../../../../../Users/DANIEL_FS/Documents/GitHub/MuseoVirtualUdeM/Content/3DModels/V/paredes04.uasset'
+[2020.10.23-04.33.01:891][629]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/DANIEL_FS/Documents/GitHub/MuseoVirtualUdeM/Content/3DModels/V/paredes04.uasset
+[2020.10.23-04.33.01:919][629]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3DModels/V/texutra4" FILE="../../../../../../Users/DANIEL_FS/Documents/GitHub/MuseoVirtualUdeM/Content/3DModels/V/texutra4.uasset" SILENT=true
+[2020.10.23-04.33.01:972][629]LogSavePackage: Save=48.36ms
+[2020.10.23-04.33.01:972][629]LogSavePackage: Moving '../../../../../../Users/DANIEL_FS/Documents/GitHub/MuseoVirtualUdeM/Saved/texutra4ADDAC63B475C94AD91CBCEA12B859206.tmp' to '../../../../../../Users/DANIEL_FS/Documents/GitHub/MuseoVirtualUdeM/Content/3DModels/V/texutra4.uasset'
+[2020.10.23-04.33.01:978][629]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/DANIEL_FS/Documents/GitHub/MuseoVirtualUdeM/Content/3DModels/V/texutra4.uasset
+[2020.10.23-04.33.02:047][629]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3DModels/V/metal2" FILE="../../../../../../Users/DANIEL_FS/Documents/GitHub/MuseoVirtualUdeM/Content/3DModels/V/metal2.uasset" SILENT=true
+[2020.10.23-04.33.02:072][629]LogSavePackage: Save=21.62ms
+[2020.10.23-04.33.02:072][629]LogSavePackage: Moving '../../../../../../Users/DANIEL_FS/Documents/GitHub/MuseoVirtualUdeM/Saved/metal2D60DF1FE4DD4329C745F73AC6FED2C47.tmp' to '../../../../../../Users/DANIEL_FS/Documents/GitHub/MuseoVirtualUdeM/Content/3DModels/V/metal2.uasset'
+[2020.10.23-04.33.02:079][629]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/DANIEL_FS/Documents/GitHub/MuseoVirtualUdeM/Content/3DModels/V/metal2.uasset
+[2020.10.23-04.33.02:148][629]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3DModels/V/metal1" FILE="../../../../../../Users/DANIEL_FS/Documents/GitHub/MuseoVirtualUdeM/Content/3DModels/V/metal1.uasset" SILENT=true
+[2020.10.23-04.33.02:176][629]LogSavePackage: Save=24.11ms
+[2020.10.23-04.33.02:176][629]LogSavePackage: Moving '../../../../../../Users/DANIEL_FS/Documents/GitHub/MuseoVirtualUdeM/Saved/metal1144C4A4F4C055FEDB36301AA8B72218A.tmp' to '../../../../../../Users/DANIEL_FS/Documents/GitHub/MuseoVirtualUdeM/Content/3DModels/V/metal1.uasset'
+[2020.10.23-04.33.02:182][629]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/DANIEL_FS/Documents/GitHub/MuseoVirtualUdeM/Content/3DModels/V/metal1.uasset
+[2020.10.23-04.33.02:256][629]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3DModels/V/Metal03" FILE="../../../../../../Users/DANIEL_FS/Documents/GitHub/MuseoVirtualUdeM/Content/3DModels/V/Metal03.uasset" SILENT=true
+[2020.10.23-04.33.02:289][629]LogSavePackage: Save=28.69ms
+[2020.10.23-04.33.02:289][629]LogSavePackage: Moving '../../../../../../Users/DANIEL_FS/Documents/GitHub/MuseoVirtualUdeM/Saved/Metal031CD3DBA74EE12A2516818198EF500DA7.tmp' to '../../../../../../Users/DANIEL_FS/Documents/GitHub/MuseoVirtualUdeM/Content/3DModels/V/Metal03.uasset'
+[2020.10.23-04.33.02:296][629]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/DANIEL_FS/Documents/GitHub/MuseoVirtualUdeM/Content/3DModels/V/Metal03.uasset
+[2020.10.23-04.33.02:325][629]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3DModels/V/metal-texture" FILE="../../../../../../Users/DANIEL_FS/Documents/GitHub/MuseoVirtualUdeM/Content/3DModels/V/metal-texture.uasset" SILENT=true
+[2020.10.23-04.33.02:457][629]LogSavePackage: Save=127.82ms
+[2020.10.23-04.33.02:457][629]LogSavePackage: Moving '../../../../../../Users/DANIEL_FS/Documents/GitHub/MuseoVirtualUdeM/Saved/metal-textureE51057F24854285F6F9DDC92B40B177C.tmp' to '../../../../../../Users/DANIEL_FS/Documents/GitHub/MuseoVirtualUdeM/Content/3DModels/V/metal-texture.uasset'
+[2020.10.23-04.33.02:465][629]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/DANIEL_FS/Documents/GitHub/MuseoVirtualUdeM/Content/3DModels/V/metal-texture.uasset
+[2020.10.23-04.33.02:542][629]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3DModels/V/lambert1" FILE="../../../../../../Users/DANIEL_FS/Documents/GitHub/MuseoVirtualUdeM/Content/3DModels/V/lambert1.uasset" SILENT=true
+[2020.10.23-04.33.02:575][629]LogSavePackage: Save=28.34ms
+[2020.10.23-04.33.02:575][629]LogSavePackage: Moving '../../../../../../Users/DANIEL_FS/Documents/GitHub/MuseoVirtualUdeM/Saved/lambert1176DBFDA41C3867A745115B8CD9814EB.tmp' to '../../../../../../Users/DANIEL_FS/Documents/GitHub/MuseoVirtualUdeM/Content/3DModels/V/lambert1.uasset'
+[2020.10.23-04.33.02:584][629]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/DANIEL_FS/Documents/GitHub/MuseoVirtualUdeM/Content/3DModels/V/lambert1.uasset
+[2020.10.23-04.33.44:634][586]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/Game" FILE="../../../../../../Users/DANIEL_FS/Documents/GitHub/MuseoVirtualUdeM/Content/Scenes/Game.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.10.23-04.33.45:236][586]LogSavePackage: Save=463.92ms
+[2020.10.23-04.33.45:236][586]LogSavePackage: Moving '../../../../../../Users/DANIEL_FS/Documents/GitHub/MuseoVirtualUdeM/Saved/Game8DCBD3C34B248F9CC1EB47A107FAA53A.tmp' to '../../../../../../Users/DANIEL_FS/Documents/GitHub/MuseoVirtualUdeM/Content/Scenes/Game.umap'
+[2020.10.23-04.33.45:242][586]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/DANIEL_FS/Documents/GitHub/MuseoVirtualUdeM/Content/Scenes/Game.umap
+[2020.10.23-04.33.45:326][586]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/Game_BuiltData" FILE="../../../../../../Users/DANIEL_FS/Documents/GitHub/MuseoVirtualUdeM/Content/Scenes/Game_BuiltData.uasset" SILENT=true
+[2020.10.23-04.33.45:449][586]LogSavePackage: Save=41.09ms
+[2020.10.23-04.33.45:449][586]LogSavePackage: Moving '../../../../../../Users/DANIEL_FS/Documents/GitHub/MuseoVirtualUdeM/Saved/Game_BuiltData38862C5A44B519092C0D1998C156738E.tmp' to '../../../../../../Users/DANIEL_FS/Documents/GitHub/MuseoVirtualUdeM/Content/Scenes/Game_BuiltData.uasset'
+[2020.10.23-04.33.45:453][586]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/DANIEL_FS/Documents/GitHub/MuseoVirtualUdeM/Content/Scenes/Game_BuiltData.uasset
+[2020.10.23-04.34.41:611][974]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.23-04.34.41:680][974]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Scenes/Game.Game:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/Game.Game:PersistentLevel.Game' with GeneratedClass '/Game/Scenes/Game.Game_C' with ClassGeneratedBy '/Game/Scenes/Game.Game:PersistentLevel.Game'
+[2020.10.23-04.34.41:681][974]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.10.23-04.34.41:686][974]LogPlayLevel: [PlayLevel] Compiling BP_V_Model before play...
+[2020.10.23-04.34.42:751][974]LogPlayLevel: PlayLevel: Blueprint regeneration took 1070 ms (1 blueprints)
+[2020.10.23-04.34.42:757][974]PIE: New page: PIE session: Game (Oct 22, 2020, 6:34:42 PM)
+[2020.10.23-04.34.42:757][974]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_1_Game
+[2020.10.23-04.34.42:769][974]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011167s)
+[2020.10.23-04.34.42:771][974]LogAIModule: Creating AISystem for world Game
+[2020.10.23-04.34.42:772][974]LogPlayLevel: PIE: World Init took: (0.002864s)
+[2020.10.23-04.34.42:773][974]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/Game.Game to /Game/Scenes/UEDPIE_1_Game.Game (0.015486s)
+[2020.10.23-04.34.42:900][974]LogInit: XAudio2 using 'Altavoces (Conexant SmartAudio HD)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2020.10.23-04.34.43:001][974]LogInit: FAudioDevice initialized.
+[2020.10.23-04.34.43:050][974]LogLoad: Game class is 'BP_GameMode_C'
+[2020.10.23-04.34.43:059][974]LogWorld: Bringing World /Game/Scenes/UEDPIE_1_Game.Game up for play (max tick rate 60) at 2020.10.22-23.34.43
+[2020.10.23-04.34.43:061][974]LogWorld: Bringing up level for play took: 0.009411
+[2020.10.23-04.34.43:063][974]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.10.23-04.34.43:063][974]LogTemp: Display: ParseSettings for IpNetDriver_2
+[2020.10.23-04.34.43:064][974]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.10.23-04.34.43:064][974]LogInit: WinSock: Socket queue 131072 / 131072
+[2020.10.23-04.34.43:066][974]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2020.10.23-04.34.43:066][974]LogNet: GameNetDriver IpNetDriver_2 IpNetDriver listening on port 17777
+[2020.10.23-04.34.43:066][974]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.10.23-04.34.43:067][974]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.10.23-04.34.43:067][974]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.10.23-04.34.43:074][974]UGameSparksModuleLog: Warning: GameSparks::Initialize
+[2020.10.23-04.34.43:078][974]UGameSparksModuleLog: Initialized
+[2020.10.23-04.34.43:084][974]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.10.23-04.34.43:084][974]PIE: Play in editor start time for /Game/Scenes/UEDPIE_1_Game 1.083
+[2020.10.23-04.34.43:091][974]PIE: New page: PIE session: Game (Oct 22, 2020, 6:34:43 PM)
+[2020.10.23-04.34.43:198][974]LogNet: Browse: 127.0.0.1:17777//Game/Scenes/Game
+[2020.10.23-04.34.43:199][974]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.10.23-04.34.43:199][974]LogTemp: Display: ParseSettings for IpNetDriver_3
+[2020.10.23-04.34.43:199][974]LogTemp: Display: ParseSettings for PendingNetDriver
+[2020.10.23-04.34.43:200][974]LogInit: WinSock: Socket queue 32768 / 32768
+[2020.10.23-04.34.43:202][974]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2020.10.23-04.34.43:202][974]LogNet: Game client on port 17777, rate 10000
+[2020.10.23-04.34.43:212][974]PIE: Play in editor start time for /Game/Scenes/Game 1.21
+[2020.10.23-04.34.43:236][974]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Scenes/Game.Game:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/Game.Game:PersistentLevel.Game' with GeneratedClass '/Game/Scenes/Game.Game_C' with ClassGeneratedBy '/Game/Scenes/Game.Game:PersistentLevel.Game'
+[2020.10.23-04.34.43:239][974]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:59087
+[2020.10.23-04.34.43:240][974]LogHandshake: SendConnectChallenge. Timestamp: 0.016668, Cookie: 081198092027008042026126159146222197204179109240189120160149
+[2020.10.23-04.34.43:244][974]LogHandshake: SendChallengeResponse. Timestamp: 0.016668, Cookie: 081198092027008042026126159146222197204179109240189120160149
+[2020.10.23-04.34.43:246][974]UGameSparksModuleLog: Create new connection
+[2020.10.23-04.34.43:249][974]UGameSparksModuleLog: WebSocket closed
+[2020.10.23-04.34.44:496][975]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:59087
+[2020.10.23-04.34.44:497][975]LogHandshake: SendChallengeAck. InCookie: 081198092027008042026126159146222197204179109240189120160149
+[2020.10.23-04.34.44:497][975]LogNet: Server accepting post-challenge connection from: 127.0.0.1:59087
+[2020.10.23-04.34.44:498][975]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2020.10.23-04.34.44:498][975]LogNet: NotifyAcceptedConnection: Name: Game, TimeStamp: 10/22/20 23:34:44, [UNetConnection] RemoteAddr: 127.0.0.1:59087, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_2, IsServer: YES, PC: NULL, Owner: NULL
+[2020.10.23-04.34.44:498][975]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:59087, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_2, IsServer: YES, PC: NULL, Owner: NULL
+[2020.10.23-04.34.44:502][975]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_2, Driver: PendingNetDriver IpNetDriver_3, IsServer: NO, PC: NULL, Owner: NULL
+[2020.10.23-04.34.44:535][976]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Scenes/UEDPIE_1_Game.Game: Accepted
+[2020.10.23-04.34.44:535][976]LogNet: Remote platform little endian=1
+[2020.10.23-04.34.44:535][976]LogNet: This platform little endian=1
+[2020.10.23-04.34.44:539][976]UGameSparksModuleLog: WebSocket callback: {"@class": ".AuthenticatedConnectResponse","connectUrl": "wss://gsp-aeu000-se12.gamesparks.net/ws/device/293711ZXWjA9","requestId": "0"}
+[2020.10.23-04.34.44:539][976]UGameSparksModuleLog: Received new connection url from gamesparks backend. Establishing new connection now.
+[2020.10.23-04.34.44:539][976]UGameSparksModuleLog: Create new connection
+[2020.10.23-04.34.44:541][976]UGameSparksModuleLog: Handle authentication connect response with immediate handshake
+[2020.10.23-04.34.44:541][976]UGameSparksModuleLog: WebSocket closed
+[2020.10.23-04.34.44:555][977]LogNet: Login request: /Game/Scenes/Game userId: Invalid
+[2020.10.23-04.34.44:558][977]LogNet: Welcomed by server (Level: /Game/Scenes/UEDPIE_1_Game, Game: /Game/Blueprints/BP_GameMode.BP_GameMode_C)
+[2020.10.23-04.34.44:571][977]LogLoad: LoadMap: 127.0.0.1:17777//Game/Scenes/UEDPIE_1_Game?game=/Game/Blueprints/BP_GameMode.BP_GameMode_C
+[2020.10.23-04.34.44:651][977]LogAIModule: Creating AISystem for world Game
+[2020.10.23-04.34.44:652][977]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.10.23-04.34.44:660][977]LogWorld: Bringing World /Game/Scenes/UEDPIE_2_Game.Game up for play (max tick rate 60) at 2020.10.22-23.34.44
+[2020.10.23-04.34.44:662][977]LogWorld: Bringing up level for play took: 0.007472
+[2020.10.23-04.34.44:663][977]LogLoad: Took 0.090743 seconds to LoadMap(/Game/Scenes/UEDPIE_1_Game)
+[2020.10.23-04.34.44:690][978]LogNet: Client netspeed is 10000
+[2020.10.23-04.34.44:690][978]LogNet: Join request: /Game/Scenes/Game?SplitscreenCount=1
+[2020.10.23-04.34.44:696][978]LogNet: Join succeeded: User259
+[2020.10.23-04.34.45:886][998]UGameSparksModuleLog: WebSocket callback: {"@class":".AuthenticatedConnectResponse","nonce":"f9345571-35ca-41e8-ab94-c12e3f81290e","requestId":"0"}
+[2020.10.23-04.34.45:886][998]UGameSparksModuleLog: Handle authentication connect response with immediate handshake
+[2020.10.23-04.34.45:891][998]UGameSparksModuleLog: Send immediate request: {
+	"@class":	".AuthenticatedConnectRequest",
+	"hmac":	"4aJKjkvLD0woCQe3fcKRlmOulIAmn6iuRt4pPRvFQww=",
+	"os":	"Windows",
+	"platform":	"Windows",
+	"deviceId":	"358f339235f14dd54cfdd76c989536aa",
+	"deviceStats":	{
+		"cpu.cores":	"4",
+		"cpu.vendor":	"AMD FX-7500 Radeon R7, 10 Compute Cores 4C+6G  ",
+		"engine":	"Unreal Engine",
+		"engine.version":	"4.18.0",
+		"manufacturer":	"Microsoft",
+		"memory":	"7098 MB",
+		"model":	"PC",
+		"os.name":	"Windows",
+		"os.version":	"10.0.18362.959",
+		"os.version.major":	"10",
+		"os.version.major.minor":	"10.0",
+		"resolution":	"1366x768",
+		"gssdk":	"1.1.18.0"
+	},
+	"authToken":	"47241bf5-5123-49d5-a11e-534c06b64d79",
+	"sessionId":	"92f90a94-d5b4-44bc-9d89-368a3f03f24e"
+}
+[2020.10.23-04.34.45:892][998]UGameSparksModuleLog: Handshake request sent
+[2020.10.23-04.34.46:188][  3]UGameSparksModuleLog: WebSocket callback: {"@class":".AuthenticatedConnectResponse","authToken":"88bf1f28-e5e6-497b-a91d-46ec0fd66c6e","requestId":"0","sessionId":"92f90a94-d5b4-44bc-9d89-368a3f03f24e","userId":"5f628e387e50dd01db7dfbad"}
+[2020.10.23-04.34.46:188][  3]UGameSparksModuleLog: Received auth token
+[2020.10.23-04.34.46:190][  3]UGameSparksModuleLog: Handle authentication connect response with immediate handshake
+[2020.10.23-04.34.46:191][  3]UGameSparksModuleLog: Warning: GameSparks::GameSparksAvailable_Static
+[2020.10.23-04.34.46:191][  3]LogBlueprintUserMessages: [BP_GameMode_C_0] Server: Gamesparks available
+[2020.10.23-04.34.47:028][ 18]UGameSparksModuleLog: Send immediate request: {
+	"@class":	".AuthenticationRequest",
+	"password":	"dan",
+	"userName":	"dan",
+	"requestId":	"1603427687_1"
+}
+[2020.10.23-04.34.47:261][ 22]UGameSparksModuleLog: WebSocket callback: {"@class":".AuthenticationResponse","authToken":"a5cee4ed-b2d8-4a5a-b39e-8cec5f5c1818","displayName":"dan","newPlayer":false,"requestId":"1603427687_1","userId":"5f628e387e50dd01db7dfbad"}
+[2020.10.23-04.34.47:262][ 22]UGameSparksModuleLog: Received auth token
+[2020.10.23-04.34.47:265][ 22]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Server: Hello
+[2020.10.23-04.34.47:381][ 24]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] Client 1: Hello
+[2020.10.23-04.35.13:874][470]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Scenes/Game.Game:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/Game.Game:PersistentLevel.Game' with GeneratedClass '/Game/Scenes/Game.Game_C' with ClassGeneratedBy '/Game/Scenes/Game.Game:PersistentLevel.Game'
+[2020.10.23-04.35.13:994][470]UGameSparksModuleLog: Warning: GameSparks::Shutdown
+[2020.10.23-04.35.13:994][470]UGameSparksModuleLog: Starting connection terminate
+[2020.10.23-04.35.13:994][470]UGameSparksModuleLog: WebSocket closed
+[2020.10.23-04.35.13:994][470]UGameSparksModuleLog: Connection terminated
+[2020.10.23-04.35.13:995][470]UGameSparksModuleLog: Warning: GameSparks::GameSparksAvailable_Static
+[2020.10.23-04.35.13:995][470]LogBlueprintUserMessages: [BP_GameMode_C_0] Server: Gamesparks unavailable
+[2020.10.23-04.35.14:036][470]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Scenes/Game.Game:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/Game.Game:PersistentLevel.Game' with GeneratedClass '/Game/Scenes/Game.Game_C' with ClassGeneratedBy '/Game/Scenes/Game.Game:PersistentLevel.Game'
+[2020.10.23-04.35.14:112][470]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:59087, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_2, IsServer: YES, PC: None, Owner: None
+[2020.10.23-04.35.14:112][470]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:59087, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_2, IsServer: YES, PC: None, Owner: None, Channels: 2, Time: 2020.10.23-04.35.14
+[2020.10.23-04.35.14:112][470]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:59087, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_2, IsServer: YES, PC: None, Owner: None
+[2020.10.23-04.35.14:114][470]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_2, Driver: GameNetDriver IpNetDriver_3, IsServer: NO, PC: None, Owner: None
+[2020.10.23-04.35.14:114][470]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_2, Driver: GameNetDriver IpNetDriver_3, IsServer: NO, PC: None, Owner: None, Channels: 2, Time: 2020.10.23-04.35.14
+[2020.10.23-04.35.14:114][470]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_2, Driver: GameNetDriver IpNetDriver_3, IsServer: NO, PC: None, Owner: None
+[2020.10.23-04.35.14:125][470]LogExit: GameNetDriver None shut down
+[2020.10.23-04.35.14:126][470]LogExit: GameNetDriver None shut down
+[2020.10.23-04.35.26:330][ 36]LogContentBrowser: Native class hierarchy updated for 'MaterialEditor' in 0.0009 seconds. Added 1 classes and 0 folders.
+[2020.10.23-04.35.26:340][ 36]LogMaterial: Missing cached shader map for material vidrio, compiling. 
+[2020.10.23-04.35.26:831][ 36]LogMaterial: Missing cached shader map for material vidrio, compiling. 
+[2020.10.23-04.35.26:922][ 36]LogMaterial: Missing cached shader map for material vidrio, compiling. 
+[2020.10.23-04.35.27:036][ 36]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.10.23-04.35.44:793][583]LogMaterial: Missing cached shader map for material vidrio, compiling. 
+[2020.10.23-04.35.52:658][844]LogMaterial: Missing cached shader map for material vidrio, compiling. 
+[2020.10.23-04.35.54:131][883]LogMaterial: Missing cached shader map for material vidrio, compiling. 
+[2020.10.23-04.36.06:423][241]LogMaterialEditor: Saving and Compiling material vidrio
+[2020.10.23-04.36.09:994][241]LogMaterial: Missing cached shader map for material vidrio, compiling. 
+[2020.10.23-04.36.10:293][241]LogMaterial: Missing cached shader map for material vidrio, compiling. 
+[2020.10.23-04.36.10:501][241]LogMaterial: Missing cached shader map for material vidrio, compiling. 
+[2020.10.23-04.36.10:753][241]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy vidrio, compiling. 
+[2020.10.23-04.36.24:833][241]TextureStreamingBuild: Display: Compiling optional shaders took 14.106 seconds.
+[2020.10.23-04.36.41:771][241]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3DModels/V/vidrio" FILE="../../../../../../Users/DANIEL_FS/Documents/GitHub/MuseoVirtualUdeM/Content/3DModels/V/vidrio.uasset" SILENT=true
+[2020.10.23-04.36.41:937][241]LogSavePackage: Save=41.61ms
+[2020.10.23-04.36.41:937][241]LogSavePackage: Moving '../../../../../../Users/DANIEL_FS/Documents/GitHub/MuseoVirtualUdeM/Saved/vidrio01FEC4A74FB18A514A4D9AAADF02258B.tmp' to '../../../../../../Users/DANIEL_FS/Documents/GitHub/MuseoVirtualUdeM/Content/3DModels/V/vidrio.uasset'
+[2020.10.23-04.36.41:946][241]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/DANIEL_FS/Documents/GitHub/MuseoVirtualUdeM/Content/3DModels/V/vidrio.uasset
+[2020.10.23-04.36.41:958][241]MaterialEditorStats: Base pass shader: 50 instructions
+[2020.10.23-04.36.41:958][241]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 77 instructions
+[2020.10.23-04.36.41:958][241]MaterialEditorStats: Vertex shader: 122 instructions
+[2020.10.23-04.36.41:958][241]MaterialEditorStats: Texture samplers: 3/16
+[2020.10.23-04.37.08:357][294]LogMaterial: Missing cached shader map for material vidrio, compiling. 
+[2020.10.23-04.37.24:086][465]MaterialEditorStats: Base pass shader: 50 instructions
+[2020.10.23-04.37.24:087][465]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 77 instructions
+[2020.10.23-04.37.24:087][465]MaterialEditorStats: Vertex shader: 122 instructions
+[2020.10.23-04.37.24:087][465]MaterialEditorStats: Texture samplers: 3/16
+[2020.10.23-04.37.42:378][632]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant_0, compiling. 
+[2020.10.23-04.37.46:940][813]LogMaterial: Missing cached shader map for material vidrio, compiling. 
+[2020.10.23-04.37.47:015][813]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant_0, compiling. 
+[2020.10.23-04.37.55:452][905]MaterialEditorStats: Base pass shader: 50 instructions
+[2020.10.23-04.37.55:453][905]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 77 instructions
+[2020.10.23-04.37.55:453][905]MaterialEditorStats: Vertex shader: 122 instructions
+[2020.10.23-04.37.55:453][905]MaterialEditorStats: Texture samplers: 3/16
+[2020.10.23-04.39.02:861][166]LogMaterialEditor: Saving and Compiling material vidrio
+[2020.10.23-04.39.04:874][166]LogMaterial: Missing cached shader map for material vidrio, compiling. 
+[2020.10.23-04.39.05:103][166]LogMaterial: Missing cached shader map for material vidrio, compiling. 
+[2020.10.23-04.39.05:277][166]LogMaterial: Missing cached shader map for material vidrio, compiling. 
+[2020.10.23-04.39.05:540][166]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy vidrio, compiling. 
+[2020.10.23-04.39.14:935][166]TextureStreamingBuild: Display: Compiling optional shaders took 9.410 seconds.
+[2020.10.23-04.39.27:463][166]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3DModels/V/vidrio" FILE="../../../../../../Users/DANIEL_FS/Documents/GitHub/MuseoVirtualUdeM/Content/3DModels/V/vidrio.uasset" SILENT=true
+[2020.10.23-04.39.27:595][166]LogSavePackage: Save=35.75ms
+[2020.10.23-04.39.27:596][166]LogSavePackage: Moving '../../../../../../Users/DANIEL_FS/Documents/GitHub/MuseoVirtualUdeM/Saved/vidrio2FEB211C4B66B77CF6A258B03442A41F.tmp' to '../../../../../../Users/DANIEL_FS/Documents/GitHub/MuseoVirtualUdeM/Content/3DModels/V/vidrio.uasset'
+[2020.10.23-04.39.27:605][166]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/DANIEL_FS/Documents/GitHub/MuseoVirtualUdeM/Content/3DModels/V/vidrio.uasset
+[2020.10.23-04.39.54:740][847]LogMaterial: Missing cached shader map for material vidrio, compiling. 
+[2020.10.23-04.39.54:825][847]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant_0, compiling. 
+[2020.10.23-04.40.11:074][927]MaterialEditorStats: Base pass shader: 50 instructions
+[2020.10.23-04.40.11:075][927]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 77 instructions
+[2020.10.23-04.40.11:075][927]MaterialEditorStats: Vertex shader: 122 instructions
+[2020.10.23-04.40.11:075][927]MaterialEditorStats: Texture samplers: 3/16
+[2020.10.23-04.44.18:366][ 14]LogSavePackage: Save=570.94ms
+[2020.10.23-04.44.18:367][ 14]LogSavePackage: Moving '../../../../../../Users/DANIEL_FS/Documents/GitHub/MuseoVirtualUdeM/Saved/Game_Auto1E8BB900E41F6F2C37B77E4BF585ACE8C.tmp' to '../../../../../../Users/DANIEL_FS/Documents/GitHub/MuseoVirtualUdeM/Saved/Autosaves/Game/Scenes/Game_Auto1.umap'
+[2020.10.23-04.44.18:371][ 14]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/DANIEL_FS/Documents/GitHub/MuseoVirtualUdeM/Saved/Autosaves/Game/Scenes/Game_Auto1.umap
+[2020.10.23-04.44.18:375][ 14]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Scenes/Game' took 0.784
+[2020.10.23-04.44.18:376][ 14]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.784
+[2020.10.23-04.44.18:384][ 14]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Models/BP_V_Model] ([1] browsable assets)...
+[2020.10.23-04.44.18:448][ 14]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Models/BP_V_Model.BP_V_Model]
+[2020.10.23-04.44.18:448][ 14]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Models/BP_V_Model]
+[2020.10.23-04.44.18:599][ 14]LogSavePackage: Save=51.38ms
+[2020.10.23-04.44.18:600][ 14]LogSavePackage: Moving '../../../../../../Users/DANIEL_FS/Documents/GitHub/MuseoVirtualUdeM/Saved/BP_V_Model_Auto1451195C44F807452C07955AE52163154.tmp' to '../../../../../../Users/DANIEL_FS/Documents/GitHub/MuseoVirtualUdeM/Saved/Autosaves/Game/Blueprints/Models/BP_V_Model_Auto1.uasset'
+[2020.10.23-04.44.18:605][ 14]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/DANIEL_FS/Documents/GitHub/MuseoVirtualUdeM/Saved/Autosaves/Game/Blueprints/Models/BP_V_Model_Auto1.uasset
+[2020.10.23-04.44.18:606][ 14]LogFileHelpers: Auto-saving content packages took 0.228
+[2020.10.23-04.44.30:154][103]LogMaterialEditor: Saving and Compiling material vidrio
+[2020.10.23-04.44.32:509][103]LogMaterial: Missing cached shader map for material vidrio, compiling. 
+[2020.10.23-04.44.32:711][103]LogMaterial: Missing cached shader map for material vidrio, compiling. 
+[2020.10.23-04.44.32:883][103]LogMaterial: Missing cached shader map for material vidrio, compiling. 
+[2020.10.23-04.44.33:175][103]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy vidrio, compiling. 
+[2020.10.23-04.44.48:445][103]TextureStreamingBuild: Display: Compiling optional shaders took 15.286 seconds.
+[2020.10.23-04.44.58:189][103]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3DModels/V/vidrio" FILE="../../../../../../Users/DANIEL_FS/Documents/GitHub/MuseoVirtualUdeM/Content/3DModels/V/vidrio.uasset" SILENT=true
+[2020.10.23-04.44.58:327][103]LogSavePackage: Save=34.43ms
+[2020.10.23-04.44.58:327][103]LogSavePackage: Moving '../../../../../../Users/DANIEL_FS/Documents/GitHub/MuseoVirtualUdeM/Saved/vidrio7D5BBC20466F94EFBE00049B4135CC6E.tmp' to '../../../../../../Users/DANIEL_FS/Documents/GitHub/MuseoVirtualUdeM/Content/3DModels/V/vidrio.uasset'
+[2020.10.23-04.44.58:335][103]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/DANIEL_FS/Documents/GitHub/MuseoVirtualUdeM/Content/3DModels/V/vidrio.uasset
+[2020.10.23-04.46.42:755][109]LogMaterial: Missing cached shader map for material vidrio, compiling. 
+[2020.10.23-04.46.42:849][109]LogMaterial: Missing cached shader map for material vidrio, compiling. 
+[2020.10.23-04.46.57:920][597]LogMaterial: Missing cached shader map for material vidrio, compiling. 
+[2020.10.23-04.46.58:019][597]LogMaterial: Missing cached shader map for material vidrio, compiling. 
+[2020.10.23-04.47.52:252][238]MaterialEditorStats: Base pass shader: 50 instructions
+[2020.10.23-04.47.52:252][238]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 77 instructions
+[2020.10.23-04.47.52:252][238]MaterialEditorStats: Vertex shader: 122 instructions
+[2020.10.23-04.47.52:253][238]MaterialEditorStats: Texture samplers: 3/16
+[2020.10.23-04.48.46:511][130]LogMaterial: Missing cached shader map for material vidrio, compiling. 
+[2020.10.23-04.48.46:719][130]LogMaterial: Missing cached shader map for material vidrio, compiling. 
+[2020.10.23-04.48.46:867][130]LogMaterial: Missing cached shader map for material vidrio, compiling. 
+[2020.10.23-04.48.47:051][130]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy vidrio, compiling. 
+[2020.10.23-04.48.56:951][130]TextureStreamingBuild: Display: Compiling optional shaders took 9.915 seconds.
+[2020.10.23-04.49.17:820][804]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2020.10.23-04.49.18:261][804]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2020.10.23-04.49.18:391][804]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2020.10.23-04.49.18:525][804]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.10.23-04.49.18:542][804]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant_0, compiling. 
+[2020.10.23-04.50.14:225][986]MaterialEditorStats: Base pass shader: 50 instructions
+[2020.10.23-04.50.14:225][986]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 77 instructions
+[2020.10.23-04.50.14:225][986]MaterialEditorStats: Vertex shader: 122 instructions
+[2020.10.23-04.50.14:225][986]MaterialEditorStats: Texture samplers: 3/16
+[2020.10.23-04.50.21:438][182]LogMaterialEditor: Saving and Compiling material vidrio
+[2020.10.23-04.50.21:578][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3DModels/V/vidrio" FILE="../../../../../../Users/DANIEL_FS/Documents/GitHub/MuseoVirtualUdeM/Content/3DModels/V/vidrio.uasset" SILENT=true
+[2020.10.23-04.50.21:931][182]LogSavePackage: Save=52.69ms
+[2020.10.23-04.50.21:931][182]LogSavePackage: Moving '../../../../../../Users/DANIEL_FS/Documents/GitHub/MuseoVirtualUdeM/Saved/vidrio9BAFEA054507C274EB676A96AD51BB3E.tmp' to '../../../../../../Users/DANIEL_FS/Documents/GitHub/MuseoVirtualUdeM/Content/3DModels/V/vidrio.uasset'
+[2020.10.23-04.50.21:946][182]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/DANIEL_FS/Documents/GitHub/MuseoVirtualUdeM/Content/3DModels/V/vidrio.uasset
+[2020.10.23-04.52.36:891][742]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/Game" FILE="../../../../../../Users/DANIEL_FS/Documents/GitHub/MuseoVirtualUdeM/Content/Scenes/Game.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.10.23-04.52.38:020][742]LogSavePackage: Save=860.78ms
+[2020.10.23-04.52.38:020][742]LogSavePackage: Moving '../../../../../../Users/DANIEL_FS/Documents/GitHub/MuseoVirtualUdeM/Saved/Game91B4519A4D0A5E53D496CB8FB6A48E84.tmp' to '../../../../../../Users/DANIEL_FS/Documents/GitHub/MuseoVirtualUdeM/Content/Scenes/Game.umap'
+[2020.10.23-04.52.38:032][742]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/DANIEL_FS/Documents/GitHub/MuseoVirtualUdeM/Content/Scenes/Game.umap
+[2020.10.23-04.52.38:196][742]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/Game_BuiltData" FILE="../../../../../../Users/DANIEL_FS/Documents/GitHub/MuseoVirtualUdeM/Content/Scenes/Game_BuiltData.uasset" SILENT=true
+[2020.10.23-04.52.38:441][742]LogSavePackage: Save=72.08ms
+[2020.10.23-04.52.38:442][742]LogSavePackage: Moving '../../../../../../Users/DANIEL_FS/Documents/GitHub/MuseoVirtualUdeM/Saved/Game_BuiltData5C366A644D3513B650D39B8B98858BE3.tmp' to '../../../../../../Users/DANIEL_FS/Documents/GitHub/MuseoVirtualUdeM/Content/Scenes/Game_BuiltData.uasset'
+[2020.10.23-04.52.38:448][742]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/DANIEL_FS/Documents/GitHub/MuseoVirtualUdeM/Content/Scenes/Game_BuiltData.uasset
