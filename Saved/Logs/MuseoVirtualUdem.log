@@ -2039,3 +2039,506 @@ LogInit: Object subsystem initialized
 [2020.10.23-16.11.02:232][539]Cmd: DUPLICATE
 [2020.10.23-16.11.02:232][539]Cmd: ACTOR DUPLICATE
 [2020.10.23-16.11.17:496][239]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMesh)
+[2020.10.23-16.16.34:661][621]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/Game" FILE="C:/Users/USER/Documents/GitHub/MuseoVirtualUdeM/Saved/Autosaves/Game/Scenes/Game_Auto8.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.10.23-16.16.34:951][621]LogSavePackage: Save=250.12ms
+[2020.10.23-16.16.34:951][621]LogSavePackage: Moving 'C:/Users/USER/Documents/GitHub/MuseoVirtualUdeM/Saved/Game_Auto881CF148D42DAD989D4B80BAB8F4F7138.tmp' to 'C:/Users/USER/Documents/GitHub/MuseoVirtualUdeM/Saved/Autosaves/Game/Scenes/Game_Auto8.umap'
+[2020.10.23-16.16.34:952][621]LogSavePackage: Display: Finished SavePackage C:/Users/USER/Documents/GitHub/MuseoVirtualUdeM/Saved/Autosaves/Game/Scenes/Game_Auto8.umap
+[2020.10.23-16.16.34:954][621]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Scenes/Game' took 0.328
+[2020.10.23-16.16.34:954][621]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.328
+[2020.10.23-16.16.34:956][621]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Models/BP_V_Model] ([1] browsable assets)...
+[2020.10.23-16.16.34:993][621]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Models/BP_V_Model.BP_V_Model]
+[2020.10.23-16.16.34:993][621]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Models/BP_V_Model]
+[2020.10.23-16.16.35:139][621]LogSavePackage: Save=105.34ms
+[2020.10.23-16.16.35:139][621]LogSavePackage: Moving 'C:/Users/USER/Documents/GitHub/MuseoVirtualUdeM/Saved/BP_V_Model_Auto832B580CE40285AA431511DADFD770932.tmp' to 'C:/Users/USER/Documents/GitHub/MuseoVirtualUdeM/Saved/Autosaves/Game/Blueprints/Models/BP_V_Model_Auto8.uasset'
+[2020.10.23-16.16.35:140][621]LogSavePackage: Display: Finished SavePackage C:/Users/USER/Documents/GitHub/MuseoVirtualUdeM/Saved/Autosaves/Game/Blueprints/Models/BP_V_Model_Auto8.uasset
+[2020.10.23-16.16.35:140][621]LogFileHelpers: Auto-saving content packages took 0.186
+[2020.10.23-21.41.48:828][ 39]LogEditorViewport: Clicking on Component (LMB): BoxComponent (Box73)
+[2020.10.23-21.41.49:247][ 39]LogEditorViewport: Clicking on Actor (double click): BP_V_Model_C (BP_V_Model)
+[2020.10.23-21.42.15:499][948]Cmd: DUPLICATE
+[2020.10.23-21.42.15:499][948]Cmd: ACTOR DUPLICATE
+[2020.10.23-21.44.33:478][555]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.10.23-21.44.34:835][692]LogEditorViewport: Clicking on Actor (LMB): BP_V_Model_C (BP_V_Model)
+[2020.10.23-21.44.34:886][693]LogEditorViewport: Clicking on Component (LMB): BoxComponent (Box76)
+[2020.10.23-21.44.48:562][258]Cmd: DUPLICATE
+[2020.10.23-21.44.48:562][258]Cmd: ACTOR DUPLICATE
+[2020.10.23-21.45.11:484][864]LogEditorViewport: Clicking on Component (context menu): StaticMeshComponent (StaticMesh)
+[2020.10.23-21.45.27:372][657]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor)
+[2020.10.23-21.45.28:634][791]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.10.23-21.45.36:420][700]LogEditorViewport: Clicking on Actor (LMB): BP_V_Model_C (BP_V_Model)
+[2020.10.23-21.45.45:194][725]Cmd: DUPLICATE
+[2020.10.23-21.45.45:194][725]Cmd: ACTOR DUPLICATE
+[2020.10.23-21.46.24:873][322]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMesh)
+[2020.10.23-21.46.24:902][322]LogEditorViewport: Clicking on Actor (double click): BP_V_Model_C (BP_V_Model)
+[2020.10.23-21.46.50:415][330]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/Game" FILE="C:/Users/USER/Documents/GitHub/MuseoVirtualUdeM/Saved/Autosaves/Game/Scenes/Game_Auto9.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.10.23-21.46.51:458][330]LogSavePackage: Save=963.49ms
+[2020.10.23-21.46.51:458][330]LogSavePackage: Moving 'C:/Users/USER/Documents/GitHub/MuseoVirtualUdeM/Saved/Game_Auto9F2BD8DB84B6D23D00CFDE5A290E92075.tmp' to 'C:/Users/USER/Documents/GitHub/MuseoVirtualUdeM/Saved/Autosaves/Game/Scenes/Game_Auto9.umap'
+[2020.10.23-21.46.51:460][330]LogSavePackage: Display: Finished SavePackage C:/Users/USER/Documents/GitHub/MuseoVirtualUdeM/Saved/Autosaves/Game/Scenes/Game_Auto9.umap
+[2020.10.23-21.46.51:461][330]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Scenes/Game' took 1.199
+[2020.10.23-21.46.51:461][330]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.199
+[2020.10.23-21.46.59:319][269]LogEditorViewport: Clicking on Actor (LMB): BP_V_Model_C (BP_V_Model)
+[2020.10.23-21.46.59:402][273]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMesh)
+[2020.10.23-21.47.00:055][341]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMesh)
+[2020.10.23-21.47.00:151][348]LogEditorViewport: Clicking on Actor (double click): BP_V_Model_C (BP_V_Model)
+[2020.10.23-21.47.00:388][372]LogEditorViewport: Clicking on Actor (LMB): BP_V_Model_C (BP_V_Model)
+[2020.10.23-21.47.03:847][767]LogEditorViewport: Clicking on Actor (LMB): BP_V_Model_C (BP_V_Model)
+[2020.10.23-21.47.03:901][770]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMesh)
+[2020.10.23-21.47.04:422][826]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMesh)
+[2020.10.23-21.47.04:495][832]LogEditorViewport: Clicking on Actor (double click): BP_V_Model_C (BP_V_Model)
+[2020.10.23-21.47.04:971][885]LogEditorViewport: Clicking on Actor (LMB): BP_V_Model_C (BP_V_Model)
+[2020.10.23-21.47.05:258][916]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMesh)
+[2020.10.23-21.47.06:363][ 42]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMesh)
+[2020.10.23-21.47.06:421][ 46]LogEditorViewport: Clicking on Actor (double click): BP_V_Model_C (BP_V_Model)
+[2020.10.23-21.47.06:652][ 70]LogEditorViewport: Clicking on Actor (LMB): BP_V_Model_C (BP_V_Model)
+[2020.10.23-21.47.06:687][ 71]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMesh)
+[2020.10.23-21.47.07:266][134]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMesh)
+[2020.10.23-21.47.07:323][138]LogEditorViewport: Clicking on Actor (double click): BP_V_Model_C (BP_V_Model)
+[2020.10.23-21.47.07:788][190]LogEditorViewport: Clicking on Actor (LMB): BP_V_Model_C (BP_V_Model)
+[2020.10.23-21.47.08:015][214]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMesh)
+[2020.10.23-21.47.08:332][246]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMesh)
+[2020.10.23-21.47.08:407][252]LogEditorViewport: Clicking on Actor (double click): BP_V_Model_C (BP_V_Model)
+[2020.10.23-21.47.08:629][275]LogEditorViewport: Clicking on Actor (LMB): BP_V_Model_C (BP_V_Model)
+[2020.10.23-21.47.08:723][283]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMesh)
+[2020.10.23-21.47.08:950][304]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMesh)
+[2020.10.23-21.47.09:023][310]LogEditorViewport: Clicking on Actor (double click): BP_V_Model_C (BP_V_Model)
+[2020.10.23-21.47.09:263][335]LogEditorViewport: Clicking on Actor (LMB): BP_V_Model_C (BP_V_Model)
+[2020.10.23-21.47.09:322][339]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMesh)
+[2020.10.23-21.47.09:545][360]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMesh)
+[2020.10.23-21.47.34:789][268]Cmd: DUPLICATE
+[2020.10.23-21.47.34:790][268]Cmd: ACTOR DUPLICATE
+[2020.10.23-21.48.11:010][441]Cmd: DUPLICATE
+[2020.10.23-21.48.11:010][441]Cmd: ACTOR DUPLICATE
+[2020.10.23-21.48.46:856][611]Cmd: DUPLICATE
+[2020.10.23-21.48.46:856][611]Cmd: ACTOR DUPLICATE
+[2020.10.23-21.48.59:983][132]Cmd: DUPLICATE
+[2020.10.23-21.48.59:983][132]Cmd: ACTOR DUPLICATE
+[2020.10.23-21.49.14:073][734]Cmd: DUPLICATE
+[2020.10.23-21.49.14:074][734]Cmd: ACTOR DUPLICATE
+[2020.10.23-21.49.38:511][560]Cmd: DUPLICATE
+[2020.10.23-21.49.38:511][560]Cmd: ACTOR DUPLICATE
+[2020.10.23-21.49.51:599][ 69]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMesh)
+[2020.10.23-21.50.13:494][632]Cmd: DUPLICATE
+[2020.10.23-21.50.13:494][632]Cmd: ACTOR DUPLICATE
+[2020.10.23-21.50.30:048][556]Cmd: DUPLICATE
+[2020.10.23-21.50.30:049][556]Cmd: ACTOR DUPLICATE
+[2020.10.23-21.50.40:891][806]Cmd: DUPLICATE
+[2020.10.23-21.50.40:891][806]Cmd: ACTOR DUPLICATE
+[2020.10.23-21.50.54:815][426]Cmd: DUPLICATE
+[2020.10.23-21.50.54:815][426]Cmd: ACTOR DUPLICATE
+[2020.10.23-21.51.12:825][494]Cmd: DUPLICATE
+[2020.10.23-21.51.12:825][494]Cmd: ACTOR DUPLICATE
+[2020.10.23-21.51.34:017][947]Cmd: DUPLICATE
+[2020.10.23-21.51.34:017][947]Cmd: ACTOR DUPLICATE
+[2020.10.23-21.52.04:261][432]Cmd: DUPLICATE
+[2020.10.23-21.52.04:262][432]Cmd: ACTOR DUPLICATE
+[2020.10.23-21.52.25:892][887]Cmd: DUPLICATE
+[2020.10.23-21.52.25:892][887]Cmd: ACTOR DUPLICATE
+[2020.10.23-21.52.37:844][269]Cmd: DUPLICATE
+[2020.10.23-21.52.37:845][269]Cmd: ACTOR DUPLICATE
+[2020.10.23-21.53.06:303][534]Cmd: DUPLICATE
+[2020.10.23-21.53.06:303][534]Cmd: ACTOR DUPLICATE
+[2020.10.23-21.53.21:358][269]Cmd: DUPLICATE
+[2020.10.23-21.53.21:358][269]Cmd: ACTOR DUPLICATE
+[2020.10.23-21.53.43:964][868]Cmd: DUPLICATE
+[2020.10.23-21.53.43:964][868]Cmd: ACTOR DUPLICATE
+[2020.10.23-21.53.52:303][820]Cmd: DUPLICATE
+[2020.10.23-21.53.52:303][820]Cmd: ACTOR DUPLICATE
+[2020.10.23-21.54.12:736][168]Cmd: DUPLICATE
+[2020.10.23-21.54.12:736][168]Cmd: ACTOR DUPLICATE
+[2020.10.23-21.54.39:580][236]Cmd: DUPLICATE
+[2020.10.23-21.54.39:580][236]Cmd: ACTOR DUPLICATE
+[2020.10.23-21.54.55:203][ 43]Cmd: DUPLICATE
+[2020.10.23-21.54.55:203][ 43]Cmd: ACTOR DUPLICATE
+[2020.10.23-21.55.07:052][393]Cmd: DUPLICATE
+[2020.10.23-21.55.07:052][393]Cmd: ACTOR DUPLICATE
+[2020.10.23-21.57.19:960][374]Cmd: TRANSACTION UNDO
+[2020.10.23-21.57.19:960][374]LogEditorTransaction: Undo Scale Components
+[2020.10.23-21.57.31:679][618]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMesh)
+[2020.10.23-21.57.45:707][194]Cmd: TRANSACTION UNDO
+[2020.10.23-21.57.45:707][194]LogEditorTransaction: Undo Scale Components
+[2020.10.23-21.57.57:343][439]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.10.23-21.57.59:541][684]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.10.23-21.57.59:596][688]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2020.10.23-21.58.00:931][838]LogEditorViewport: Clicking on Actor (LMB): BP_V_Model_C (BP_V_Model)
+[2020.10.23-21.58.00:991][840]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMesh)
+[2020.10.23-22.00.05:786][962]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.10.23-22.00.09:131][347]LogEditorViewport: Clicking on Actor (LMB): BP_V_Model_C (BP_V_Model)
+[2020.10.23-22.00.38:913][735]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMesh)
+[2020.10.23-22.02.43:089][645]Cmd: DUPLICATE
+[2020.10.23-22.02.43:089][645]Cmd: ACTOR DUPLICATE
+[2020.10.23-22.03.08:501][502]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMesh)
+[2020.10.23-22.03.47:292][837]LogEditorViewport: Clicking on Actor (context menu): BP_V_Model_C (BP_V_Model)
+[2020.10.23-22.04.05:712][870]Cmd: DUPLICATE
+[2020.10.23-22.04.05:712][870]Cmd: ACTOR DUPLICATE
+[2020.10.23-22.04.34:268][982]Cmd: DUPLICATE
+[2020.10.23-22.04.34:268][982]Cmd: ACTOR DUPLICATE
+[2020.10.23-22.04.47:058][311]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.10.23-22.04.49:501][590]LogEditorViewport: Clicking on Actor (LMB): BP_V_Model_C (BP_V_Model)
+[2020.10.23-22.04.58:373][611]Cmd: DUPLICATE
+[2020.10.23-22.04.58:373][611]Cmd: ACTOR DUPLICATE
+[2020.10.23-22.05.09:978][905]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor)
+[2020.10.23-22.05.11:614][ 86]LogEditorViewport: Clicking on Actor (LMB): BP_V_Model_C (BP_V_Model)
+[2020.10.23-22.05.52:396][707]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.10.23-22.05.53:837][872]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.10.23-22.05.54:278][921]LogEditorViewport: Clicking on Actor (LMB): BP_V_Model_C (BP_V_Model)
+[2020.10.23-22.06.23:386][179]Cmd: DUPLICATE
+[2020.10.23-22.06.23:386][179]Cmd: ACTOR DUPLICATE
+[2020.10.23-22.06.35:428][547]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.10.23-22.06.37:041][731]LogEditorViewport: Clicking on Actor (LMB): BP_V_Model_C (BP_V_Model)
+[2020.10.23-22.07.41:448][ 28]Cmd: DUPLICATE
+[2020.10.23-22.07.41:448][ 28]Cmd: ACTOR DUPLICATE
+[2020.10.23-22.07.58:541][970]Cmd: TRANSACTION UNDO
+[2020.10.23-22.07.58:542][970]LogEditorTransaction: Undo Move Components
+[2020.10.23-22.07.58:796][991]Cmd: TRANSACTION UNDO
+[2020.10.23-22.07.58:796][991]LogEditorTransaction: Undo Move Components
+[2020.10.23-22.07.59:026][  8]Cmd: TRANSACTION UNDO
+[2020.10.23-22.07.59:026][  8]LogEditorTransaction: Undo Move Components
+[2020.10.23-22.07.59:327][ 37]Cmd: TRANSACTION UNDO
+[2020.10.23-22.07.59:327][ 37]LogEditorTransaction: Undo Move Components
+[2020.10.23-22.07.59:595][ 64]Cmd: TRANSACTION UNDO
+[2020.10.23-22.07.59:595][ 64]LogEditorTransaction: Undo Move Components
+[2020.10.23-22.08.37:820][407]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.10.23-22.08.38:972][537]LogEditorViewport: Clicking on Actor (LMB): BP_V_Model_C (BP_V_Model)
+[2020.10.23-22.09.43:117][ 19]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/Game" FILE="C:/Users/USER/Documents/GitHub/MuseoVirtualUdeM/Saved/Autosaves/Game/Scenes/Game_Auto0.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.10.23-22.09.43:889][ 19]LogSavePackage: Save=703.25ms
+[2020.10.23-22.09.43:889][ 19]LogSavePackage: Moving 'C:/Users/USER/Documents/GitHub/MuseoVirtualUdeM/Saved/Game_Auto080C8DD134BA57E02B26FB38F89BDF08A.tmp' to 'C:/Users/USER/Documents/GitHub/MuseoVirtualUdeM/Saved/Autosaves/Game/Scenes/Game_Auto0.umap'
+[2020.10.23-22.09.43:891][ 19]LogSavePackage: Display: Finished SavePackage C:/Users/USER/Documents/GitHub/MuseoVirtualUdeM/Saved/Autosaves/Game/Scenes/Game_Auto0.umap
+[2020.10.23-22.09.43:893][ 19]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Scenes/Game' took 1.453
+[2020.10.23-22.09.43:893][ 19]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.453
+[2020.10.23-22.09.43:896][ 19]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Models/BP_V_Model] ([1] browsable assets)...
+[2020.10.23-22.09.43:956][ 19]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Models/BP_V_Model.BP_V_Model]
+[2020.10.23-22.09.43:956][ 19]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Models/BP_V_Model]
+[2020.10.23-22.09.44:304][ 19]LogSavePackage: Save=262.55ms
+[2020.10.23-22.09.44:304][ 19]LogSavePackage: Moving 'C:/Users/USER/Documents/GitHub/MuseoVirtualUdeM/Saved/BP_V_Model_Auto0901A11DD4941A608BB09F8909D12DEB1.tmp' to 'C:/Users/USER/Documents/GitHub/MuseoVirtualUdeM/Saved/Autosaves/Game/Blueprints/Models/BP_V_Model_Auto0.uasset'
+[2020.10.23-22.09.44:307][ 19]LogSavePackage: Display: Finished SavePackage C:/Users/USER/Documents/GitHub/MuseoVirtualUdeM/Saved/Autosaves/Game/Blueprints/Models/BP_V_Model_Auto0.uasset
+[2020.10.23-22.09.44:307][ 19]LogFileHelpers: Auto-saving content packages took 0.413
+[2020.10.23-22.10.17:795][913]Cmd: TRANSACTION UNDO
+[2020.10.23-22.10.17:795][913]LogEditorTransaction: Undo Move Components
+[2020.10.23-22.10.50:280][622]Cmd: DUPLICATE
+[2020.10.23-22.10.50:280][622]Cmd: ACTOR DUPLICATE
+[2020.10.23-22.10.52:303][855]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMesh)
+[2020.10.23-22.11.22:823][334]LogEditorViewport: Clicking on Actor (context menu): BP_V_Model_C (BP_V_Model)
+[2020.10.23-22.11.54:166][942]Cmd: DUPLICATE
+[2020.10.23-22.11.54:166][942]Cmd: ACTOR DUPLICATE
+[2020.10.23-22.12.43:161][517]Cmd: DUPLICATE
+[2020.10.23-22.12.43:161][517]Cmd: ACTOR DUPLICATE
+[2020.10.23-22.13.16:987][358]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMesh)
+[2020.10.23-22.14.08:627][240]Cmd: DUPLICATE
+[2020.10.23-22.14.08:627][240]Cmd: ACTOR DUPLICATE
+[2020.10.23-22.14.53:684][372]Cmd: DUPLICATE
+[2020.10.23-22.14.53:684][372]Cmd: ACTOR DUPLICATE
+[2020.10.23-22.15.26:872][214]Cmd: DUPLICATE
+[2020.10.23-22.15.26:872][214]Cmd: ACTOR DUPLICATE
+[2020.10.23-22.16.12:691][501]Cmd: DUPLICATE
+[2020.10.23-22.16.12:691][501]Cmd: ACTOR DUPLICATE
+[2020.10.23-22.16.52:179][ 35]Cmd: DUPLICATE
+[2020.10.23-22.16.52:179][ 35]Cmd: ACTOR DUPLICATE
+[2020.10.23-22.17.50:149][719]Cmd: DUPLICATE
+[2020.10.23-22.17.50:149][719]Cmd: ACTOR DUPLICATE
+[2020.10.23-22.18.23:243][542]Cmd: DUPLICATE
+[2020.10.23-22.18.23:243][542]Cmd: ACTOR DUPLICATE
+[2020.10.23-22.19.44:269][ 42]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/Game" FILE="C:/Users/USER/Documents/GitHub/MuseoVirtualUdeM/Saved/Autosaves/Game/Scenes/Game_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.10.23-22.19.44:665][ 42]LogSavePackage: Save=352.08ms
+[2020.10.23-22.19.44:665][ 42]LogSavePackage: Moving 'C:/Users/USER/Documents/GitHub/MuseoVirtualUdeM/Saved/Game_Auto1615C6A8C46F24D8247A170BA2BC0CA7F.tmp' to 'C:/Users/USER/Documents/GitHub/MuseoVirtualUdeM/Saved/Autosaves/Game/Scenes/Game_Auto1.umap'
+[2020.10.23-22.19.44:667][ 42]LogSavePackage: Display: Finished SavePackage C:/Users/USER/Documents/GitHub/MuseoVirtualUdeM/Saved/Autosaves/Game/Scenes/Game_Auto1.umap
+[2020.10.23-22.19.44:669][ 42]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Scenes/Game' took 0.426
+[2020.10.23-22.19.44:669][ 42]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.426
+[2020.10.23-22.24.48:791][682]Cmd: DUPLICATE
+[2020.10.23-22.24.48:791][682]Cmd: ACTOR DUPLICATE
+[2020.10.23-22.25.27:373][124]Cmd: DUPLICATE
+[2020.10.23-22.25.27:373][124]Cmd: ACTOR DUPLICATE
+[2020.10.23-22.26.23:063][560]Cmd: DUPLICATE
+[2020.10.23-22.26.23:063][560]Cmd: ACTOR DUPLICATE
+[2020.10.23-22.26.59:153][689]Cmd: DUPLICATE
+[2020.10.23-22.26.59:153][689]Cmd: ACTOR DUPLICATE
+[2020.10.23-22.28.06:236][346]Cmd: DUPLICATE
+[2020.10.23-22.28.06:236][346]Cmd: ACTOR DUPLICATE
+[2020.10.23-22.28.50:528][401]Cmd: DUPLICATE
+[2020.10.23-22.28.50:528][401]Cmd: ACTOR DUPLICATE
+[2020.10.23-22.29.21:152][921]Cmd: DUPLICATE
+[2020.10.23-22.29.21:152][921]Cmd: ACTOR DUPLICATE
+[2020.10.23-22.29.50:027][465]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/Game" FILE="C:/Users/USER/Documents/GitHub/MuseoVirtualUdeM/Saved/Autosaves/Game/Scenes/Game_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.10.23-22.29.50:492][465]LogSavePackage: Save=423.07ms
+[2020.10.23-22.29.50:492][465]LogSavePackage: Moving 'C:/Users/USER/Documents/GitHub/MuseoVirtualUdeM/Saved/Game_Auto2FAEE11F041A5ED972CC4AC89CCDC43BC.tmp' to 'C:/Users/USER/Documents/GitHub/MuseoVirtualUdeM/Saved/Autosaves/Game/Scenes/Game_Auto2.umap'
+[2020.10.23-22.29.50:494][465]LogSavePackage: Display: Finished SavePackage C:/Users/USER/Documents/GitHub/MuseoVirtualUdeM/Saved/Autosaves/Game/Scenes/Game_Auto2.umap
+[2020.10.23-22.29.50:495][465]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Scenes/Game' took 0.500
+[2020.10.23-22.29.50:496][465]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.500
+[2020.10.23-22.30.49:592][137]Cmd: DUPLICATE
+[2020.10.23-22.30.49:604][137]Cmd: ACTOR DUPLICATE
+[2020.10.23-22.32.05:573][586]Cmd: DUPLICATE
+[2020.10.23-22.32.05:573][586]Cmd: ACTOR DUPLICATE
+[2020.10.23-22.32.27:490][119]LogEditorViewport: Clicking on Component (context menu): StaticMeshComponent (StaticMesh)
+[2020.10.23-22.32.29:074][286]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMesh)
+[2020.10.23-22.32.57:099][538]LogEditorViewport: Clicking on Component (context menu): StaticMeshComponent (StaticMesh)
+[2020.10.23-22.35.19:338][179]Cmd: DUPLICATE
+[2020.10.23-22.35.19:338][179]Cmd: ACTOR DUPLICATE
+[2020.10.23-22.35.51:555][926]Cmd: DUPLICATE
+[2020.10.23-22.35.51:555][926]Cmd: ACTOR DUPLICATE
+[2020.10.23-22.36.40:005][598]Cmd: DUPLICATE
+[2020.10.23-22.36.40:005][598]Cmd: ACTOR DUPLICATE
+[2020.10.23-22.39.51:189][886]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/Game" FILE="C:/Users/USER/Documents/GitHub/MuseoVirtualUdeM/Saved/Autosaves/Game/Scenes/Game_Auto3.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.10.23-22.39.51:610][886]LogSavePackage: Save=377.77ms
+[2020.10.23-22.39.51:610][886]LogSavePackage: Moving 'C:/Users/USER/Documents/GitHub/MuseoVirtualUdeM/Saved/Game_Auto3B51F817F48362137D9B55B9AB0AED913.tmp' to 'C:/Users/USER/Documents/GitHub/MuseoVirtualUdeM/Saved/Autosaves/Game/Scenes/Game_Auto3.umap'
+[2020.10.23-22.39.51:612][886]LogSavePackage: Display: Finished SavePackage C:/Users/USER/Documents/GitHub/MuseoVirtualUdeM/Saved/Autosaves/Game/Scenes/Game_Auto3.umap
+[2020.10.23-22.39.51:614][886]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Scenes/Game' took 0.459
+[2020.10.23-22.39.51:614][886]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.459
+[2020.10.23-22.40.13:626][429]Cmd: DUPLICATE
+[2020.10.23-22.40.13:626][429]Cmd: ACTOR DUPLICATE
+[2020.10.23-22.40.40:460][568]Cmd: DUPLICATE
+[2020.10.23-22.40.40:460][568]Cmd: ACTOR DUPLICATE
+[2020.10.23-22.42.38:532][680]Cmd: DUPLICATE
+[2020.10.23-22.42.38:532][680]Cmd: ACTOR DUPLICATE
+[2020.10.23-22.43.11:049][454]Cmd: DUPLICATE
+[2020.10.23-22.43.11:049][454]Cmd: ACTOR DUPLICATE
+[2020.10.23-22.43.35:179][258]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMesh)
+[2020.10.23-22.44.03:158][493]Cmd: DUPLICATE
+[2020.10.23-22.44.03:159][493]Cmd: ACTOR DUPLICATE
+[2020.10.23-22.45.18:921][201]Cmd: DUPLICATE
+[2020.10.23-22.45.18:921][201]Cmd: ACTOR DUPLICATE
+[2020.10.23-22.46.16:146][795]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.23-22.46.16:181][795]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Scenes/Game.Game:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/Game.Game:PersistentLevel.Game' with GeneratedClass '/Game/Scenes/Game.Game_C' with ClassGeneratedBy '/Game/Scenes/Game.Game:PersistentLevel.Game'
+[2020.10.23-22.46.16:181][795]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.23-22.46.16:182][795]PIE: New page: Sesión PIE (reproducción en el editor): Game (23/10/2020 12:46:16 p. m.)
+[2020.10.23-22.46.16:182][795]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_1_Game
+[2020.10.23-22.46.16:199][795]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016310s)
+[2020.10.23-22.46.16:231][795]LogAIModule: Creating AISystem for world Game
+[2020.10.23-22.46.16:231][795]LogPlayLevel: PIE: World Init took: (0.032769s)
+[2020.10.23-22.46.16:232][795]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/Game.Game to /Game/Scenes/UEDPIE_1_Game.Game (0.049509s)
+[2020.10.23-22.46.16:309][795]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2020.10.23-22.46.16:415][795]LogInit: FAudioDevice initialized.
+[2020.10.23-22.46.16:485][795]LogLoad: Game class is 'BP_GameMode_C'
+[2020.10.23-22.46.16:514][795]LogWorld: Bringing World /Game/Scenes/UEDPIE_1_Game.Game up for play (max tick rate 0) at 2020.10.23-17.46.16
+[2020.10.23-22.46.16:517][795]LogWorld: Bringing up level for play took: 0.028286
+[2020.10.23-22.46.16:521][795]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.10.23-22.46.16:521][795]LogTemp: Display: ParseSettings for IpNetDriver_18
+[2020.10.23-22.46.16:522][795]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.10.23-22.46.16:522][795]LogInit: WinSock: Socket queue 131072 / 131072
+[2020.10.23-22.46.16:524][795]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2020.10.23-22.46.16:524][795]LogNet: GameNetDriver IpNetDriver_18 IpNetDriver listening on port 17777
+[2020.10.23-22.46.16:524][795]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.10.23-22.46.16:524][795]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.10.23-22.46.16:524][795]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.10.23-22.46.16:532][795]UGameSparksModuleLog: Warning: GameSparks::Initialize
+[2020.10.23-22.46.16:553][795]UGameSparksModuleLog: Initialized
+[2020.10.23-22.46.16:570][795]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.10.23-22.46.16:570][795]PIE: Tiempo de inicio de la reproducción en el editor para  /Game/Scenes/UEDPIE_1_Game 0,449
+[2020.10.23-22.46.16:575][795]PIE: New page: Sesión PIE (reproducción en el editor): Game (23/10/2020 12:46:16 p. m.)
+[2020.10.23-22.46.16:675][795]LogNet: Browse: 127.0.0.1:17777//Game/Scenes/Game
+[2020.10.23-22.46.16:675][795]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.10.23-22.46.16:676][795]LogTemp: Display: ParseSettings for IpNetDriver_19
+[2020.10.23-22.46.16:676][795]LogTemp: Display: ParseSettings for PendingNetDriver
+[2020.10.23-22.46.16:676][795]LogInit: WinSock: Socket queue 32768 / 32768
+[2020.10.23-22.46.16:677][795]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2020.10.23-22.46.16:677][795]LogNet: Game client on port 17777, rate 10000
+[2020.10.23-22.46.16:683][795]PIE: Tiempo de inicio de la reproducción en el editor para  /Game/Scenes/Game 0,561
+[2020.10.23-22.46.16:689][795]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Scenes/Game.Game:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/Game.Game:PersistentLevel.Game' with GeneratedClass '/Game/Scenes/Game.Game_C' with ClassGeneratedBy '/Game/Scenes/Game.Game:PersistentLevel.Game'
+[2020.10.23-22.46.16:690][795]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:64789
+[2020.10.23-22.46.16:690][795]LogHandshake: SendConnectChallenge. Timestamp: 0.008333, Cookie: 013134186202214148011014153195099246036028044252254227018025
+[2020.10.23-22.46.16:714][795]LogHandshake: SendChallengeResponse. Timestamp: 0.008333, Cookie: 013134186202214148011014153195099246036028044252254227018025
+[2020.10.23-22.46.16:715][795]UGameSparksModuleLog: Create new connection
+[2020.10.23-22.46.16:716][795]UGameSparksModuleLog: WebSocket closed
+[2020.10.23-22.46.17:770][796]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:64789
+[2020.10.23-22.46.17:770][796]LogHandshake: SendChallengeAck. InCookie: 013134186202214148011014153195099246036028044252254227018025
+[2020.10.23-22.46.17:770][796]LogNet: Server accepting post-challenge connection from: 127.0.0.1:64789
+[2020.10.23-22.46.17:771][796]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2020.10.23-22.46.17:771][796]LogNet: NotifyAcceptedConnection: Name: Game, TimeStamp: 10/23/20 17:46:17, [UNetConnection] RemoteAddr: 127.0.0.1:64789, Name: IpConnection_19, Driver: GameNetDriver IpNetDriver_18, IsServer: YES, PC: NULL, Owner: NULL
+[2020.10.23-22.46.17:771][796]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:64789, Name: IpConnection_19, Driver: GameNetDriver IpNetDriver_18, IsServer: YES, PC: NULL, Owner: NULL
+[2020.10.23-22.46.17:798][796]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_18, Driver: PendingNetDriver IpNetDriver_19, IsServer: NO, PC: NULL, Owner: NULL
+[2020.10.23-22.46.17:812][797]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Scenes/UEDPIE_1_Game.Game: Accepted
+[2020.10.23-22.46.17:812][797]LogNet: Remote platform little endian=1
+[2020.10.23-22.46.17:812][797]LogNet: This platform little endian=1
+[2020.10.23-22.46.17:814][797]UGameSparksModuleLog: WebSocket callback: {"@class": ".AuthenticatedConnectResponse","connectUrl": "wss://gsp-aeu000-se04.gamesparks.net/ws/device/293711ZXWjA9","requestId": "0"}
+[2020.10.23-22.46.17:814][797]UGameSparksModuleLog: Received new connection url from gamesparks backend. Establishing new connection now.
+[2020.10.23-22.46.17:814][797]UGameSparksModuleLog: Create new connection
+[2020.10.23-22.46.17:815][797]UGameSparksModuleLog: Handle authentication connect response with immediate handshake
+[2020.10.23-22.46.17:815][797]UGameSparksModuleLog: WebSocket closed
+[2020.10.23-22.46.17:823][798]LogNet: Login request: /Game/Scenes/Game userId: Invalid
+[2020.10.23-22.46.17:825][798]LogNet: Welcomed by server (Level: /Game/Scenes/UEDPIE_1_Game, Game: /Game/Blueprints/BP_GameMode.BP_GameMode_C)
+[2020.10.23-22.46.17:825][798]LogLoad: LoadMap: 127.0.0.1:17777//Game/Scenes/UEDPIE_1_Game?game=/Game/Blueprints/BP_GameMode.BP_GameMode_C
+[2020.10.23-22.46.18:317][798]LogAIModule: Creating AISystem for world Game
+[2020.10.23-22.46.18:317][798]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.10.23-22.46.18:336][798]LogWorld: Bringing World /Game/Scenes/UEDPIE_2_Game.Game up for play (max tick rate 0) at 2020.10.23-17.46.18
+[2020.10.23-22.46.18:337][798]LogWorld: Bringing up level for play took: 0.018656
+[2020.10.23-22.46.18:338][798]LogLoad: Took 0.512147 seconds to LoadMap(/Game/Scenes/UEDPIE_1_Game)
+[2020.10.23-22.46.18:350][799]LogNet: Client netspeed is 10000
+[2020.10.23-22.46.18:350][799]LogNet: Join request: /Game/Scenes/Game?SplitscreenCount=1
+[2020.10.23-22.46.18:353][799]LogNet: Join succeeded: User275
+[2020.10.23-22.46.19:084][870]UGameSparksModuleLog: WebSocket callback: {"@class":".AuthenticatedConnectResponse","nonce":"a2af71ed-427c-4846-8e73-e1f409865d03","requestId":"0"}
+[2020.10.23-22.46.19:084][870]UGameSparksModuleLog: Handle authentication connect response with immediate handshake
+[2020.10.23-22.46.19:085][870]UGameSparksModuleLog: Send immediate request: {
+	"@class":	".AuthenticatedConnectRequest",
+	"hmac":	"3UyT6iptsiMikCs3lkkNZEiOuCTN4+7Q8A+i4MmUjuw=",
+	"os":	"Windows",
+	"platform":	"Windows",
+	"deviceId":	"6ca7a886a5ff7b8a32e40cec051f964f",
+	"deviceStats":	{
+		"cpu.cores":	"4",
+		"cpu.vendor":	"Intel(R) Core(TM) i5-7400 CPU @ 3.00GHz",
+		"engine":	"Unreal Engine",
+		"engine.version":	"4.18.0",
+		"manufacturer":	"Microsoft",
+		"memory":	"8137 MB",
+		"model":	"PC",
+		"os.name":	"Windows",
+		"os.version":	"10.0.18362.1082",
+		"os.version.major":	"10",
+		"os.version.major.minor":	"10.0",
+		"resolution":	"1920x1080",
+		"gssdk":	"1.1.18.0"
+	},
+	"authToken":	"d0b9ba6f-d6d6-4166-aaf9-ce4cea55e717",
+	"sessionId":	"61f338be-9e74-4a05-a7c4-d17f55ec2792"
+}
+[2020.10.23-22.46.19:085][870]UGameSparksModuleLog: Handshake request sent
+[2020.10.23-22.46.19:291][894]UGameSparksModuleLog: WebSocket callback: {"@class":".AuthenticatedConnectResponse","authToken":"b3ba27ff-f958-428a-b5cf-2071cb498601","requestId":"0","sessionId":"61f338be-9e74-4a05-a7c4-d17f55ec2792","userId":"5f62d7cd6dd3e1738bd4fba1"}
+[2020.10.23-22.46.19:291][894]UGameSparksModuleLog: Received auth token
+[2020.10.23-22.46.19:292][894]UGameSparksModuleLog: Handle authentication connect response with immediate handshake
+[2020.10.23-22.46.19:293][894]UGameSparksModuleLog: Warning: GameSparks::GameSparksAvailable_Static
+[2020.10.23-22.46.19:293][894]LogBlueprintUserMessages: [BP_GameMode_C_0] Server: Gamesparks available
+[2020.10.23-22.46.24:206][476]UGameSparksModuleLog: Send immediate request: {
+	"@class":	".AuthenticationRequest",
+	"password":	"flk",
+	"userName":	"flk",
+	"requestId":	"1603493184_10"
+}
+[2020.10.23-22.46.24:401][499]UGameSparksModuleLog: WebSocket callback: {"@class":".AuthenticationResponse","authToken":"9d8ce314-d97b-4bb3-8a7d-8e3d83963eba","displayName":"flk","newPlayer":false,"requestId":"1603493184_10","userId":"5f62d7cd6dd3e1738bd4fba1"}
+[2020.10.23-22.46.24:401][499]UGameSparksModuleLog: Received auth token
+[2020.10.23-22.46.24:401][499]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Server: Hello
+[2020.10.23-22.46.24:411][500]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] Client 1: Hello
+[2020.10.23-22.47.21:973][194]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Scenes/Game.Game:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/Game.Game:PersistentLevel.Game' with GeneratedClass '/Game/Scenes/Game.Game_C' with ClassGeneratedBy '/Game/Scenes/Game.Game:PersistentLevel.Game'
+[2020.10.23-22.47.22:043][194]UGameSparksModuleLog: Warning: GameSparks::Shutdown
+[2020.10.23-22.47.22:043][194]UGameSparksModuleLog: Starting connection terminate
+[2020.10.23-22.47.22:043][194]UGameSparksModuleLog: WebSocket closed
+[2020.10.23-22.47.22:043][194]UGameSparksModuleLog: Connection terminated
+[2020.10.23-22.47.22:043][194]UGameSparksModuleLog: Warning: GameSparks::GameSparksAvailable_Static
+[2020.10.23-22.47.22:044][194]LogBlueprintUserMessages: [BP_GameMode_C_0] Server: Gamesparks unavailable
+[2020.10.23-22.47.22:072][194]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Scenes/Game.Game:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/Game.Game:PersistentLevel.Game' with GeneratedClass '/Game/Scenes/Game.Game_C' with ClassGeneratedBy '/Game/Scenes/Game.Game:PersistentLevel.Game'
+[2020.10.23-22.47.22:128][194]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:64789, Name: IpConnection_19, Driver: GameNetDriver IpNetDriver_18, IsServer: YES, PC: None, Owner: None
+[2020.10.23-22.47.22:129][194]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:64789, Name: IpConnection_19, Driver: GameNetDriver IpNetDriver_18, IsServer: YES, PC: None, Owner: None, Channels: 2, Time: 2020.10.23-22.47.22
+[2020.10.23-22.47.22:129][194]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:64789, Name: IpConnection_19, Driver: GameNetDriver IpNetDriver_18, IsServer: YES, PC: None, Owner: None
+[2020.10.23-22.47.22:129][194]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_18, Driver: GameNetDriver IpNetDriver_19, IsServer: NO, PC: None, Owner: None
+[2020.10.23-22.47.22:129][194]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_18, Driver: GameNetDriver IpNetDriver_19, IsServer: NO, PC: None, Owner: None, Channels: 2, Time: 2020.10.23-22.47.22
+[2020.10.23-22.47.22:129][194]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_18, Driver: GameNetDriver IpNetDriver_19, IsServer: NO, PC: None, Owner: None
+[2020.10.23-22.47.22:156][194]LogExit: GameNetDriver None shut down
+[2020.10.23-22.47.22:157][194]LogExit: GameNetDriver None shut down
+[2020.10.23-22.47.35:957][841]LogEditorViewport: Clicking on Actor (LMB): BP_V_Model_C (BP_V_Model)
+[2020.10.23-22.47.36:031][844]LogEditorViewport: Clicking on Component (LMB): BoxComponent (Box116)
+[2020.10.23-22.47.36:278][869]LogEditorViewport: Clicking on Component (LMB): BoxComponent (Box116)
+[2020.10.23-22.47.44:927][868]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.10.23-22.47.45:020][868]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (Sky Sphere mesh)
+[2020.10.23-22.47.45:686][942]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (Sky Sphere mesh)
+[2020.10.23-22.47.45:947][970]LogEditorViewport: Clicking on Actor (double click): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.10.23-22.47.46:377][  0]LogEditorViewport: Clicking on Actor (LMB): BP_V_Model_C (BP_V_Model)
+[2020.10.23-22.47.46:443][  3]LogEditorViewport: Clicking on Component (LMB): BoxComponent (Box115)
+[2020.10.23-22.47.49:915][411]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMesh)
+[2020.10.23-22.47.49:985][412]LogEditorViewport: Clicking on Actor (double click): BP_V_Model_C (BP_V_Model)
+[2020.10.23-22.47.50:794][503]LogEditorViewport: Clicking on Actor (LMB): BP_V_Model_C (BP_V_Model)
+[2020.10.23-22.47.50:961][520]LogEditorViewport: Clicking on Actor (LMB): BP_V_Model_C (BP_V_Model)
+[2020.10.23-22.47.51:411][571]LogEditorViewport: Clicking on Actor (LMB): BP_V_Model_C (BP_V_Model)
+[2020.10.23-22.47.51:711][604]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMesh)
+[2020.10.23-22.47.52:117][647]LogEditorViewport: Clicking on Component (LMB): BoxComponent (Box114)
+[2020.10.23-22.47.52:194][650]LogEditorViewport: Clicking on Actor (double click): BP_V_Model_C (BP_V_Model)
+[2020.10.23-22.47.52:424][674]LogEditorViewport: Clicking on Actor (LMB): BP_V_Model_C (BP_V_Model)
+[2020.10.23-22.47.52:798][716]LogEditorViewport: Clicking on Component (LMB): BoxComponent (Box114)
+[2020.10.23-22.47.53:017][738]LogEditorViewport: Clicking on Component (LMB): BoxComponent (Box114)
+[2020.10.23-22.47.58:962][426]LogEditorViewport: Clicking on Component (LMB): BoxComponent (Box112)
+[2020.10.23-22.47.59:018][427]LogEditorViewport: Clicking on Actor (double click): BP_V_Model_C (BP_V_Model)
+[2020.10.23-22.47.59:698][505]LogEditorViewport: Clicking on Actor (LMB): BP_V_Model_C (BP_V_Model)
+[2020.10.23-22.47.59:766][510]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMesh)
+[2020.10.23-22.48.00:396][579]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMesh)
+[2020.10.23-22.48.00:760][620]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMesh)
+[2020.10.23-22.48.00:957][641]LogEditorViewport: Clicking on Component (LMB): BoxComponent (Box112)
+[2020.10.23-22.48.01:186][662]LogEditorViewport: Clicking on Actor (double click): BP_V_Model_C (BP_V_Model)
+[2020.10.23-22.48.01:666][716]LogEditorViewport: Clicking on Actor (LMB): BP_V_Model_C (BP_V_Model)
+[2020.10.23-22.48.01:710][718]LogEditorViewport: Clicking on Component (LMB): BoxComponent (Box112)
+[2020.10.23-22.48.12:065][930]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMesh)
+[2020.10.23-22.48.12:140][931]LogEditorViewport: Clicking on Actor (double click): BP_V_Model_C (BP_V_Model)
+[2020.10.23-22.48.12:944][ 21]LogEditorViewport: Clicking on Actor (LMB): BP_V_Model_C (BP_V_Model)
+[2020.10.23-22.48.13:006][ 25]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMesh)
+[2020.10.23-22.48.13:830][118]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMesh)
+[2020.10.23-22.48.13:906][124]LogEditorViewport: Clicking on Actor (double click): BP_V_Model_C (BP_V_Model)
+[2020.10.23-22.48.16:596][443]LogEditorViewport: Clicking on Actor (LMB): BP_V_Model_C (BP_V_Model)
+[2020.10.23-22.48.16:655][445]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMesh)
+[2020.10.23-22.48.17:229][502]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMesh)
+[2020.10.23-22.48.17:284][504]LogEditorViewport: Clicking on Actor (double click): BP_V_Model_C (BP_V_Model)
+[2020.10.23-22.48.17:562][533]LogEditorViewport: Clicking on Actor (LMB): BP_V_Model_C (BP_V_Model)
+[2020.10.23-22.48.18:503][641]LogEditorViewport: Clicking on Actor (LMB): BP_V_Model_C (BP_V_Model)
+[2020.10.23-22.48.18:563][643]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMesh)
+[2020.10.23-22.48.19:059][694]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMesh)
+[2020.10.23-22.48.19:141][701]LogEditorViewport: Clicking on Actor (double click): BP_V_Model_C (BP_V_Model)
+[2020.10.23-22.48.19:404][729]LogEditorViewport: Clicking on Actor (LMB): BP_V_Model_C (BP_V_Model)
+[2020.10.23-22.48.19:499][737]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMesh)
+[2020.10.23-22.48.19:813][769]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMesh)
+[2020.10.23-22.48.20:030][792]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMesh)
+[2020.10.23-22.48.20:728][873]LogEditorViewport: Clicking on Component (LMB): BoxComponent (Box107)
+[2020.10.23-22.48.20:790][874]LogEditorViewport: Clicking on Actor (double click): BP_V_Model_C (BP_V_Model)
+[2020.10.23-22.48.21:063][903]LogEditorViewport: Clicking on Actor (LMB): BP_V_Model_C (BP_V_Model)
+[2020.10.23-22.48.21:548][958]LogEditorViewport: Clicking on Actor (LMB): BP_V_Model_C (BP_V_Model)
+[2020.10.23-22.48.21:619][963]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMesh)
+[2020.10.23-22.48.21:872][987]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMesh)
+[2020.10.23-22.48.21:946][993]LogEditorViewport: Clicking on Actor (double click): BP_V_Model_C (BP_V_Model)
+[2020.10.23-22.48.22:578][ 65]LogEditorViewport: Clicking on Actor (LMB): BP_V_Model_C (BP_V_Model)
+[2020.10.23-22.48.22:648][ 70]LogEditorViewport: Clicking on Component (LMB): BoxComponent (Box107)
+[2020.10.23-22.48.22:928][ 99]LogEditorViewport: Clicking on Component (LMB): BoxComponent (Box107)
+[2020.10.23-22.48.22:987][103]LogEditorViewport: Clicking on Actor (double click): BP_V_Model_C (BP_V_Model)
+[2020.10.23-22.48.23:768][193]LogEditorViewport: Clicking on Actor (LMB): BP_V_Model_C (BP_V_Model)
+[2020.10.23-22.48.23:821][196]LogEditorViewport: Clicking on Component (LMB): BoxComponent (Box107)
+[2020.10.23-22.48.39:307][976]LogEditorViewport: Clicking on Component (LMB): BoxComponent (Box111)
+[2020.10.23-22.48.39:383][979]LogEditorViewport: Clicking on Actor (double click): BP_V_Model_C (BP_V_Model)
+[2020.10.23-22.48.39:987][ 48]LogEditorViewport: Clicking on Actor (LMB): BP_V_Model_C (BP_V_Model)
+[2020.10.23-22.48.40:340][ 86]LogEditorViewport: Clicking on Component (LMB): BoxComponent (Box111)
+[2020.10.23-22.48.49:765][162]LogEditorViewport: Clicking on Component (LMB): BoxComponent (Box64)
+[2020.10.23-22.48.59:486][305]LogEditorViewport: Clicking on Component (LMB): BoxComponent (Box121)
+[2020.10.23-22.48.59:563][308]LogEditorViewport: Clicking on Actor (double click): BP_V_Model_C (BP_V_Model)
+[2020.10.23-22.49.00:169][377]LogEditorViewport: Clicking on Actor (LMB): BP_V_Model_C (BP_V_Model)
+[2020.10.23-22.49.00:259][384]LogEditorViewport: Clicking on Component (LMB): BoxComponent (Box121)
+[2020.10.23-22.49.10:056][512]LogEditorViewport: Clicking on Component (LMB): BoxComponent (Box125)
+[2020.10.23-22.49.10:146][517]LogEditorViewport: Clicking on Actor (double click): BP_V_Model_C (BP_V_Model)
+[2020.10.23-22.49.10:658][575]LogEditorViewport: Clicking on Actor (LMB): BP_V_Model_C (BP_V_Model)
+[2020.10.23-22.49.10:908][602]LogEditorViewport: Clicking on Component (LMB): BoxComponent (Box125)
+[2020.10.23-22.49.16:244][221]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMesh)
+[2020.10.23-22.49.16:796][276]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMesh)
+[2020.10.23-22.49.17:225][325]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMesh)
+[2020.10.23-22.49.17:574][364]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMesh)
+[2020.10.23-22.49.17:652][371]LogEditorViewport: Clicking on Actor (double click): BP_V_Model_C (BP_V_Model)
+[2020.10.23-22.49.18:201][433]LogEditorViewport: Clicking on Actor (LMB): BP_V_Model_C (BP_V_Model)
+[2020.10.23-22.49.18:393][453]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMesh)
+[2020.10.23-22.49.18:932][512]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMesh)
+[2020.10.23-22.49.19:013][519]LogEditorViewport: Clicking on Actor (double click): BP_V_Model_C (BP_V_Model)
+[2020.10.23-22.49.19:634][590]LogEditorViewport: Clicking on Actor (LMB): BP_V_Model_C (BP_V_Model)
+[2020.10.23-22.49.19:819][609]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMesh)
+[2020.10.23-22.49.20:283][659]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMesh)
+[2020.10.23-22.49.20:926][733]LogEditorViewport: Clicking on Component (LMB): BoxComponent (Box128)
+[2020.10.23-22.49.24:201][116]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMesh)
+[2020.10.23-22.49.30:312][807]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMesh)
+[2020.10.23-22.49.30:613][840]LogEditorViewport: Clicking on Actor (double click): BP_V_Model_C (BP_V_Model)
+[2020.10.23-22.49.31:118][897]LogEditorViewport: Clicking on Actor (LMB): BP_V_Model_C (BP_V_Model)
+[2020.10.23-22.49.31:425][930]LogEditorViewport: Clicking on Component (LMB): BoxComponent (Box131)
+[2020.10.23-22.49.44:982][478]LogEditorViewport: Clicking on Component (LMB): BoxComponent (Box136)
+[2020.10.23-22.49.45:070][483]LogEditorViewport: Clicking on Actor (double click): BP_V_Model_C (BP_V_Model)
+[2020.10.23-22.49.45:567][538]LogEditorViewport: Clicking on Actor (LMB): BP_V_Model_C (BP_V_Model)
+[2020.10.23-22.49.45:841][568]LogEditorViewport: Clicking on Component (LMB): BoxComponent (Box136)
+[2020.10.23-22.49.46:301][618]LogEditorViewport: Clicking on Component (LMB): BoxComponent (Box136)
+[2020.10.23-22.49.46:405][628]LogEditorViewport: Clicking on Actor (double click): BP_V_Model_C (BP_V_Model)
+[2020.10.23-22.49.46:860][678]LogEditorViewport: Clicking on Actor (LMB): BP_V_Model_C (BP_V_Model)
+[2020.10.23-22.49.47:717][777]LogEditorViewport: Clicking on Actor (LMB): BP_V_Model_C (BP_V_Model)
+[2020.10.23-22.49.47:887][794]LogEditorViewport: Clicking on Component (LMB): BoxComponent (Box136)
+[2020.10.23-22.49.53:665][461]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMesh)
+[2020.10.23-22.49.53:761][462]LogEditorViewport: Clicking on Actor (double click): BP_V_Model_C (BP_V_Model)
+[2020.10.23-22.49.54:277][518]LogEditorViewport: Clicking on Actor (LMB): BP_V_Model_C (BP_V_Model)
+[2020.10.23-22.49.54:336][522]LogEditorViewport: Clicking on Component (LMB): BoxComponent (Box138)
+[2020.10.23-22.50.11:280][475]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMesh)
+[2020.10.23-22.50.11:756][524]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMesh)
+[2020.10.23-22.50.12:460][606]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMesh)
+[2020.10.23-22.50.13:207][693]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMesh)
+[2020.10.23-22.50.13:287][700]LogEditorViewport: Clicking on Actor (double click): BP_V_Model_C (BP_V_Model)
+[2020.10.23-22.50.14:017][784]LogEditorViewport: Clicking on Actor (LMB): BP_V_Model_C (BP_V_Model)
+[2020.10.23-22.50.14:735][867]LogEditorViewport: Clicking on Actor (LMB): BP_V_Model_C (BP_V_Model)
+[2020.10.23-22.50.14:794][871]LogEditorViewport: Clicking on Component (LMB): BoxComponent (Box64)
+[2020.10.23-22.50.34:398][163]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/Game" FILE="C:/Users/USER/Documents/GitHub/MuseoVirtualUdeM/Content/Scenes/Game.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.10.23-22.50.34:781][163]LogSavePackage: Save=319.94ms
+[2020.10.23-22.50.34:782][163]LogSavePackage: Moving 'C:/Users/USER/Documents/GitHub/MuseoVirtualUdeM/Saved/Game785A5D7D44B2FDEA48CF228A780B61C2.tmp' to 'C:/Users/USER/Documents/GitHub/MuseoVirtualUdeM/Content/Scenes/Game.umap'
+[2020.10.23-22.50.34:784][163]LogSavePackage: Display: Finished SavePackage C:/Users/USER/Documents/GitHub/MuseoVirtualUdeM/Content/Scenes/Game.umap
+[2020.10.23-22.50.34:814][163]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/Game_BuiltData" FILE="C:/Users/USER/Documents/GitHub/MuseoVirtualUdeM/Content/Scenes/Game_BuiltData.uasset" SILENT=true
+[2020.10.23-22.50.34:935][163]LogSavePackage: Save=37.32ms
+[2020.10.23-22.50.34:935][163]LogSavePackage: Moving 'C:/Users/USER/Documents/GitHub/MuseoVirtualUdeM/Saved/Game_BuiltData363884B140A1450CCC6757B3F89006AB.tmp' to 'C:/Users/USER/Documents/GitHub/MuseoVirtualUdeM/Content/Scenes/Game_BuiltData.uasset'
+[2020.10.23-22.50.34:937][163]LogSavePackage: Display: Finished SavePackage C:/Users/USER/Documents/GitHub/MuseoVirtualUdeM/Content/Scenes/Game_BuiltData.uasset
